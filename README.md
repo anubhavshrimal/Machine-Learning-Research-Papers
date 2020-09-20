@@ -1,15 +1,20 @@
 # Machine-Learning-Research-Papers 
 
-A list of research papers in the domain of machine learning, deep learning and related fields. I have curated a list of research papers that I come across and read.
+A list of research papers in the domain of machine learning, deep learning and related fields. 
+
+I have curated a list of research papers that I come across and read. I'll keep on updating the list of papers and their summary as I read them every week.
+
+The list of papers can be also viewed based on differentiating criteria's such as (Conference venue, Year Published, Topic Covered, Authors, etc.). 
 
 The following filtered formats are available to view paper's list:
 
 <!-- no toc -->
 - [All Papers](#all-papers)
-- [Conference Filtered Papers](./filtered_conference_wise.md)
-- [Topic Filtered Papers](./filtered_topic_wise.md)
-- [Category Filtered Papers](./filtered_category_wise.md)
-- [Author Filtered Papers](./filtered_author_wise.md)
+- [Conference-wise Filtered Papers](./filtered_conference_wise.md)
+- [Year-wise Filtered Papers](./filtered_year_wise.md)
+- [Topic-wise Filtered Papers](./filtered_topic_wise.md)
+- [Category-wise Filtered Papers](./filtered_category_wise.md)
+- [Author-wise Filtered Papers](./filtered_author_wise.md)
 
 
 ## All Papers
