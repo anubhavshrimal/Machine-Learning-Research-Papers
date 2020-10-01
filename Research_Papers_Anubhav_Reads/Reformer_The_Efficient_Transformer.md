@@ -1,7 +1,7 @@
 # Reformer: The Efficient Transformer
 Author: Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev
 
-Category: Architecture, Optimization: Memory, Optimization: No. of params
+Category: Architecture, Optimization-Memory, Optimization-No. of params
 
 Conference: arXiv
 

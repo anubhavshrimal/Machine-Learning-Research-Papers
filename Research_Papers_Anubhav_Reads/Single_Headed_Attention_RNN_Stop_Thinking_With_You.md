@@ -1,7 +1,7 @@
 # Single Headed Attention RNN: Stop Thinking With Your Head
 Author: Stephen Merity
 
-Category: Optimization: No. of params
+Category: Optimization-No. of params
 
 Conference: arXiv
 

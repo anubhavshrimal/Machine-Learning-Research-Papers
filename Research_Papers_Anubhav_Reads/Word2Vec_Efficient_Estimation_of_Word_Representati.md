@@ -1,4 +1,4 @@
-# Word2Vec: Efficient Estimation of Word Representations in
+# Word2Vec: Efficient Estimation of Word Representations in Vector Space
 Author: Greg Corrado, Jeffrey Dean, Kai Chen, Tomas Mikolov
 
 Category: Embeddings, Tips & Tricks

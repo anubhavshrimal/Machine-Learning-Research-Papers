@@ -1,6 +1,7 @@
 # Author-wise
 
 <!-- no toc -->
+- [Adam Paszke](#Adam-Paszke)
 - [Agata Mosinska](#Agata-Mosinska)
 - [Alec Radford](#Alec-Radford)
 - [Aleksander Madry](#Aleksander-Madry)
@@ -20,7 +21,9 @@
 - [Boaz Barak](#Boaz-Barak)
 - [Christian Szegedy](#Christian-Szegedy)
 - [Dario Amodei](#Dario-Amodei)
+- [David Berthelot](#David-Berthelot)
 - [David J. Schwab](#David-J.-Schwab)
+- [Diederik P. Kingma](#Diederik-P.-Kingma)
 - [Dimitris Metaxas](#Dimitris-Metaxas)
 - [Dimitris Tsipras](#Dimitris-Tsipras)
 - [Dmytro Mishkin](#Dmytro-Mishkin)
@@ -36,25 +39,35 @@
 - [Hao Li](#Hao-Li)
 - [Ian Goodfellow](#Ian-Goodfellow)
 - [Ilya Sutskever](#Ilya-Sutskever)
+- [Jaakko Lehtinen](#Jaakko-Lehtinen)
 - [Jacob Devlin](#Jacob-Devlin)
+- [Jaegul Choo](#Jaegul-Choo)
 - [James J. Little](#James-J.-Little)
 - [Javier Romero](#Javier-Romero)
 - [Jeffrey Dean](#Jeffrey-Dean)
 - [Jeffrey Wu](#Jeffrey-Wu)
 - [Jessica B. Hamrick](#Jessica-B.-Hamrick)
+- [Jiakai Zhang](#Jiakai-Zhang)
+- [Jimmy Ba](#Jimmy-Ba)
 - [Jiri Matas](#Jiri-Matas)
+- [Jitendra Malik](#Jitendra-Malik)
 - [Jonathan Frankle](#Jonathan-Frankle)
 - [Julieta Martinez](#Julieta-Martinez)
 - [Jun Huang](#Jun-Huang)
 - [Jun-Yan Zhu](#Jun-Yan-Zhu)
+- [Jung-Woo Ha](#Jung-Woo-Ha)
 - [Justin Johnson](#Justin-Johnson)
 - [Kai Chen](#Kai-Chen)
 - [Kaiming He](#Kaiming-He)
+- [Ke Li](#Ke-Li)
+- [Larry Davis](#Larry-Davis)
 - [Li Fei-Fei](#Li-Fei-Fei)
 - [Ludovic Denoyer](#Ludovic-Denoyer)
 - [Lukasz Kaiser](#Lukasz-Kaiser)
+- [Luke Metz](#Luke-Metz)
 - [Léon Bottou](#Léon-Bottou)
 - [Marc'Aurelio Ranzato](#Marc'Aurelio-Ranzato)
+- [Mario Fritz](#Mario-Fritz)
 - [Martin Arjovsky](#Martin-Arjovsky)
 - [Masanori Koyama](#Masanori-Koyama)
 - [Mateusz Koziński](#Mateusz-Koziński)
@@ -66,18 +79,26 @@
 - [Michael Carbin](#Michael-Carbin)
 - [Ming-Wei Chang](#Ming-Wei-Chang)
 - [Minghui Qiu](#Minghui-Qiu)
+- [Minje Choi](#Minje-Choi)
+- [Minjun Li](#Minjun-Li)
+- [Munyoung Kim](#Munyoung-Kim)
 - [Myle Ott](#Myle-Ott)
 - [Nicholas Frosst](#Nicholas-Frosst)
 - [Nikita Kitaev](#Nikita-Kitaev)
+- [Ning Yu](#Ning-Yu)
 - [Noam Shazeer](#Noam-Shazeer)
 - [Oriol Vinyals](#Oriol-Vinyals)
 - [Pablo Márquez-Neila](#Pablo-Márquez-Neila)
 - [Pascal Fua](#Pascal-Fua)
+- [Peng Zhou](#Peng-Zhou)
 - [Peter W. Battaglia](#Peter-W.-Battaglia)
+- [Peter Wonka](#Peter-Wonka)
 - [Phillip Isola](#Phillip-Isola)
 - [Preetum Nakkiran](#Preetum-Nakkiran)
+- [Rameen Abdal](#Rameen-Abdal)
 - [Rayat Hossain](#Rayat-Hossain)
 - [Rob Fergus](#Rob-Fergus)
+- [Samuli Laine](#Samuli-Laine)
 - [Sara Sabour](#Sara-Sabour)
 - [Serge Belongie](#Serge-Belongie)
 - [Shibani Santurkar](#Shibani-Santurkar)
@@ -86,28 +107,48 @@
 - [Sowmya Yellapragada](#Sowmya-Yellapragada)
 - [Stephen Merity](#Stephen-Merity)
 - [Sudharshan Chandra Babu](#Sudharshan-Chandra-Babu)
+- [Sunghun Kim](#Sunghun-Kim)
 - [Taesung Park](#Taesung-Park)
 - [Takeru Miyato](#Takeru-Miyato)
+- [Tero Karras](#Tero-Karras)
+- [Thomas Schumm](#Thomas-Schumm)
 - [Thomas Unterthiner](#Thomas-Unterthiner)
+- [Tim Salimans](#Tim-Salimans)
+- [Timo Aila](#Timo-Aila)
 - [Timothy Dozat](#Timothy-Dozat)
 - [Tinghui Zhou](#Tinghui-Zhou)
 - [Tomas Mikolov](#Tomas-Mikolov)
 - [Tong He](#Tong-He)
 - [Toshiki Kataoka](#Toshiki-Kataoka)
 - [Tristan Yang](#Tristan-Yang)
+- [Vicki Cheung](#Vicki-Cheung)
 - [Wei Lin](#Wei-Lin)
 - [Wei Liu](#Wei-Liu)
 - [Wieland Brendel](#Wieland-Brendel)
+- [Wojciech Zaremba](#Wojciech-Zaremba)
+- [Xi Chen](#Xi-Chen)
 - [Xiangyu Zhang](#Xiangyu-Zhang)
 - [Xing Shi](#Xing-Shi)
 - [Xun Huang](#Xun-Huang)
 - [Yamini Bansal](#Yamini-Bansal)
+- [Yanghua Jin](#Yanghua-Jin)
 - [Ygor Rebouças Serpa](#Ygor-Rebouças-Serpa)
 - [Yin Cui](#Yin-Cui)
 - [Yinfei Yang](#Yinfei-Yang)
+- [Yipeng Qin](#Yipeng-Qin)
 - [Yuichi Yoshida](#Yuichi-Yoshida)
+- [Yunjey Choi](#Yunjey-Choi)
 - [Yuxin Wu](#Yuxin-Wu)
 - [Zhi Zhang](#Zhi-Zhang)
+
+---
+
+## Adam Paszke
+
+|   | Paper Name                                                                                                                                             | Status | Topic             | Category   | Year | Conference | Author                                             | Summary                                                                                                                                     | Link                                                          |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----------------- | ---------- | ---- | ---------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 0 | [Evaluation of neural network architectures for embedded systems](Research_Papers_Anubhav_Reads/Evaluation_of_neural_network_architectures_for_emb.md) | Read   | CNNs, CV , Image  | Comparison | 2017 | IEEE ISCAS | Adam Paszke, Alfredo Canziani, Eugenio Culurciello | Compare CNN classification architectures on accuracy, memory footprint, parameters, operations count, inference time and power consumption. | [link](https://ieeexplore.ieee.org/abstract/document/8050276) |
+
 
 ---
 
@@ -122,9 +163,10 @@
 
 ## Alec Radford
 
-|   | Paper Name                                                                                                                                        | Status  | Topic               | Category | Year | Conference | Author                                                 | Summary | Link                                                                                                                                                                         |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ------------------------------------------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+|   | Paper Name                                                                                                                                        | Status  | Topic               | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                                                                                                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Text , Transformers |                 | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                              |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+| 1 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md)                                   | Pending | GANs, Image         | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans)                                                                                               |
 
 
 ---
@@ -150,10 +192,10 @@
 
 ## Alexei A. Efros
 
-|   | Paper Name                                                                                                                                                                       | Status    | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | This week | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
-| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending   | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
+|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Reading | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
+| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
 
 
 ---
@@ -171,9 +213,9 @@
 
 ## Alfredo Canziani
 
-|   | Paper Name                                                                                                                                             | Status    | Topic             | Category   | Year | Conference | Author                                | Summary | Link                                                          |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----------------- | ---------- | ---- | ---------- | ------------------------------------- | ------- | ------------------------------------------------------------- |
-| 0 | [Evaluation of neural network architectures for embedded systems](Research_Papers_Anubhav_Reads/Evaluation_of_neural_network_architectures_for_emb.md) | This week | CNNs, CV , Image  | Comparison | 2017 | IEEE ISCAS | Alfredo Canziani, Eugenio Culurciello |         | [link](https://ieeexplore.ieee.org/abstract/document/8050276) |
+|   | Paper Name                                                                                                                                             | Status | Topic             | Category   | Year | Conference | Author                                             | Summary                                                                                                                                     | Link                                                          |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----------------- | ---------- | ---- | ---------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 0 | [Evaluation of neural network architectures for embedded systems](Research_Papers_Anubhav_Reads/Evaluation_of_neural_network_architectures_for_emb.md) | Read   | CNNs, CV , Image  | Comparison | 2017 | IEEE ISCAS | Adam Paszke, Alfredo Canziani, Eugenio Culurciello | Compare CNN classification architectures on accuracy, memory footprint, parameters, operations count, inference time and power consumption. | [link](https://ieeexplore.ieee.org/abstract/document/8050276) |
 
 
 ---
@@ -198,9 +240,9 @@
 
 ## Andrew G. Howard
 
-|   | Paper Name                                                                                                                                                               | Status  | Topic             | Category                                  | Year | Conference | Author                         | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----------------- | ----------------------------------------- | ---- | ---------- | ------------------------------ | ------- | ---------------------------------------- |
-| 0 | [MobileNet (Efficient Convolutional Neural Networks for Mobile Vision Applications)](Research_Papers_Anubhav_Reads/MobileNet_Efficient_Convolutional_Neural_Networks.md) | Pending | CNNs, CV , Image  | Architecture, Optimization: No. of params | 2017 | arXiv      | Andrew G. Howard, Menglong Zhu |         | [link](https://arxiv.org/abs/1704.04861) |
+|   | Paper Name                                                                                                                                                               | Status  | Topic             | Category                                 | Year | Conference | Author                         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----------------- | ---------------------------------------- | ---- | ---------- | ------------------------------ | ------- | ---------------------------------------- |
+| 0 | [MobileNet (Efficient Convolutional Neural Networks for Mobile Vision Applications)](Research_Papers_Anubhav_Reads/MobileNet_Efficient_Convolutional_Neural_Networks.md) | Pending | CNNs, CV , Image  | Architecture, Optimization-No. of params | 2017 | arXiv      | Andrew G. Howard, Menglong Zhu |         | [link](https://arxiv.org/abs/1704.04861) |
 
 
 ---
@@ -217,9 +259,9 @@
 
 ## Anselm Levskaya
 
-|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                        | Year | Conference | Author                                        | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization: Memory, Optimization: No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                      | Year | Conference | Author                                        | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
 
 
 ---
@@ -244,9 +286,9 @@
 
 ## Asim Kadav
 
-|   | Paper Name                                                                                                        | Status  | Topic             | Category                    | Year | Conference | Author             | Summary | Link                                     |
-| - | ----------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | --------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
-| 0 | [Pruning Filters for Efficient ConvNets](Research_Papers_Anubhav_Reads/Pruning_Filters_for_Efficient_ConvNets.md) | Pending | CNNs, CV , Image  | Optimization: No. of params | 2017 | arXiv      | Asim Kadav, Hao Li |         | [link](https://arxiv.org/abs/1608.08710) |
+|   | Paper Name                                                                                                        | Status  | Topic             | Category                   | Year | Conference | Author             | Summary | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | -------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
+| 0 | [Pruning Filters for Efficient ConvNets](Research_Papers_Anubhav_Reads/Pruning_Filters_for_Efficient_ConvNets.md) | Pending | CNNs, CV , Image  | Optimization-No. of params | 2017 | arXiv      | Asim Kadav, Hao Li |         | [link](https://arxiv.org/abs/1608.08710) |
 
 
 ---
@@ -271,9 +313,9 @@
 
 ## Christian Szegedy
 
-|   | Paper Name                                                                                                                    | Status  | Topic             | Category     | Year | Conference | Author                     | Summary | Link                                                                                                                   |
-| - | ----------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | ------------ | ---- | ---------- | -------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Inception-v1 (Going Deeper With Convolutions)](Research_Papers_Anubhav_Reads/Inception-v1_Going_Deeper_With_Convolutions.md) | Pending | CNNs, CV , Image  | Architecture | 2015 | CVPR       | Christian Szegedy, Wei Liu |         | [link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) |
+|   | Paper Name                                                                                                                    | Status    | Topic             | Category     | Year | Conference | Author                     | Summary | Link                                                                                                                   |
+| - | ----------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | ------------ | ---- | ---------- | -------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Inception-v1 (Going Deeper With Convolutions)](Research_Papers_Anubhav_Reads/Inception-v1_Going_Deeper_With_Convolutions.md) | This week | CNNs, CV , Image  | Architecture | 2015 | CVPR       | Christian Szegedy, Wei Liu |         | [link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) |
 
 
 ---
@@ -287,11 +329,29 @@
 
 ---
 
+## David Berthelot
+
+|   | Paper Name                                                                                                                                         | Status  | Topic        | Category | Year | Conference | Author                                    | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ----------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [BEGAN: Boundary Equilibrium Generative Adversarial Networks](Research_Papers_Anubhav_Reads/BEGAN_Boundary_Equilibrium_Generative_Adversarial_.md) | Pending | GANs, Image  |          | 2017 | arXiv      | David Berthelot, Luke Metz, Thomas Schumm |         | [link](https://arxiv.org/abs/1703.10717) |
+
+
+---
+
 ## David J. Schwab
 
 |   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category | Year | Conference | Author                                           | Summary | Link                                     |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------------------ | ------- | ---------------------------------------- |
 | 0 | [Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs](Research_Papers_Anubhav_Reads/Training_BatchNorm_and_Only_BatchNorm_On_the_Expre.md) | Pending | CNNs, Image  |          | 2020 | arXiv      | Ari S. Morcos, David J. Schwab, Jonathan Frankle |         | [link](https://arxiv.org/abs/2003.00152) |
+
+
+---
+
+## Diederik P. Kingma
+
+|   | Paper Name                                                                                                               | Status  | Topic           | Category | Year | Conference | Author                       | Summary | Link                                    |
+| - | ------------------------------------------------------------------------------------------------------------------------ | ------- | --------------- | -------- | ---- | ---------- | ---------------------------- | ------- | --------------------------------------- |
+| 0 | [Adam: A Method for Stochastic Optimization](Research_Papers_Anubhav_Reads/Adam_A_Method_for_Stochastic_Optimization.md) | Pending | NNs, Optimizers |          | 2015 | ICLR       | Diederik P. Kingma, Jimmy Ba |         | [link](https://arxiv.org/abs/1412.6980) |
 
 
 ---
@@ -326,9 +386,9 @@
 
 ## Eugenio Culurciello
 
-|   | Paper Name                                                                                                                                             | Status    | Topic             | Category   | Year | Conference | Author                                | Summary | Link                                                          |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----------------- | ---------- | ---- | ---------- | ------------------------------------- | ------- | ------------------------------------------------------------- |
-| 0 | [Evaluation of neural network architectures for embedded systems](Research_Papers_Anubhav_Reads/Evaluation_of_neural_network_architectures_for_emb.md) | This week | CNNs, CV , Image  | Comparison | 2017 | IEEE ISCAS | Alfredo Canziani, Eugenio Culurciello |         | [link](https://ieeexplore.ieee.org/abstract/document/8050276) |
+|   | Paper Name                                                                                                                                             | Status | Topic             | Category   | Year | Conference | Author                                             | Summary                                                                                                                                     | Link                                                          |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----------------- | ---------- | ---- | ---------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 0 | [Evaluation of neural network architectures for embedded systems](Research_Papers_Anubhav_Reads/Evaluation_of_neural_network_architectures_for_emb.md) | Read   | CNNs, CV , Image  | Comparison | 2017 | IEEE ISCAS | Adam Paszke, Alfredo Canziani, Eugenio Culurciello | Compare CNN classification architectures on accuracy, memory footprint, parameters, operations count, inference time and power consumption. | [link](https://ieeexplore.ieee.org/abstract/document/8050276) |
 
 
 ---
@@ -344,9 +404,9 @@
 
 ## Forrest N. Iandola
 
-|   | Paper Name                                                | Status  | Topic             | Category                                  | Year | Conference | Author                       | Summary | Link                                     |
-| - | --------------------------------------------------------- | ------- | ----------------- | ----------------------------------------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
-| 0 | [SqueezeNet](Research_Papers_Anubhav_Reads/SqueezeNet.md) | Pending | CNNs, CV , Image  | Architecture, Optimization: No. of params | 2016 | arXiv      | Forrest N. Iandola, Song Han |         | [link](https://arxiv.org/abs/1602.07360) |
+|   | Paper Name                                                | Status    | Topic             | Category                                 | Year | Conference | Author                       | Summary | Link                                     |
+| - | --------------------------------------------------------- | --------- | ----------------- | ---------------------------------------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
+| 0 | [SqueezeNet](Research_Papers_Anubhav_Reads/SqueezeNet.md) | This week | CNNs, CV , Image  | Architecture, Optimization-No. of params | 2016 | arXiv      | Forrest N. Iandola, Song Han |         | [link](https://arxiv.org/abs/1602.07360) |
 
 
 ---
@@ -409,18 +469,19 @@
 
 ## Hao Li
 
-|   | Paper Name                                                                                                        | Status  | Topic             | Category                    | Year | Conference | Author             | Summary | Link                                     |
-| - | ----------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | --------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
-| 0 | [Pruning Filters for Efficient ConvNets](Research_Papers_Anubhav_Reads/Pruning_Filters_for_Efficient_ConvNets.md) | Pending | CNNs, CV , Image  | Optimization: No. of params | 2017 | arXiv      | Asim Kadav, Hao Li |         | [link](https://arxiv.org/abs/1608.08710) |
+|   | Paper Name                                                                                                        | Status  | Topic             | Category                   | Year | Conference | Author             | Summary | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | -------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
+| 0 | [Pruning Filters for Efficient ConvNets](Research_Papers_Anubhav_Reads/Pruning_Filters_for_Efficient_ConvNets.md) | Pending | CNNs, CV , Image  | Optimization-No. of params | 2017 | arXiv      | Asim Kadav, Hao Li |         | [link](https://arxiv.org/abs/1608.08710) |
 
 
 ---
 
 ## Ian Goodfellow
 
-|   | Paper Name                                                                                                                                   | Status  | Topic                   | Category     | Year | Conference | Author                                                      | Summary | Link                                     |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------- | ------------ | ---- | ---------- | ----------------------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [SAGAN: Self-Attention Generative Adversarial Networks](Research_Papers_Anubhav_Reads/SAGAN_Self-Attention_Generative_Adversarial_Networ.md) | Pending | Attention, GANs, Image  | Architecture | 2018 | arXiv      | Augustus Odena, Dimitris Metaxas, Han Zhang, Ian Goodfellow |         | [link](https://arxiv.org/abs/1805.08318) |
+|   | Paper Name                                                                                                                                   | Status  | Topic                   | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                           |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------- | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [SAGAN: Self-Attention Generative Adversarial Networks](Research_Papers_Anubhav_Reads/SAGAN_Self-Attention_Generative_Adversarial_Networ.md) | Pending | Attention, GANs, Image  | Architecture    | 2018 | arXiv      | Augustus Odena, Dimitris Metaxas, Han Zhang, Ian Goodfellow                         |         | [link](https://arxiv.org/abs/1805.08318)                                       |
+| 1 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md)                              | Pending | GANs, Image             | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans) |
 
 
 ---
@@ -435,11 +496,29 @@
 
 ---
 
+## Jaakko Lehtinen
+
+|   | Paper Name                                                                                                                                                        | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------- | ---- | ---------- | ----------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](Research_Papers_Anubhav_Reads/Progressive_Growing_of_GANs_for_Improved_Quality,_.md) | Pending | GANs, Image  | Tips & Tricks | 2018 | ICLR       | Jaakko Lehtinen, Samuli Laine, Tero Karras, Timo Aila |         | [link](https://arxiv.org/abs/1710.10196) |
+
+
+---
+
 ## Jacob Devlin
 
 |   | Paper Name                                                                                                                                                              | Status  | Topic               | Category | Year | Conference | Author                       | Summary | Link                                     |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
 | 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Pending | Text , Transformers |          | 2018 | arXiv      | Jacob Devlin, Ming-Wei Chang |         | [link](https://arxiv.org/abs/1810.04805) |
+
+
+---
+
+## Jaegul Choo
+
+|   | Paper Name                                                                                                                                                                          | Status  | Topic        | Category | Year | Conference | Author                                                                       | Summary | Link                                                                                                               |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ---------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 0 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](Research_Papers_Anubhav_Reads/StarGAN_Unified_Generative_Adversarial_Networks_fo.md) | Pending | GANs, Image  |          | 2018 | CVPR       | Jaegul Choo, Jung-Woo Ha, Minje Choi, Munyoung Kim, Sunghun Kim, Yunjey Choi |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
 
 
 ---
@@ -489,6 +568,24 @@
 
 ---
 
+## Jiakai Zhang
+
+|   | Paper Name                                                                                                                                                                            | Status  | Topic        | Category | Year | Conference | Author                               | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------ | ------- | ---------------------------------------- |
+| 0 | [AnimeGAN: Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](Research_Papers_Anubhav_Reads/AnimeGAN_Towards_the_Automatic_Anime_Characters_Cr.md) | Pending | GANs, Image  |          | 2017 | NIPS       | Jiakai Zhang, Minjun Li, Yanghua Jin |         | [link](https://arxiv.org/abs/1708.05509) |
+
+
+---
+
+## Jimmy Ba
+
+|   | Paper Name                                                                                                               | Status  | Topic           | Category | Year | Conference | Author                       | Summary | Link                                    |
+| - | ------------------------------------------------------------------------------------------------------------------------ | ------- | --------------- | -------- | ---- | ---------- | ---------------------------- | ------- | --------------------------------------- |
+| 0 | [Adam: A Method for Stochastic Optimization](Research_Papers_Anubhav_Reads/Adam_A_Method_for_Stochastic_Optimization.md) | Pending | NNs, Optimizers |          | 2015 | ICLR       | Diederik P. Kingma, Jimmy Ba |         | [link](https://arxiv.org/abs/1412.6980) |
+
+
+---
+
 ## Jiri Matas
 
 |   | Paper Name                                                                                  | Status  | Topic             | Category      | Year | Conference | Author                     | Summary | Link                                     |
@@ -498,12 +595,21 @@
 
 ---
 
+## Jitendra Malik
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0 | [IMLE-GAN: Inclusive GAN: Improving Data and Minority Coverage in Generative Models](Research_Papers_Anubhav_Reads/IMLE-GAN_Inclusive_GAN_Improving_Data_and_Minority.md) | Pending | GANs  |          | 2020 | arXiv      | Jitendra Malik, Ke Li, Larry Davis, Mario Fritz, Ning Yu, Peng Zhou |         | [link](https://arxiv.org/abs/2004.03355?utm_campaign=The%20Batch&utm_medium=email&_hsmi=96406275&_hsenc=p2ANqtz-8ra-5k3I7Hv0hosTfQ1neO9Z10r3yMPB1oQfzpBEfkCQ_i0q0diEm4w21S8WqkMbOASXxQvDTIoqJbBZvX4i7S-exeOg&utm_content=96406275&utm_source=hs_email) |
+
+
+---
+
 ## Jonathan Frankle
 
-|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category                                   | Year | Conference | Author                                           | Summary | Link                                     |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------------------------------------ | ---- | ---------- | ------------------------------------------------ | ------- | ---------------------------------------- |
-| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md)                  | Pending | NNs          | Optimization: No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin                 |         | [link](https://arxiv.org/abs/1803.03635) |
-| 1 | [Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs](Research_Papers_Anubhav_Reads/Training_BatchNorm_and_Only_BatchNorm_On_the_Expre.md) | Pending | CNNs, Image  |                                            | 2020 | arXiv      | Ari S. Morcos, David J. Schwab, Jonathan Frankle |         | [link](https://arxiv.org/abs/2003.00152) |
+|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category                                  | Year | Conference | Author                                           | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ----------------------------------------- | ---- | ---------- | ------------------------------------------------ | ------- | ---------------------------------------- |
+| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md)                  | Pending | NNs          | Optimization-No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin                 |         | [link](https://arxiv.org/abs/1803.03635) |
+| 1 | [Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs](Research_Papers_Anubhav_Reads/Training_BatchNorm_and_Only_BatchNorm_On_the_Expre.md) | Pending | CNNs, Image  |                                           | 2020 | arXiv      | Ari S. Morcos, David J. Schwab, Jonathan Frankle |         | [link](https://arxiv.org/abs/2003.00152) |
 
 
 ---
@@ -528,10 +634,19 @@
 
 ## Jun-Yan Zhu
 
-|   | Paper Name                                                                                                                                                                       | Status    | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | This week | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
-| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending   | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
+|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Reading | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
+| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
+
+
+---
+
+## Jung-Woo Ha
+
+|   | Paper Name                                                                                                                                                                          | Status  | Topic        | Category | Year | Conference | Author                                                                       | Summary | Link                                                                                                               |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ---------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 0 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](Research_Papers_Anubhav_Reads/StarGAN_Unified_Generative_Adversarial_Networks_fo.md) | Pending | GANs, Image  |          | 2018 | CVPR       | Jaegul Choo, Jung-Woo Ha, Minje Choi, Munyoung Kim, Sunghun Kim, Yunjey Choi |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
 
 
 ---
@@ -556,10 +671,28 @@
 
 ## Kaiming He
 
-|   | Paper Name                                                                                                                                  | Status  | Topic              | Category      | Year | Conference | Author                    | Summary | Link                                                                                                        |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------- | ------- | ----------------------------------------------------------------------------------------------------------- |
-| 0 | [ResNet (Deep Residual Learning for Image Recognition)](Research_Papers_Anubhav_Reads/ResNet_Deep_Residual_Learning_for_Image_Recogniti.md) | Pending | CNNs, CV , Image   | Architecture  | 2016 | CVPR       | Kaiming He, Xiangyu Zhang |         | [link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
-| 1 | [Group Normalization](Research_Papers_Anubhav_Reads/Group_Normalization.md)                                                                 | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Kaiming He, Yuxin Wu      |         | [link](https://arxiv.org/abs/1803.08494)                                                                    |
+|   | Paper Name                                                                                                                                  | Status    | Topic              | Category      | Year | Conference | Author                    | Summary | Link                                                                                                        |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------ | ------------- | ---- | ---------- | ------------------------- | ------- | ----------------------------------------------------------------------------------------------------------- |
+| 0 | [ResNet (Deep Residual Learning for Image Recognition)](Research_Papers_Anubhav_Reads/ResNet_Deep_Residual_Learning_for_Image_Recogniti.md) | This week | CNNs, CV , Image   | Architecture  | 2016 | CVPR       | Kaiming He, Xiangyu Zhang |         | [link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
+| 1 | [Group Normalization](Research_Papers_Anubhav_Reads/Group_Normalization.md)                                                                 | Pending   | NNs, Normalization | Optimizations | 2018 | arXiv      | Kaiming He, Yuxin Wu      |         | [link](https://arxiv.org/abs/1803.08494)                                                                    |
+
+
+---
+
+## Ke Li
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0 | [IMLE-GAN: Inclusive GAN: Improving Data and Minority Coverage in Generative Models](Research_Papers_Anubhav_Reads/IMLE-GAN_Inclusive_GAN_Improving_Data_and_Minority.md) | Pending | GANs  |          | 2020 | arXiv      | Jitendra Malik, Ke Li, Larry Davis, Mario Fritz, Ning Yu, Peng Zhou |         | [link](https://arxiv.org/abs/2004.03355?utm_campaign=The%20Batch&utm_medium=email&_hsmi=96406275&_hsenc=p2ANqtz-8ra-5k3I7Hv0hosTfQ1neO9Z10r3yMPB1oQfzpBEfkCQ_i0q0diEm4w21S8WqkMbOASXxQvDTIoqJbBZvX4i7S-exeOg&utm_content=96406275&utm_source=hs_email) |
+
+
+---
+
+## Larry Davis
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0 | [IMLE-GAN: Inclusive GAN: Improving Data and Minority Coverage in Generative Models](Research_Papers_Anubhav_Reads/IMLE-GAN_Inclusive_GAN_Improving_Data_and_Minority.md) | Pending | GANs  |          | 2020 | arXiv      | Jitendra Malik, Ke Li, Larry Davis, Mario Fritz, Ning Yu, Peng Zhou |         | [link](https://arxiv.org/abs/2004.03355?utm_campaign=The%20Batch&utm_medium=email&_hsmi=96406275&_hsenc=p2ANqtz-8ra-5k3I7Hv0hosTfQ1neO9Z10r3yMPB1oQfzpBEfkCQ_i0q0diEm4w21S8WqkMbOASXxQvDTIoqJbBZvX4i7S-exeOg&utm_content=96406275&utm_source=hs_email) |
 
 
 ---
@@ -585,9 +718,18 @@
 
 ## Lukasz Kaiser
 
-|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                        | Year | Conference | Author                                        | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization: Memory, Optimization: No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                      | Year | Conference | Author                                        | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+
+
+---
+
+## Luke Metz
+
+|   | Paper Name                                                                                                                                         | Status  | Topic        | Category | Year | Conference | Author                                    | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ----------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [BEGAN: Boundary Equilibrium Generative Adversarial Networks](Research_Papers_Anubhav_Reads/BEGAN_Boundary_Equilibrium_Generative_Adversarial_.md) | Pending | GANs, Image  |          | 2017 | arXiv      | David Berthelot, Luke Metz, Thomas Schumm |         | [link](https://arxiv.org/abs/1703.10717) |
 
 
 ---
@@ -607,6 +749,15 @@
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------------------------ | ------------ | ---- | ---------- | --------------------------------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [Phrase-Based & Neural Unsupervised Machine Translation](Research_Papers_Anubhav_Reads/Phrase-Based_&_Neural_Unsupervised_Machine_Transla.md)          | Pending | NMT, Text , Transformers       | Unsupervised | 2018 | arXiv      | Alexis Conneau, Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato, Myle Ott |         | [link](https://arxiv.org/abs/1804.07755) |
 | 1 | [Unsupervised Machine Translation Using Monolingual Corpora Only](Research_Papers_Anubhav_Reads/Unsupervised_Machine_Translation_Using_Monolingual.md) | Pending | GANs, NMT, Text , Transformers | Unsupervised | 2017 | arXiv      | Alexis Conneau, Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato, Myle Ott |         | [link](https://arxiv.org/abs/1711.00043) |
+
+
+---
+
+## Mario Fritz
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0 | [IMLE-GAN: Inclusive GAN: Improving Data and Minority Coverage in Generative Models](Research_Papers_Anubhav_Reads/IMLE-GAN_Inclusive_GAN_Improving_Data_and_Minority.md) | Pending | GANs  |          | 2020 | arXiv      | Jitendra Malik, Ke Li, Larry Davis, Mario Fritz, Ning Yu, Peng Zhou |         | [link](https://arxiv.org/abs/2004.03355?utm_campaign=The%20Batch&utm_medium=email&_hsmi=96406275&_hsenc=p2ANqtz-8ra-5k3I7Hv0hosTfQ1neO9Z10r3yMPB1oQfzpBEfkCQ_i0q0diEm4w21S8WqkMbOASXxQvDTIoqJbBZvX4i7S-exeOg&utm_content=96406275&utm_source=hs_email) |
 
 
 ---
@@ -676,18 +827,18 @@
 
 ## Menglong Zhu
 
-|   | Paper Name                                                                                                                                                               | Status  | Topic             | Category                                  | Year | Conference | Author                         | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----------------- | ----------------------------------------- | ---- | ---------- | ------------------------------ | ------- | ---------------------------------------- |
-| 0 | [MobileNet (Efficient Convolutional Neural Networks for Mobile Vision Applications)](Research_Papers_Anubhav_Reads/MobileNet_Efficient_Convolutional_Neural_Networks.md) | Pending | CNNs, CV , Image  | Architecture, Optimization: No. of params | 2017 | arXiv      | Andrew G. Howard, Menglong Zhu |         | [link](https://arxiv.org/abs/1704.04861) |
+|   | Paper Name                                                                                                                                                               | Status  | Topic             | Category                                 | Year | Conference | Author                         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----------------- | ---------------------------------------- | ---- | ---------- | ------------------------------ | ------- | ---------------------------------------- |
+| 0 | [MobileNet (Efficient Convolutional Neural Networks for Mobile Vision Applications)](Research_Papers_Anubhav_Reads/MobileNet_Efficient_Convolutional_Neural_Networks.md) | Pending | CNNs, CV , Image  | Architecture, Optimization-No. of params | 2017 | arXiv      | Andrew G. Howard, Menglong Zhu |         | [link](https://arxiv.org/abs/1704.04861) |
 
 
 ---
 
 ## Michael Carbin
 
-|   | Paper Name                                                                                                                                                      | Status  | Topic | Category                                   | Year | Conference | Author                           | Summary | Link                                     |
-| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ------------------------------------------ | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
-| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md) | Pending | NNs   | Optimization: No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin |         | [link](https://arxiv.org/abs/1803.03635) |
+|   | Paper Name                                                                                                                                                      | Status  | Topic | Category                                  | Year | Conference | Author                           | Summary | Link                                     |
+| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ----------------------------------------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
+| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md) | Pending | NNs   | Optimization-No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin |         | [link](https://arxiv.org/abs/1803.03635) |
 
 
 ---
@@ -706,6 +857,33 @@
 |   | Paper Name                                                                                                                                                                                      | Status  | Topic         | Category | Year | Conference | Author                                                  | Summary | Link                                     |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------- | -------- | ---- | ---------- | ------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [One-shot Text Field Labeling using Attention and Belief Propagation for Structure Information Extraction](Research_Papers_Anubhav_Reads/One-shot_Text_Field_Labeling_using_Attention_and_B.md) | Pending | Image , Text  |          | 2020 | arXiv      | Jun Huang, Mengli Cheng, Minghui Qiu, Wei Lin, Xing Shi |         | [link](https://arxiv.org/abs/2009.04153) |
+
+
+---
+
+## Minje Choi
+
+|   | Paper Name                                                                                                                                                                          | Status  | Topic        | Category | Year | Conference | Author                                                                       | Summary | Link                                                                                                               |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ---------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 0 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](Research_Papers_Anubhav_Reads/StarGAN_Unified_Generative_Adversarial_Networks_fo.md) | Pending | GANs, Image  |          | 2018 | CVPR       | Jaegul Choo, Jung-Woo Ha, Minje Choi, Munyoung Kim, Sunghun Kim, Yunjey Choi |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
+
+
+---
+
+## Minjun Li
+
+|   | Paper Name                                                                                                                                                                            | Status  | Topic        | Category | Year | Conference | Author                               | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------ | ------- | ---------------------------------------- |
+| 0 | [AnimeGAN: Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](Research_Papers_Anubhav_Reads/AnimeGAN_Towards_the_Automatic_Anime_Characters_Cr.md) | Pending | GANs, Image  |          | 2017 | NIPS       | Jiakai Zhang, Minjun Li, Yanghua Jin |         | [link](https://arxiv.org/abs/1708.05509) |
+
+
+---
+
+## Munyoung Kim
+
+|   | Paper Name                                                                                                                                                                          | Status  | Topic        | Category | Year | Conference | Author                                                                       | Summary | Link                                                                                                               |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ---------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 0 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](Research_Papers_Anubhav_Reads/StarGAN_Unified_Generative_Adversarial_Networks_fo.md) | Pending | GANs, Image  |          | 2018 | CVPR       | Jaegul Choo, Jung-Woo Ha, Minje Choi, Munyoung Kim, Sunghun Kim, Yunjey Choi |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
 
 
 ---
@@ -731,9 +909,18 @@
 
 ## Nikita Kitaev
 
-|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                        | Year | Conference | Author                                        | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization: Memory, Optimization: No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                      | Year | Conference | Author                                        | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+
+
+---
+
+## Ning Yu
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0 | [IMLE-GAN: Inclusive GAN: Improving Data and Minority Coverage in Generative Models](Research_Papers_Anubhav_Reads/IMLE-GAN_Inclusive_GAN_Improving_Data_and_Minority.md) | Pending | GANs  |          | 2020 | arXiv      | Jitendra Malik, Ke Li, Larry Davis, Mario Fritz, Ning Yu, Peng Zhou |         | [link](https://arxiv.org/abs/2004.03355?utm_campaign=The%20Batch&utm_medium=email&_hsmi=96406275&_hsenc=p2ANqtz-8ra-5k3I7Hv0hosTfQ1neO9Z10r3yMPB1oQfzpBEfkCQ_i0q0diEm4w21S8WqkMbOASXxQvDTIoqJbBZvX4i7S-exeOg&utm_content=96406275&utm_source=hs_email) |
 
 
 ---
@@ -774,6 +961,15 @@
 
 ---
 
+## Peng Zhou
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0 | [IMLE-GAN: Inclusive GAN: Improving Data and Minority Coverage in Generative Models](Research_Papers_Anubhav_Reads/IMLE-GAN_Inclusive_GAN_Improving_Data_and_Minority.md) | Pending | GANs  |          | 2020 | arXiv      | Jitendra Malik, Ke Li, Larry Davis, Mario Fritz, Ning Yu, Peng Zhou |         | [link](https://arxiv.org/abs/2004.03355?utm_campaign=The%20Batch&utm_medium=email&_hsmi=96406275&_hsenc=p2ANqtz-8ra-5k3I7Hv0hosTfQ1neO9Z10r3yMPB1oQfzpBEfkCQ_i0q0diEm4w21S8WqkMbOASXxQvDTIoqJbBZvX4i7S-exeOg&utm_content=96406275&utm_source=hs_email) |
+
+
+---
+
 ## Peter W. Battaglia
 
 |   | Paper Name                                                                                                                                                                  | Status  | Topic   | Category     | Year | Conference | Author                                                | Summary | Link                                         |
@@ -783,12 +979,21 @@
 
 ---
 
+## Peter Wonka
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic        | Category | Year | Conference | Author                                | Summary | Link                                                                                                                                                      |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](Research_Papers_Anubhav_Reads/Image2StyleGAN_How_to_Embed_Images_Into_the_StyleG.md) | Pending | GANs, Image  |          | 2019 | ICCV       | Peter Wonka, Rameen Abdal, Yipeng Qin |         | [link](https://openaccess.thecvf.com/content_ICCV_2019/html/Abdal_Image2StyleGAN_How_to_Embed_Images_Into_the_StyleGAN_Latent_Space_ICCV_2019_paper.html) |
+
+
+---
+
 ## Phillip Isola
 
-|   | Paper Name                                                                                                                                                                       | Status    | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | This week | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
-| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending   | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
+|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Reading | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
+| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
 
 
 ---
@@ -798,6 +1003,15 @@
 |   | Paper Name                                                                                                                                         | Status  | Topic | Category | Year | Conference | Author                                                                                | Summary | Link                                     |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [Deep Double Descent: Where Bigger Models and More Data Hurt](Research_Papers_Anubhav_Reads/Deep_Double_Descent_Where_Bigger_Models_and_More_D.md) | Pending | NNs   |          | 2019 | arXiv      | Boaz Barak, Gal Kaplun, Ilya Sutskever, Preetum Nakkiran, Tristan Yang, Yamini Bansal |         | [link](https://arxiv.org/abs/1912.02292) |
+
+
+---
+
+## Rameen Abdal
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic        | Category | Year | Conference | Author                                | Summary | Link                                                                                                                                                      |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](Research_Papers_Anubhav_Reads/Image2StyleGAN_How_to_Embed_Images_Into_the_StyleG.md) | Pending | GANs, Image  |          | 2019 | ICCV       | Peter Wonka, Rameen Abdal, Yipeng Qin |         | [link](https://openaccess.thecvf.com/content_ICCV_2019/html/Abdal_Image2StyleGAN_How_to_Embed_Images_Into_the_StyleGAN_Latent_Space_ICCV_2019_paper.html) |
 
 
 ---
@@ -816,6 +1030,16 @@
 |   | Paper Name                                                                                                                                          | Status | Topic             | Category      | Year | Conference | Author                        | Summary                                                                          | Link                                                                   |
 | - | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------- | ------------- | ---- | ---------- | ----------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | 0 | [ZF Net (Visualizing and Understanding Convolutional Networks)](Research_Papers_Anubhav_Reads/ZF_Net_Visualizing_and_Understanding_Convolutiona.md) | Read   | CNNs, CV , Image  | Visualization | 2014 | ECCV       | Matthew D. Zeiler, Rob Fergus | Visualize CNN Filters / Kernels using De-Convolutions on CNN filter activations. | [link](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_53) |
+
+
+---
+
+## Samuli Laine
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                                                                                                                                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------- | ---- | ---------- | ----------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks](Research_Papers_Anubhav_Reads/StyleGAN_A_Style-Based_Generator_Architecture_for_.md) | Pending | GANs, Image  |               | 2019 | CVPR       | Samuli Laine, Tero Karras, Timo Aila                  |         | [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) |
+| 1 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](Research_Papers_Anubhav_Reads/Progressive_Growing_of_GANs_for_Improved_Quality,_.md)         | Pending | GANs, Image  | Tips & Tricks | 2018 | ICLR       | Jaakko Lehtinen, Samuli Laine, Tero Karras, Timo Aila |         | [link](https://arxiv.org/abs/1710.10196)                                                                                                                          |
 
 
 ---
@@ -850,9 +1074,9 @@
 
 ## Song Han
 
-|   | Paper Name                                                | Status  | Topic             | Category                                  | Year | Conference | Author                       | Summary | Link                                     |
-| - | --------------------------------------------------------- | ------- | ----------------- | ----------------------------------------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
-| 0 | [SqueezeNet](Research_Papers_Anubhav_Reads/SqueezeNet.md) | Pending | CNNs, CV , Image  | Architecture, Optimization: No. of params | 2016 | arXiv      | Forrest N. Iandola, Song Han |         | [link](https://arxiv.org/abs/1602.07360) |
+|   | Paper Name                                                | Status    | Topic             | Category                                 | Year | Conference | Author                       | Summary | Link                                     |
+| - | --------------------------------------------------------- | --------- | ----------------- | ---------------------------------------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
+| 0 | [SqueezeNet](Research_Papers_Anubhav_Reads/SqueezeNet.md) | This week | CNNs, CV , Image  | Architecture, Optimization-No. of params | 2016 | arXiv      | Forrest N. Iandola, Song Han |         | [link](https://arxiv.org/abs/1602.07360) |
 
 
 ---
@@ -877,9 +1101,9 @@
 
 ## Stephen Merity
 
-|   | Paper Name                                                                                                                                       | Status  | Topic                   | Category                    | Year | Conference | Author         | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----------------------- | --------------------------- | ---- | ---------- | -------------- | ------- | ---------------------------------------- |
-| 0 | [Single Headed Attention RNN: Stop Thinking With Your Head](Research_Papers_Anubhav_Reads/Single_Headed_Attention_RNN_Stop_Thinking_With_You.md) | Pending | Attention, LSTMs, Text  | Optimization: No. of params | 2019 | arXiv      | Stephen Merity |         | [link](https://arxiv.org/abs/1911.11423) |
+|   | Paper Name                                                                                                                                       | Status  | Topic                   | Category                   | Year | Conference | Author         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----------------------- | -------------------------- | ---- | ---------- | -------------- | ------- | ---------------------------------------- |
+| 0 | [Single Headed Attention RNN: Stop Thinking With Your Head](Research_Papers_Anubhav_Reads/Single_Headed_Attention_RNN_Stop_Thinking_With_You.md) | Pending | Attention, LSTMs, Text  | Optimization-No. of params | 2019 | arXiv      | Stephen Merity |         | [link](https://arxiv.org/abs/1911.11423) |
 
 
 ---
@@ -889,6 +1113,15 @@
 |   | Paper Name                                                                                                                                      | Status  | Topic                | Category   | Year | Conference | Author                  | Summary | Link                                                              |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------- | ---------- | ---- | ---------- | ----------------------- | ------- | ----------------------------------------------------------------- |
 | 0 | [A 2019 guide to Human Pose Estimation with Deep Learning](Research_Papers_Anubhav_Reads/A_2019_guide_to_Human_Pose_Estimation_with_Deep_Le.md) | Pending | CV , Pose Estimation | Comparison | 2019 | Blog       | Sudharshan Chandra Babu |         | [link](https://nanonets.com/blog/human-pose-estimation-2d-guide/) |
+
+
+---
+
+## Sunghun Kim
+
+|   | Paper Name                                                                                                                                                                          | Status  | Topic        | Category | Year | Conference | Author                                                                       | Summary | Link                                                                                                               |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ---------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 0 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](Research_Papers_Anubhav_Reads/StarGAN_Unified_Generative_Adversarial_Networks_fo.md) | Pending | GANs, Image  |          | 2018 | CVPR       | Jaegul Choo, Jung-Woo Ha, Minje Choi, Munyoung Kim, Sunghun Kim, Yunjey Choi |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
 
 
 ---
@@ -911,11 +1144,49 @@
 
 ---
 
+## Tero Karras
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                                                                                                                                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------- | ---- | ---------- | ----------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks](Research_Papers_Anubhav_Reads/StyleGAN_A_Style-Based_Generator_Architecture_for_.md) | Pending | GANs, Image  |               | 2019 | CVPR       | Samuli Laine, Tero Karras, Timo Aila                  |         | [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) |
+| 1 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](Research_Papers_Anubhav_Reads/Progressive_Growing_of_GANs_for_Improved_Quality,_.md)         | Pending | GANs, Image  | Tips & Tricks | 2018 | ICLR       | Jaakko Lehtinen, Samuli Laine, Tero Karras, Timo Aila |         | [link](https://arxiv.org/abs/1710.10196)                                                                                                                          |
+
+
+---
+
+## Thomas Schumm
+
+|   | Paper Name                                                                                                                                         | Status  | Topic        | Category | Year | Conference | Author                                    | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ----------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [BEGAN: Boundary Equilibrium Generative Adversarial Networks](Research_Papers_Anubhav_Reads/BEGAN_Boundary_Equilibrium_Generative_Adversarial_.md) | Pending | GANs, Image  |          | 2017 | arXiv      | David Berthelot, Luke Metz, Thomas Schumm |         | [link](https://arxiv.org/abs/1703.10717) |
+
+
+---
+
 ## Thomas Unterthiner
 
 |   | Paper Name                                                                                            | Status  | Topic                        | Category                     | Year | Conference | Author                                             | Summary | Link                                                                           |
 | - | ----------------------------------------------------------------------------------------------------- | ------- | ---------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
 | 0 | [Self-Normalizing Neural Networks](Research_Papers_Anubhav_Reads/Self-Normalizing_Neural_Networks.md) | Pending | Activation Function, Tabular | Optimizations, Tips & Tricks | 2017 | NIPS       | Andreas Mayr, Günter Klambauer, Thomas Unterthiner |         | [link](https://papers.nips.cc/paper/6698-self-normalizing-neural-networks.pdf) |
+
+
+---
+
+## Tim Salimans
+
+|   | Paper Name                                                                                                      | Status  | Topic        | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                           |
+| - | --------------------------------------------------------------------------------------------------------------- | ------- | ------------ | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md) | Pending | GANs, Image  | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans) |
+
+
+---
+
+## Timo Aila
+
+|   | Paper Name                                                                                                                                                                | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                                                                                                                                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------- | ---- | ---------- | ----------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks](Research_Papers_Anubhav_Reads/StyleGAN_A_Style-Based_Generator_Architecture_for_.md) | Pending | GANs, Image  |               | 2019 | CVPR       | Samuli Laine, Tero Karras, Timo Aila                  |         | [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) |
+| 1 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](Research_Papers_Anubhav_Reads/Progressive_Growing_of_GANs_for_Improved_Quality,_.md)         | Pending | GANs, Image  | Tips & Tricks | 2018 | ICLR       | Jaakko Lehtinen, Samuli Laine, Tero Karras, Timo Aila |         | [link](https://arxiv.org/abs/1710.10196)                                                                                                                          |
 
 
 ---
@@ -931,9 +1202,9 @@
 
 ## Tinghui Zhou
 
-|   | Paper Name                                                                                                                                                   | Status    | Topic        | Category | Year | Conference | Author                                                    | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------ | -------- | ---- | ---------- | --------------------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md) | This week | GANs, Image  |          | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004) |
+|   | Paper Name                                                                                                                                                   | Status  | Topic        | Category | Year | Conference | Author                                                    | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------ | -------- | ---- | ---------- | --------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md) | Reading | GANs, Image  |          | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004) |
 
 
 ---
@@ -974,6 +1245,15 @@
 
 ---
 
+## Vicki Cheung
+
+|   | Paper Name                                                                                                      | Status  | Topic        | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                           |
+| - | --------------------------------------------------------------------------------------------------------------- | ------- | ------------ | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md) | Pending | GANs, Image  | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans) |
+
+
+---
+
 ## Wei Lin
 
 |   | Paper Name                                                                                                                                                                                      | Status  | Topic         | Category | Year | Conference | Author                                                  | Summary | Link                                     |
@@ -985,9 +1265,9 @@
 
 ## Wei Liu
 
-|   | Paper Name                                                                                                                    | Status  | Topic             | Category     | Year | Conference | Author                     | Summary | Link                                                                                                                   |
-| - | ----------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | ------------ | ---- | ---------- | -------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Inception-v1 (Going Deeper With Convolutions)](Research_Papers_Anubhav_Reads/Inception-v1_Going_Deeper_With_Convolutions.md) | Pending | CNNs, CV , Image  | Architecture | 2015 | CVPR       | Christian Szegedy, Wei Liu |         | [link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) |
+|   | Paper Name                                                                                                                    | Status    | Topic             | Category     | Year | Conference | Author                     | Summary | Link                                                                                                                   |
+| - | ----------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | ------------ | ---- | ---------- | -------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Inception-v1 (Going Deeper With Convolutions)](Research_Papers_Anubhav_Reads/Inception-v1_Going_Deeper_With_Convolutions.md) | This week | CNNs, CV , Image  | Architecture | 2015 | CVPR       | Christian Szegedy, Wei Liu |         | [link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) |
 
 
 ---
@@ -1001,11 +1281,29 @@
 
 ---
 
+## Wojciech Zaremba
+
+|   | Paper Name                                                                                                      | Status  | Topic        | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                           |
+| - | --------------------------------------------------------------------------------------------------------------- | ------- | ------------ | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md) | Pending | GANs, Image  | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans) |
+
+
+---
+
+## Xi Chen
+
+|   | Paper Name                                                                                                      | Status  | Topic        | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                           |
+| - | --------------------------------------------------------------------------------------------------------------- | ------- | ------------ | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md) | Pending | GANs, Image  | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans) |
+
+
+---
+
 ## Xiangyu Zhang
 
-|   | Paper Name                                                                                                                                  | Status  | Topic             | Category     | Year | Conference | Author                    | Summary | Link                                                                                                        |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | ------------ | ---- | ---------- | ------------------------- | ------- | ----------------------------------------------------------------------------------------------------------- |
-| 0 | [ResNet (Deep Residual Learning for Image Recognition)](Research_Papers_Anubhav_Reads/ResNet_Deep_Residual_Learning_for_Image_Recogniti.md) | Pending | CNNs, CV , Image  | Architecture | 2016 | CVPR       | Kaiming He, Xiangyu Zhang |         | [link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
+|   | Paper Name                                                                                                                                  | Status    | Topic             | Category     | Year | Conference | Author                    | Summary | Link                                                                                                        |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | ------------ | ---- | ---------- | ------------------------- | ------- | ----------------------------------------------------------------------------------------------------------- |
+| 0 | [ResNet (Deep Residual Learning for Image Recognition)](Research_Papers_Anubhav_Reads/ResNet_Deep_Residual_Learning_for_Image_Recogniti.md) | This week | CNNs, CV , Image  | Architecture | 2016 | CVPR       | Kaiming He, Xiangyu Zhang |         | [link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
 
 
 ---
@@ -1037,6 +1335,15 @@
 
 ---
 
+## Yanghua Jin
+
+|   | Paper Name                                                                                                                                                                            | Status  | Topic        | Category | Year | Conference | Author                               | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------ | ------- | ---------------------------------------- |
+| 0 | [AnimeGAN: Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](Research_Papers_Anubhav_Reads/AnimeGAN_Towards_the_Automatic_Anime_Characters_Cr.md) | Pending | GANs, Image  |          | 2017 | NIPS       | Jiakai Zhang, Minjun Li, Yanghua Jin |         | [link](https://arxiv.org/abs/1708.05509) |
+
+
+---
+
 ## Ygor Rebouças Serpa
 
 |   | Paper Name                                                                                                                      | Status  | Topic               | Category | Year | Conference | Author              | Summary | Link                                                                                              |
@@ -1064,11 +1371,29 @@
 
 ---
 
+## Yipeng Qin
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic        | Category | Year | Conference | Author                                | Summary | Link                                                                                                                                                      |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](Research_Papers_Anubhav_Reads/Image2StyleGAN_How_to_Embed_Images_Into_the_StyleG.md) | Pending | GANs, Image  |          | 2019 | ICCV       | Peter Wonka, Rameen Abdal, Yipeng Qin |         | [link](https://openaccess.thecvf.com/content_ICCV_2019/html/Abdal_Image2StyleGAN_How_to_Embed_Images_Into_the_StyleGAN_Latent_Space_ICCV_2019_paper.html) |
+
+
+---
+
 ## Yuichi Yoshida
 
 |   | Paper Name                                                                                          | Status  | Topic               | Category      | Year | Conference | Author                                                          | Summary | Link                                     |
 | - | --------------------------------------------------------------------------------------------------- | ------- | ------------------- | ------------- | ---- | ---------- | --------------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [Spectral Normalization for GANs](Research_Papers_Anubhav_Reads/Spectral_Normalization_for_GANs.md) | Pending | GANs, Normalization | Optimizations | 2018 | arXiv      | Masanori Koyama, Takeru Miyato, Toshiki Kataoka, Yuichi Yoshida |         | [link](https://arxiv.org/abs/1802.05957) |
+
+
+---
+
+## Yunjey Choi
+
+|   | Paper Name                                                                                                                                                                          | Status  | Topic        | Category | Year | Conference | Author                                                                       | Summary | Link                                                                                                               |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ---------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 0 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](Research_Papers_Anubhav_Reads/StarGAN_Unified_Generative_Adversarial_Networks_fo.md) | Pending | GANs, Image  |          | 2018 | CVPR       | Jaegul Choo, Jung-Woo Ha, Minje Choi, Munyoung Kim, Sunghun Kim, Yunjey Choi |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
 
 
 ---

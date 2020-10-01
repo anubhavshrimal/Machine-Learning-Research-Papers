@@ -1,7 +1,7 @@
 # Pruning Filters for Efficient ConvNets
 Author: Asim Kadav, Hao Li
 
-Category: Optimization: No. of params
+Category: Optimization-No. of params
 
 Conference: arXiv
 

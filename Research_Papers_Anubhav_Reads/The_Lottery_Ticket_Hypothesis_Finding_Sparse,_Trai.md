@@ -1,7 +1,7 @@
 # The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
 Author: Jonathan Frankle, Michael Carbin
 
-Category: Optimization: No. of params, Tips & Tricks
+Category: Optimization-No. of params, Tips & Tricks
 
 Conference: arXiv
 

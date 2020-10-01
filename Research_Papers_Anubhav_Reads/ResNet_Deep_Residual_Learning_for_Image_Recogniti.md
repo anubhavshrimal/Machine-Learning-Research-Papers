@@ -7,7 +7,7 @@ Conference: CVPR
 
 Link: https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html
 
-Status: Pending
+Status: This week
 
 Topic: CNNs, CV , Image 
 

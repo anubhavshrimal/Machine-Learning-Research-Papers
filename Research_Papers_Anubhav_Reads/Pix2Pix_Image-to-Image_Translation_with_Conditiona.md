@@ -5,7 +5,7 @@ Conference: CVPR
 
 Link: https://arxiv.org/abs/1611.07004
 
-Status: This week
+Status: Reading
 
 Topic: GANs, Image 
 

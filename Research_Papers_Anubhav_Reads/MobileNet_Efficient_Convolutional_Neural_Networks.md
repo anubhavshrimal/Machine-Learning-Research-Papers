@@ -1,7 +1,7 @@
 # MobileNet (Efficient Convolutional Neural Networks for Mobile Vision Applications)
 Author: Andrew G. Howard, Menglong Zhu
 
-Category: Architecture, Optimization: No. of params
+Category: Architecture, Optimization-No. of params
 
 Conference: arXiv
 

@@ -7,7 +7,7 @@ Conference: CVPR
 
 Link: https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html
 
-Status: Pending
+Status: This week
 
 Topic: CNNs, CV , Image 
 

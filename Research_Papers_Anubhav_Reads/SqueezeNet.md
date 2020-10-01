@@ -1,13 +1,13 @@
 # SqueezeNet
 Author: Forrest N. Iandola, Song Han
 
-Category: Architecture, Optimization: No. of params
+Category: Architecture, Optimization-No. of params
 
 Conference: arXiv
 
 Link: https://arxiv.org/abs/1602.07360
 
-Status: Pending
+Status: This week
 
 Topic: CNNs, CV , Image 
 
