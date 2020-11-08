@@ -9,20 +9,25 @@
 - [Alexei A. Efros](#Alexei-A.-Efros)
 - [Alexis Conneau](#Alexis-Conneau)
 - [Alfredo Canziani](#Alfredo-Canziani)
+- [Ali Farhadi](#Ali-Farhadi)
 - [Anant Jain](#Anant-Jain)
 - [Andreas Mayr](#Andreas-Mayr)
 - [Andrew G. Howard](#Andrew-G.-Howard)
 - [Andrew Ilyas](#Andrew-Ilyas)
 - [Anselm Levskaya](#Anselm-Levskaya)
+- [Antoine Bosselut](#Antoine-Bosselut)
 - [Ari S. Morcos](#Ari-S.-Morcos)
 - [Ashish Vaswani](#Ashish-Vaswani)
 - [Asim Kadav](#Asim-Kadav)
 - [Augustus Odena](#Augustus-Odena)
+- [Bharath Hariharan](#Bharath-Hariharan)
 - [Boaz Barak](#Boaz-Barak)
+- [Chandra Bhagavatula](#Chandra-Bhagavatula)
 - [Christian Szegedy](#Christian-Szegedy)
 - [Dario Amodei](#Dario-Amodei)
 - [David Berthelot](#David-Berthelot)
 - [David J. Schwab](#David-J.-Schwab)
+- [Davis Wertheimer](#Davis-Wertheimer)
 - [Diederik P. Kingma](#Diederik-P.-Kingma)
 - [Dimitris Metaxas](#Dimitris-Metaxas)
 - [Dimitris Tsipras](#Dimitris-Tsipras)
@@ -36,11 +41,13 @@
 - [Guillaume Lample](#Guillaume-Lample)
 - [Günter Klambauer](#Günter-Klambauer)
 - [Han Zhang](#Han-Zhang)
+- [Hannah Rashkin](#Hannah-Rashkin)
 - [Hao Li](#Hao-Li)
 - [Ian Goodfellow](#Ian-Goodfellow)
 - [Ilya Sutskever](#Ilya-Sutskever)
 - [Jaakko Lehtinen](#Jaakko-Lehtinen)
 - [Jacob Devlin](#Jacob-Devlin)
+- [Jae Sung Park](#Jae-Sung-Park)
 - [Jaegul Choo](#Jaegul-Choo)
 - [James J. Little](#James-J.-Little)
 - [Javier Romero](#Javier-Romero)
@@ -60,12 +67,15 @@
 - [Kai Chen](#Kai-Chen)
 - [Kaiming He](#Kaiming-He)
 - [Ke Li](#Ke-Li)
+- [Kristen Grauman](#Kristen-Grauman)
 - [Larry Davis](#Larry-Davis)
 - [Li Fei-Fei](#Li-Fei-Fei)
 - [Ludovic Denoyer](#Ludovic-Denoyer)
 - [Lukasz Kaiser](#Lukasz-Kaiser)
 - [Luke Metz](#Luke-Metz)
+- [Luming Tang](#Luming-Tang)
 - [Léon Bottou](#Léon-Bottou)
+- [Maarten Sap](#Maarten-Sap)
 - [Marc'Aurelio Ranzato](#Marc'Aurelio-Ranzato)
 - [Mario Fritz](#Mario-Fritz)
 - [Martin Arjovsky](#Martin-Arjovsky)
@@ -86,6 +96,7 @@
 - [Nicholas Frosst](#Nicholas-Frosst)
 - [Nikita Kitaev](#Nikita-Kitaev)
 - [Ning Yu](#Ning-Yu)
+- [Noah A. Smith](#Noah-A.-Smith)
 - [Noam Shazeer](#Noam-Shazeer)
 - [Oriol Vinyals](#Oriol-Vinyals)
 - [Pablo Márquez-Neila](#Pablo-Márquez-Neila)
@@ -98,7 +109,9 @@
 - [Rameen Abdal](#Rameen-Abdal)
 - [Rayat Hossain](#Rayat-Hossain)
 - [Rob Fergus](#Rob-Fergus)
+- [Ronan Le Bras](#Ronan-Le-Bras)
 - [Samuli Laine](#Samuli-Laine)
+- [Santhosh K. Ramakrishnan](#Santhosh-K.-Ramakrishnan)
 - [Sara Sabour](#Sara-Sabour)
 - [Serge Belongie](#Serge-Belongie)
 - [Shibani Santurkar](#Shibani-Santurkar)
@@ -132,6 +145,7 @@
 - [Xun Huang](#Xun-Huang)
 - [Yamini Bansal](#Yamini-Bansal)
 - [Yanghua Jin](#Yanghua-Jin)
+- [Yejin Choi](#Yejin-Choi)
 - [Ygor Rebouças Serpa](#Ygor-Rebouças-Serpa)
 - [Yin Cui](#Yin-Cui)
 - [Yinfei Yang](#Yinfei-Yang)
@@ -140,6 +154,7 @@
 - [Yunjey Choi](#Yunjey-Choi)
 - [Yuxin Wu](#Yuxin-Wu)
 - [Zhi Zhang](#Zhi-Zhang)
+- [Ziad Al-Halah](#Ziad-Al-Halah)
 
 ---
 
@@ -173,10 +188,9 @@
 
 ## Aleksander Madry
 
-|   | Paper Name                                                                                                                                     | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md)             | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
-| 1 | [Copy of How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/Copy_of_How_Does_Batch_Normalization_Help_Optimiza.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
+|   | Paper Name                                                                                                                         | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
 
 
 ---
@@ -192,10 +206,10 @@
 
 ## Alexei A. Efros
 
-|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Reading | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
-| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
+|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary                                                                                                  | Link                                                                                                                      |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Read    | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou | Image to image translation using Conditional GANs and dataset of image pairs from one domain to another. | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
+| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |                                                                                                          | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
 
 
 ---
@@ -216,6 +230,15 @@
 |   | Paper Name                                                                                                                                             | Status | Topic             | Category   | Year | Conference | Author                                             | Summary                                                                                                                                     | Link                                                          |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----------------- | ---------- | ---- | ---------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | 0 | [Evaluation of neural network architectures for embedded systems](Research_Papers_Anubhav_Reads/Evaluation_of_neural_network_architectures_for_emb.md) | Read   | CNNs, CV , Image  | Comparison | 2017 | IEEE ISCAS | Adam Paszke, Alfredo Canziani, Eugenio Culurciello | Compare CNN classification architectures on accuracy, memory footprint, parameters, operations count, inference time and power consumption. | [link](https://ieeexplore.ieee.org/abstract/document/8050276) |
+
+
+---
+
+## Ali Farhadi
+
+|   | Paper Name                                                                                                                                               | Status  | Topic                                     | Category | Year | Conference | Author                                                      | Summary | Link                                                                           |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | -------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md) | Pending | AGI, Dataset, Image , Text , Transformers |          | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
 
 
 ---
@@ -249,10 +272,9 @@
 
 ## Andrew Ilyas
 
-|   | Paper Name                                                                                                                                     | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md)             | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
-| 1 | [Copy of How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/Copy_of_How_Does_Batch_Normalization_Help_Optimiza.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
+|   | Paper Name                                                                                                                         | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
 
 
 ---
@@ -262,6 +284,15 @@
 |   | Paper Name                                                                                                 | Status  | Topic               | Category                                                      | Year | Conference | Author                                        | Summary | Link                                     |
 | - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+
+
+---
+
+## Antoine Bosselut
+
+|   | Paper Name                                                                                                                                                        | Status  | Topic                    | Category | Year | Conference | Author                                       | Summary | Link                                         |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------ | -------- | ---- | ---------- | -------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](Research_Papers_Anubhav_Reads/COMET_Commonsense_Transformers_for_Automatic_Knowl.md) | Pending | AGI, Text , Transformers |          | 2019 | ACL        | Antoine Bosselut, Hannah Rashkin, Yejin Choi |         | [link](https://arxiv.org/pdf/1906.05317.pdf) |
 
 
 ---
@@ -277,9 +308,9 @@
 
 ## Ashish Vaswani
 
-|   | Paper Name                                                                              | Status  | Topic                          | Category | Year | Conference | Author                       | Summary | Link                                                               |
-| - | --------------------------------------------------------------------------------------- | ------- | ------------------------------ | -------- | ---- | ---------- | ---------------------------- | ------- | ------------------------------------------------------------------ |
-| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Pending | Attention, Text , Transformers |          | 2017 | NIPS       | Ashish Vaswani, Noam Shazeer |         | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
+|   | Paper Name                                                                              | Status | Topic                          | Category     | Year | Conference | Author                       | Summary                                                                                       | Link                                                               |
+| - | --------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ---------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Read   | Attention, Text , Transformers | Architecture | 2017 | NIPS       | Ashish Vaswani, Noam Shazeer | Talks about Transformer architecture which brings SOTA performance for different tasks in NLP | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
 
 
 ---
@@ -302,11 +333,30 @@
 
 ---
 
+## Bharath Hariharan
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic        | Category          | Year | Conference | Author                                           | Summary | Link                                                                                                                                                        |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ----------------- | ---- | ---------- | ------------------------------------------------ | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Few-Shot Learning with Localization in Realistic Settings](Research_Papers_Anubhav_Reads/Few-Shot_Learning_with_Localization_in_Realistic_S.md)           | Pending | CNNs, Image  | Few-shot-learning | 2019 | CVPR       | Bharath Hariharan, Davis Wertheimer              |         | [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wertheimer_Few-Shot_Learning_With_Localization_in_Realistic_Settings_CVPR_2019_paper.pdf)     |
+| 1 | [Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition](Research_Papers_Anubhav_Reads/Revisiting_Pose-Normalization_for_Fine-Grained_Few.md) | Pending | CNNs, Image  | Few-shot-learning | 2020 | CVPR       | Bharath Hariharan, Davis Wertheimer, Luming Tang |         | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.pdf) |
+
+
+---
+
 ## Boaz Barak
 
 |   | Paper Name                                                                                                                                         | Status  | Topic | Category | Year | Conference | Author                                                                                | Summary | Link                                     |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [Deep Double Descent: Where Bigger Models and More Data Hurt](Research_Papers_Anubhav_Reads/Deep_Double_Descent_Where_Bigger_Models_and_More_D.md) | Pending | NNs   |          | 2019 | arXiv      | Boaz Barak, Gal Kaplun, Ilya Sutskever, Preetum Nakkiran, Tristan Yang, Yamini Bansal |         | [link](https://arxiv.org/abs/1912.02292) |
+
+
+---
+
+## Chandra Bhagavatula
+
+|   | Paper Name                                                                                                                                               | Status  | Topic                                     | Category | Year | Conference | Author                                                      | Summary | Link                                                                           |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | -------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md) | Pending | AGI, Dataset, Image , Text , Transformers |          | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
 
 
 ---
@@ -347,6 +397,16 @@
 
 ---
 
+## Davis Wertheimer
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic        | Category          | Year | Conference | Author                                           | Summary | Link                                                                                                                                                        |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ----------------- | ---- | ---------- | ------------------------------------------------ | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Few-Shot Learning with Localization in Realistic Settings](Research_Papers_Anubhav_Reads/Few-Shot_Learning_with_Localization_in_Realistic_S.md)           | Pending | CNNs, Image  | Few-shot-learning | 2019 | CVPR       | Bharath Hariharan, Davis Wertheimer              |         | [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wertheimer_Few-Shot_Learning_With_Localization_in_Realistic_Settings_CVPR_2019_paper.pdf)     |
+| 1 | [Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition](Research_Papers_Anubhav_Reads/Revisiting_Pose-Normalization_for_Fine-Grained_Few.md) | Pending | CNNs, Image  | Few-shot-learning | 2020 | CVPR       | Bharath Hariharan, Davis Wertheimer, Luming Tang |         | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.pdf) |
+
+
+---
+
 ## Diederik P. Kingma
 
 |   | Paper Name                                                                                                               | Status  | Topic           | Category | Year | Conference | Author                       | Summary | Link                                    |
@@ -367,10 +427,9 @@
 
 ## Dimitris Tsipras
 
-|   | Paper Name                                                                                                                                     | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md)             | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
-| 1 | [Copy of How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/Copy_of_How_Does_Batch_Normalization_Help_Optimiza.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
+|   | Paper Name                                                                                                                         | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
 
 
 ---
@@ -467,6 +526,15 @@
 
 ---
 
+## Hannah Rashkin
+
+|   | Paper Name                                                                                                                                                        | Status  | Topic                    | Category | Year | Conference | Author                                       | Summary | Link                                         |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------ | -------- | ---- | ---------- | -------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](Research_Papers_Anubhav_Reads/COMET_Commonsense_Transformers_for_Automatic_Knowl.md) | Pending | AGI, Text , Transformers |          | 2019 | ACL        | Antoine Bosselut, Hannah Rashkin, Yejin Choi |         | [link](https://arxiv.org/pdf/1906.05317.pdf) |
+
+
+---
+
 ## Hao Li
 
 |   | Paper Name                                                                                                        | Status  | Topic             | Category                   | Year | Conference | Author             | Summary | Link                                     |
@@ -507,9 +575,18 @@
 
 ## Jacob Devlin
 
-|   | Paper Name                                                                                                                                                              | Status  | Topic               | Category | Year | Conference | Author                       | Summary | Link                                     |
-| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
-| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Pending | Text , Transformers |          | 2018 | arXiv      | Jacob Devlin, Ming-Wei Chang |         | [link](https://arxiv.org/abs/1810.04805) |
+|   | Paper Name                                                                                                                                                              | Status | Topic               | Category   | Year | Conference | Author                       | Summary                                                                                                                                                                                | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------- | ---------- | ---- | ---------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
+
+
+---
+
+## Jae Sung Park
+
+|   | Paper Name                                                                                                                                               | Status  | Topic                                     | Category | Year | Conference | Author                                                      | Summary | Link                                                                           |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | -------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md) | Pending | AGI, Dataset, Image , Text , Transformers |          | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
 
 
 ---
@@ -634,10 +711,10 @@
 
 ## Jun-Yan Zhu
 
-|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Reading | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
-| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
+|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary                                                                                                  | Link                                                                                                                      |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Read    | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou | Image to image translation using Conditional GANs and dataset of image pairs from one domain to another. | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
+| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |                                                                                                          | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
 
 
 ---
@@ -688,6 +765,15 @@
 
 ---
 
+## Kristen Grauman
+
+|   | Paper Name                                                                                                                                             | Status  | Topic        | Category               | Year | Conference | Author                                                   | Summary | Link                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------ | ---------------------- | ---- | ---------- | -------------------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [Occupancy Anticipation for Efficient Exploration and Navigation](Research_Papers_Anubhav_Reads/Occupancy_Anticipation_for_Efficient_Exploration_a.md) | Pending | CNNs, Image  | Reinforcement-Learning | 2020 | ECCV       | Kristen Grauman, Santhosh K. Ramakrishnan, Ziad Al-Halah |         | [link](https://arxiv.org/pdf/2008.09285.pdf) |
+
+
+---
+
 ## Larry Davis
 
 |   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
@@ -734,11 +820,29 @@
 
 ---
 
+## Luming Tang
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic        | Category          | Year | Conference | Author                                           | Summary | Link                                                                                                                                                        |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ----------------- | ---- | ---------- | ------------------------------------------------ | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition](Research_Papers_Anubhav_Reads/Revisiting_Pose-Normalization_for_Fine-Grained_Few.md) | Pending | CNNs, Image  | Few-shot-learning | 2020 | CVPR       | Bharath Hariharan, Davis Wertheimer, Luming Tang |         | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.pdf) |
+
+
+---
+
 ## Léon Bottou
 
 |   | Paper Name                                                                     | Status  | Topic               | Category | Year | Conference | Author                                         | Summary | Link                                     |
 | - | ------------------------------------------------------------------------------ | ------- | ------------------- | -------- | ---- | ---------- | ---------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [WGAN: Wasserstein GAN](Research_Papers_Anubhav_Reads/WGAN_Wasserstein_GAN.md) | Pending | GANs, Loss Function |          | 2017 | arXiv      | Léon Bottou, Martin Arjovsky, Soumith Chintala |         | [link](https://arxiv.org/abs/1701.07875) |
+
+
+---
+
+## Maarten Sap
+
+|   | Paper Name                                                                                                                                           | Status  | Topic               | Category | Year | Conference | Author                                                | Summary | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ----------------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](Research_Papers_Anubhav_Reads/ATOMIC_An_Atlas_of_Machine_Commonsense_for_If-Then.md) | Pending | AGI, Dataset, Text  |          | 2019 | AAAI       | Maarten Sap, Noah A. Smith, Ronan Le Bras, Yejin Choi |         | [link](https://arxiv.org/pdf/1811.00146.pdf) |
 
 
 ---
@@ -845,9 +949,9 @@
 
 ## Ming-Wei Chang
 
-|   | Paper Name                                                                                                                                                              | Status  | Topic               | Category | Year | Conference | Author                       | Summary | Link                                     |
-| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
-| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Pending | Text , Transformers |          | 2018 | arXiv      | Jacob Devlin, Ming-Wei Chang |         | [link](https://arxiv.org/abs/1810.04805) |
+|   | Paper Name                                                                                                                                                              | Status | Topic               | Category   | Year | Conference | Author                       | Summary                                                                                                                                                                                | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------- | ---------- | ---- | ---------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
 
 
 ---
@@ -925,11 +1029,20 @@
 
 ---
 
+## Noah A. Smith
+
+|   | Paper Name                                                                                                                                           | Status  | Topic               | Category | Year | Conference | Author                                                | Summary | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ----------------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](Research_Papers_Anubhav_Reads/ATOMIC_An_Atlas_of_Machine_Commonsense_for_If-Then.md) | Pending | AGI, Dataset, Text  |          | 2019 | AAAI       | Maarten Sap, Noah A. Smith, Ronan Le Bras, Yejin Choi |         | [link](https://arxiv.org/pdf/1811.00146.pdf) |
+
+
+---
+
 ## Noam Shazeer
 
-|   | Paper Name                                                                              | Status  | Topic                          | Category | Year | Conference | Author                       | Summary | Link                                                               |
-| - | --------------------------------------------------------------------------------------- | ------- | ------------------------------ | -------- | ---- | ---------- | ---------------------------- | ------- | ------------------------------------------------------------------ |
-| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Pending | Attention, Text , Transformers |          | 2017 | NIPS       | Ashish Vaswani, Noam Shazeer |         | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
+|   | Paper Name                                                                              | Status | Topic                          | Category     | Year | Conference | Author                       | Summary                                                                                       | Link                                                               |
+| - | --------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ---------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Read   | Attention, Text , Transformers | Architecture | 2017 | NIPS       | Ashish Vaswani, Noam Shazeer | Talks about Transformer architecture which brings SOTA performance for different tasks in NLP | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
 
 
 ---
@@ -990,10 +1103,10 @@
 
 ## Phillip Isola
 
-|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary | Link                                                                                                                      |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Reading | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
-| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
+|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category     | Year | Conference | Author                                                    | Summary                                                                                                  | Link                                                                                                                      |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Read    | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou | Image to image translation using Conditional GANs and dataset of image pairs from one domain to another. | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
+| 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |                                                                                                          | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
 
 
 ---
@@ -1034,12 +1147,30 @@
 
 ---
 
+## Ronan Le Bras
+
+|   | Paper Name                                                                                                                                           | Status  | Topic               | Category | Year | Conference | Author                                                | Summary | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ----------------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](Research_Papers_Anubhav_Reads/ATOMIC_An_Atlas_of_Machine_Commonsense_for_If-Then.md) | Pending | AGI, Dataset, Text  |          | 2019 | AAAI       | Maarten Sap, Noah A. Smith, Ronan Le Bras, Yejin Choi |         | [link](https://arxiv.org/pdf/1811.00146.pdf) |
+
+
+---
+
 ## Samuli Laine
 
 |   | Paper Name                                                                                                                                                                | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                                                                                                                                              |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------- | ---- | ---------- | ----------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0 | [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks](Research_Papers_Anubhav_Reads/StyleGAN_A_Style-Based_Generator_Architecture_for_.md) | Pending | GANs, Image  |               | 2019 | CVPR       | Samuli Laine, Tero Karras, Timo Aila                  |         | [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) |
 | 1 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](Research_Papers_Anubhav_Reads/Progressive_Growing_of_GANs_for_Improved_Quality,_.md)         | Pending | GANs, Image  | Tips & Tricks | 2018 | ICLR       | Jaakko Lehtinen, Samuli Laine, Tero Karras, Timo Aila |         | [link](https://arxiv.org/abs/1710.10196)                                                                                                                          |
+
+
+---
+
+## Santhosh K. Ramakrishnan
+
+|   | Paper Name                                                                                                                                             | Status  | Topic        | Category               | Year | Conference | Author                                                   | Summary | Link                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------ | ---------------------- | ---- | ---------- | -------------------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [Occupancy Anticipation for Efficient Exploration and Navigation](Research_Papers_Anubhav_Reads/Occupancy_Anticipation_for_Efficient_Exploration_a.md) | Pending | CNNs, Image  | Reinforcement-Learning | 2020 | ECCV       | Kristen Grauman, Santhosh K. Ramakrishnan, Ziad Al-Halah |         | [link](https://arxiv.org/pdf/2008.09285.pdf) |
 
 
 ---
@@ -1064,10 +1195,9 @@
 
 ## Shibani Santurkar
 
-|   | Paper Name                                                                                                                                     | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md)             | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
-| 1 | [Copy of How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/Copy_of_How_Does_Batch_Normalization_Help_Optimiza.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
+|   | Paper Name                                                                                                                         | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
 
 
 ---
@@ -1202,9 +1332,9 @@
 
 ## Tinghui Zhou
 
-|   | Paper Name                                                                                                                                                   | Status  | Topic        | Category | Year | Conference | Author                                                    | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------ | -------- | ---- | ---------- | --------------------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md) | Reading | GANs, Image  |          | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou |         | [link](https://arxiv.org/abs/1611.07004) |
+|   | Paper Name                                                                                                                                                   | Status | Topic        | Category | Year | Conference | Author                                                    | Summary                                                                                                  | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------ | -------- | ---- | ---------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md) | Read   | GANs, Image  |          | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou | Image to image translation using Conditional GANs and dataset of image pairs from one domain to another. | [link](https://arxiv.org/abs/1611.07004) |
 
 
 ---
@@ -1344,6 +1474,17 @@
 
 ---
 
+## Yejin Choi
+
+|   | Paper Name                                                                                                                                                        | Status  | Topic                                     | Category | Year | Conference | Author                                                      | Summary | Link                                                                           |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | -------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](Research_Papers_Anubhav_Reads/ATOMIC_An_Atlas_of_Machine_Commonsense_for_If-Then.md)              | Pending | AGI, Dataset, Text                        |          | 2019 | AAAI       | Maarten Sap, Noah A. Smith, Ronan Le Bras, Yejin Choi       |         | [link](https://arxiv.org/pdf/1811.00146.pdf)                                   |
+| 1 | [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](Research_Papers_Anubhav_Reads/COMET_Commonsense_Transformers_for_Automatic_Knowl.md) | Pending | AGI, Text , Transformers                  |          | 2019 | ACL        | Antoine Bosselut, Hannah Rashkin, Yejin Choi                |         | [link](https://arxiv.org/pdf/1906.05317.pdf)                                   |
+| 2 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md)          | Pending | AGI, Dataset, Image , Text , Transformers |          | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
+
+
+---
+
 ## Ygor Rebouças Serpa
 
 |   | Paper Name                                                                                                                      | Status  | Topic               | Category | Year | Conference | Author              | Summary | Link                                                                                              |
@@ -1412,6 +1553,15 @@
 |   | Paper Name                                                                                                                                                       | Status  | Topic       | Category                     | Year | Conference | Author             | Summary | Link                                     |
 | - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
 | 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | Pending | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang |         | [link](https://arxiv.org/abs/1812.01187) |
+
+
+---
+
+## Ziad Al-Halah
+
+|   | Paper Name                                                                                                                                             | Status  | Topic        | Category               | Year | Conference | Author                                                   | Summary | Link                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------ | ---------------------- | ---- | ---------- | -------------------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [Occupancy Anticipation for Efficient Exploration and Navigation](Research_Papers_Anubhav_Reads/Occupancy_Anticipation_for_Efficient_Exploration_a.md) | Pending | CNNs, Image  | Reinforcement-Learning | 2020 | ECCV       | Kristen Grauman, Santhosh K. Ramakrishnan, Ziad Al-Halah |         | [link](https://arxiv.org/pdf/2008.09285.pdf) |
 
 
 ---
