@@ -7,6 +7,7 @@
 - [Aleksander Madry](#Aleksander-Madry)
 - [Alexandre Alahi](#Alexandre-Alahi)
 - [Alexei A. Efros](#Alexei-A.-Efros)
+- [Alexey Dosovitskiy](#Alexey-Dosovitskiy)
 - [Alexis Conneau](#Alexis-Conneau)
 - [Alfredo Canziani](#Alfredo-Canziani)
 - [Ali Farhadi](#Ali-Farhadi)
@@ -24,10 +25,13 @@
 - [Boaz Barak](#Boaz-Barak)
 - [Chandra Bhagavatula](#Chandra-Bhagavatula)
 - [Christian Szegedy](#Christian-Szegedy)
+- [Colin Raffel](#Colin-Raffel)
 - [Dario Amodei](#Dario-Amodei)
 - [David Berthelot](#David-Berthelot)
 - [David J. Schwab](#David-J.-Schwab)
+- [David Silver](#David-Silver)
 - [Davis Wertheimer](#Davis-Wertheimer)
+- [Demis Hassabis](#Demis-Hassabis)
 - [Diederik P. Kingma](#Diederik-P.-Kingma)
 - [Dimitris Metaxas](#Dimitris-Metaxas)
 - [Dimitris Tsipras](#Dimitris-Tsipras)
@@ -44,11 +48,14 @@
 - [Hannah Rashkin](#Hannah-Rashkin)
 - [Hao Li](#Hao-Li)
 - [Ian Goodfellow](#Ian-Goodfellow)
+- [Illia Polosukhin](#Illia-Polosukhin)
 - [Ilya Sutskever](#Ilya-Sutskever)
+- [Ioannis Antonoglou](#Ioannis-Antonoglou)
 - [Jaakko Lehtinen](#Jaakko-Lehtinen)
 - [Jacob Devlin](#Jacob-Devlin)
 - [Jae Sung Park](#Jae-Sung-Park)
 - [Jaegul Choo](#Jaegul-Choo)
+- [Jakob Uszkoreit](#Jakob-Uszkoreit)
 - [James J. Little](#James-J.-Little)
 - [Javier Romero](#Javier-Romero)
 - [Jeffrey Dean](#Jeffrey-Dean)
@@ -59,6 +66,7 @@
 - [Jiri Matas](#Jiri-Matas)
 - [Jitendra Malik](#Jitendra-Malik)
 - [Jonathan Frankle](#Jonathan-Frankle)
+- [Julian Schrittwiese](#Julian-Schrittwiese)
 - [Julieta Martinez](#Julieta-Martinez)
 - [Jun Huang](#Jun-Huang)
 - [Jun-Yan Zhu](#Jun-Yan-Zhu)
@@ -67,9 +75,12 @@
 - [Kai Chen](#Kai-Chen)
 - [Kaiming He](#Kaiming-He)
 - [Ke Li](#Ke-Li)
+- [Kenton Lee](#Kenton-Lee)
 - [Kristen Grauman](#Kristen-Grauman)
+- [Kristina Toutanova](#Kristina-Toutanova)
 - [Larry Davis](#Larry-Davis)
 - [Li Fei-Fei](#Li-Fei-Fei)
+- [Lucas Beyer](#Lucas-Beyer)
 - [Ludovic Denoyer](#Ludovic-Denoyer)
 - [Lukasz Kaiser](#Lukasz-Kaiser)
 - [Luke Metz](#Luke-Metz)
@@ -93,6 +104,7 @@
 - [Minjun Li](#Minjun-Li)
 - [Munyoung Kim](#Munyoung-Kim)
 - [Myle Ott](#Myle-Ott)
+- [Neil Houlsby](#Neil-Houlsby)
 - [Nicholas Frosst](#Nicholas-Frosst)
 - [Nikita Kitaev](#Nikita-Kitaev)
 - [Ning Yu](#Ning-Yu)
@@ -102,6 +114,7 @@
 - [Pablo Márquez-Neila](#Pablo-Márquez-Neila)
 - [Pascal Fua](#Pascal-Fua)
 - [Peng Zhou](#Peng-Zhou)
+- [Peter J. Liu](#Peter-J.-Liu)
 - [Peter W. Battaglia](#Peter-W.-Battaglia)
 - [Peter Wonka](#Peter-Wonka)
 - [Phillip Isola](#Phillip-Isola)
@@ -118,6 +131,7 @@
 - [Song Han](#Song-Han)
 - [Soumith Chintala](#Soumith-Chintala)
 - [Sowmya Yellapragada](#Sowmya-Yellapragada)
+- [Stanislas Polu](#Stanislas-Polu)
 - [Stephen Merity](#Stephen-Merity)
 - [Sudharshan Chandra Babu](#Sudharshan-Chandra-Babu)
 - [Sunghun Kim](#Sunghun-Kim)
@@ -145,6 +159,7 @@
 - [Xun Huang](#Xun-Huang)
 - [Yamini Bansal](#Yamini-Bansal)
 - [Yanghua Jin](#Yanghua-Jin)
+- [Yanqi Zhou](#Yanqi-Zhou)
 - [Yejin Choi](#Yejin-Choi)
 - [Ygor Rebouças Serpa](#Ygor-Rebouças-Serpa)
 - [Yin Cui](#Yin-Cui)
@@ -155,6 +170,7 @@
 - [Yuxin Wu](#Yuxin-Wu)
 - [Zhi Zhang](#Zhi-Zhang)
 - [Ziad Al-Halah](#Ziad-Al-Halah)
+- [Łukasz Kaiser](#Łukasz-Kaiser)
 
 ---
 
@@ -178,10 +194,10 @@
 
 ## Alec Radford
 
-|   | Paper Name                                                                                                                                        | Status  | Topic               | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                                                                                                                         |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Text , Transformers |                 | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                              |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
-| 1 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md)                                   | Pending | GANs, Image         | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans)                                                                                               |
+|   | Paper Name                                                                                                                                        | Status  | Topic                          | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                                                                                                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Attention, Text , Transformers |                 | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                              |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+| 1 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md)                                   | Pending | GANs, Image                    | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans)                                                                                               |
 
 
 ---
@@ -210,6 +226,15 @@
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------ | ---- | ---------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 0 | [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](Research_Papers_Anubhav_Reads/Pix2Pix_Image-to-Image_Translation_with_Conditiona.md)                     | Read    | GANs, Image  |              | 2017 | CVPR       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou | Image to image translation using Conditional GANs and dataset of image pairs from one domain to another. | [link](https://arxiv.org/abs/1611.07004)                                                                                  |
 | 1 | [CycleGAN: Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks](Research_Papers_Anubhav_Reads/CycleGAN_Unpaired_Image-To-Image_Translation_Using.md) | Pending | GANs, Image  | Architecture | 2017 | ICCV       | Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Taesung Park |                                                                                                          | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) |
+
+
+---
+
+## Alexey Dosovitskiy
+
+|   | Paper Name                                                                                                                                                                            | Status  | Topic                           | Category | Year | Conference | Author                                                         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------- | -------- | ---- | ---------- | -------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Vision Transformer: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](Research_Papers_Anubhav_Reads/Vision_Transformer_An_Image_is_Worth_16x16_Words_T.md) | Pending | Attention, Image , Transformers |          | 2021 | ICLR       | Alexey Dosovitskiy, Jakob Uszkoreit, Lucas Beyer, Neil Houlsby |         | [link](https://arxiv.org/abs/2010.11929) |
 
 
 ---
@@ -281,9 +306,9 @@
 
 ## Anselm Levskaya
 
-|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                      | Year | Conference | Author                                        | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+|   | Paper Name                                                                                                 | Status | Topic                          | Category                                                      | Year | Conference | Author                                        | Summary                                                                                                                 | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Read   | Attention, Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev | Overcome time and memory complexity of Transformers by bucketing Query, Keys and using Reversible residual connections. | [link](https://arxiv.org/abs/2001.04451) |
 
 
 ---
@@ -308,9 +333,9 @@
 
 ## Ashish Vaswani
 
-|   | Paper Name                                                                              | Status | Topic                          | Category     | Year | Conference | Author                       | Summary                                                                                       | Link                                                               |
-| - | --------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ---------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Read   | Attention, Text , Transformers | Architecture | 2017 | NIPS       | Ashish Vaswani, Noam Shazeer | Talks about Transformer architecture which brings SOTA performance for different tasks in NLP | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
+|   | Paper Name                                                                              | Status | Topic                          | Category     | Year | Conference | Author                                                        | Summary                                                                                       | Link                                                               |
+| - | --------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Read   | Attention, Text , Transformers | Architecture | 2017 | NIPS       | Ashish Vaswani, Illia Polosukhin, Noam Shazeer, Łukasz Kaiser | Talks about Transformer architecture which brings SOTA performance for different tasks in NLP | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
 
 
 ---
@@ -363,18 +388,27 @@
 
 ## Christian Szegedy
 
-|   | Paper Name                                                                                                                    | Status    | Topic             | Category     | Year | Conference | Author                     | Summary | Link                                                                                                                   |
-| - | ----------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | ------------ | ---- | ---------- | -------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Inception-v1 (Going Deeper With Convolutions)](Research_Papers_Anubhav_Reads/Inception-v1_Going_Deeper_With_Convolutions.md) | This week | CNNs, CV , Image  | Architecture | 2015 | CVPR       | Christian Szegedy, Wei Liu |         | [link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) |
+|   | Paper Name                                                                                                                    | Status | Topic             | Category     | Year | Conference | Author                     | Summary                                                                                           | Link                                    |
+| - | ----------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------- | ------------ | ---- | ---------- | -------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 0 | [Inception-v1 (Going Deeper With Convolutions)](Research_Papers_Anubhav_Reads/Inception-v1_Going_Deeper_With_Convolutions.md) | Read   | CNNs, CV , Image  | Architecture | 2015 | CVPR       | Christian Szegedy, Wei Liu | Propose the use of 1x1 conv operations to reduce the number of parameters in a deep and wide CNN  | [link](https://arxiv.org/abs/1409.4842) |
+
+
+---
+
+## Colin Raffel
+
+|   | Paper Name                                                                                                                                                                   | Status | Topic                          | Category | Year | Conference | Author                                                        | Summary                                                                                                                                                                                                             | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | -------- | ---- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](Research_Papers_Anubhav_Reads/T5_Exploring_the_Limits_of_Transfer_Learning_with_.md) | Read   | Attention, Text , Transformers |          | 2020 | JMLR       | Colin Raffel, Noam Shazeer, Peter J. Liu, Wei Liu, Yanqi Zhou | Presents a Text-to-Text transformer model with multi-task learning capabilities, simultaneously solving problems such as machine translation, document summarization, question answering, and classification tasks. | [link](https://arxiv.org/abs/1910.10683) |
 
 
 ---
 
 ## Dario Amodei
 
-|   | Paper Name                                                                                                                                        | Status  | Topic               | Category | Year | Conference | Author                                                 | Summary | Link                                                                                                                                                                         |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ------------------------------------------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+|   | Paper Name                                                                                                                                        | Status  | Topic                          | Category | Year | Conference | Author                                                 | Summary | Link                                                                                                                                                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | -------- | ---- | ---------- | ------------------------------------------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Attention, Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
 
 
 ---
@@ -397,12 +431,30 @@
 
 ---
 
+## David Silver
+
+|   | Paper Name                                                                                                                                        | Status  | Topic | Category               | Year | Conference | Author                                                                | Summary | Link                                                                                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ---------------------- | ---- | ---------- | --------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------- |
+| 0 | [MuZero: Mastering Go, chess, shogi and Atari without rules](Research_Papers_Anubhav_Reads/MuZero_Mastering_Go,_chess,_shogi_and_Atari_withou.md) | Pending |       | Reinforcement-Learning | 2020 | Nature     | David Silver, Demis Hassabis, Ioannis Antonoglou, Julian Schrittwiese |         | [link](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules) |
+
+
+---
+
 ## Davis Wertheimer
 
 |   | Paper Name                                                                                                                                                 | Status  | Topic        | Category          | Year | Conference | Author                                           | Summary | Link                                                                                                                                                        |
 | - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ----------------- | ---- | ---------- | ------------------------------------------------ | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0 | [Few-Shot Learning with Localization in Realistic Settings](Research_Papers_Anubhav_Reads/Few-Shot_Learning_with_Localization_in_Realistic_S.md)           | Pending | CNNs, Image  | Few-shot-learning | 2019 | CVPR       | Bharath Hariharan, Davis Wertheimer              |         | [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wertheimer_Few-Shot_Learning_With_Localization_in_Realistic_Settings_CVPR_2019_paper.pdf)     |
 | 1 | [Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition](Research_Papers_Anubhav_Reads/Revisiting_Pose-Normalization_for_Fine-Grained_Few.md) | Pending | CNNs, Image  | Few-shot-learning | 2020 | CVPR       | Bharath Hariharan, Davis Wertheimer, Luming Tang |         | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Revisiting_Pose-Normalization_for_Fine-Grained_Few-Shot_Recognition_CVPR_2020_paper.pdf) |
+
+
+---
+
+## Demis Hassabis
+
+|   | Paper Name                                                                                                                                        | Status  | Topic | Category               | Year | Conference | Author                                                                | Summary | Link                                                                                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ---------------------- | ---- | ---------- | --------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------- |
+| 0 | [MuZero: Mastering Go, chess, shogi and Atari without rules](Research_Papers_Anubhav_Reads/MuZero_Mastering_Go,_chess,_shogi_and_Atari_withou.md) | Pending |       | Reinforcement-Learning | 2020 | Nature     | David Silver, Demis Hassabis, Ioannis Antonoglou, Julian Schrittwiese |         | [link](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules) |
 
 
 ---
@@ -454,18 +506,18 @@
 
 ## Fangxiaoyu Feng
 
-|   | Paper Name                                                                                                              | Status  | Topic               | Category | Year | Conference | Author                       | Summary | Link                                                                           |
-| - | ----------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ---------------------------- | ------- | ------------------------------------------------------------------------------ |
-| 0 | [Language-Agnostic BERT Sentence Embedding](Research_Papers_Anubhav_Reads/Language-Agnostic_BERT_Sentence_Embedding.md) | Pending | Text , Transformers |          | 2020 | Blog       | Fangxiaoyu Feng, Yinfei Yang |         | [link](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html) |
+|   | Paper Name                                                                                                              | Status | Topic                                           | Category   | Year | Conference | Author                       | Summary                                                                                                                     | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------- | ---------- | ---- | ---------- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Language-Agnostic BERT Sentence Embedding](Research_Papers_Anubhav_Reads/Language-Agnostic_BERT_Sentence_Embedding.md) | Read   | Attention, Siamese Network, Text , Transformers | Embeddings | 2020 | arXiv      | Fangxiaoyu Feng, Yinfei Yang | A BERT model with multilingual sentence embeddings learned over 112 languages and Zero-shot learning over unseen languages. | [link](https://arxiv.org/abs/2007.01852) |
 
 
 ---
 
 ## Forrest N. Iandola
 
-|   | Paper Name                                                | Status    | Topic             | Category                                 | Year | Conference | Author                       | Summary | Link                                     |
-| - | --------------------------------------------------------- | --------- | ----------------- | ---------------------------------------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
-| 0 | [SqueezeNet](Research_Papers_Anubhav_Reads/SqueezeNet.md) | This week | CNNs, CV , Image  | Architecture, Optimization-No. of params | 2016 | arXiv      | Forrest N. Iandola, Song Han |         | [link](https://arxiv.org/abs/1602.07360) |
+|   | Paper Name                                                | Status | Topic             | Category                                 | Year | Conference | Author                       | Summary                                                                   | Link                                     |
+| - | --------------------------------------------------------- | ------ | ----------------- | ---------------------------------------- | ---- | ---------- | ---------------------------- | ------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [SqueezeNet](Research_Papers_Anubhav_Reads/SqueezeNet.md) | Read   | CNNs, CV , Image  | Architecture, Optimization-No. of params | 2016 | arXiv      | Forrest N. Iandola, Song Han | Explores model compression by using 1x1 convolutions called fire modules. | [link](https://arxiv.org/abs/1602.07360) |
 
 
 ---
@@ -554,12 +606,31 @@
 
 ---
 
+## Illia Polosukhin
+
+|   | Paper Name                                                                              | Status | Topic                          | Category     | Year | Conference | Author                                                        | Summary                                                                                       | Link                                                               |
+| - | --------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Read   | Attention, Text , Transformers | Architecture | 2017 | NIPS       | Ashish Vaswani, Illia Polosukhin, Noam Shazeer, Łukasz Kaiser | Talks about Transformer architecture which brings SOTA performance for different tasks in NLP | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
+
+
+---
+
 ## Ilya Sutskever
 
-|   | Paper Name                                                                                                                                         | Status  | Topic               | Category | Year | Conference | Author                                                                                | Summary | Link                                                                                                                                                                         |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md)  | Pending | Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                                |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
-| 1 | [Deep Double Descent: Where Bigger Models and More Data Hurt](Research_Papers_Anubhav_Reads/Deep_Double_Descent_Where_Bigger_Models_and_More_D.md) | Pending | NNs                 |          | 2019 | arXiv      | Boaz Barak, Gal Kaplun, Ilya Sutskever, Preetum Nakkiran, Tristan Yang, Yamini Bansal |         | [link](https://arxiv.org/abs/1912.02292)                                                                                                                                     |
+|   | Paper Name                                                                                                                                               | Status  | Topic                          | Category | Year | Conference | Author                                                                                | Summary | Link                                                                                                                                                                         |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | -------- | ---- | ---------- | ------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md)        | Pending | Attention, Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                                |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+| 1 | [Deep Double Descent: Where Bigger Models and More Data Hurt](Research_Papers_Anubhav_Reads/Deep_Double_Descent_Where_Bigger_Models_and_More_D.md)       | Pending | NNs                            |          | 2019 | arXiv      | Boaz Barak, Gal Kaplun, Ilya Sutskever, Preetum Nakkiran, Tristan Yang, Yamini Bansal |         | [link](https://arxiv.org/abs/1912.02292)                                                                                                                                     |
+| 2 | [GPT-f: Generative Language Modeling for Automated Theorem Proving](Research_Papers_Anubhav_Reads/GPT-f_Generative_Language_Modeling_for_Automated_T.md) | Pending | Attention, Transformers        |          | 2020 | arXiv      | Ilya Sutskever, Stanislas Polu                                                        |         | [link](https://arxiv.org/abs/2009.03393)                                                                                                                                     |
+
+
+---
+
+## Ioannis Antonoglou
+
+|   | Paper Name                                                                                                                                        | Status  | Topic | Category               | Year | Conference | Author                                                                | Summary | Link                                                                                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ---------------------- | ---- | ---------- | --------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------- |
+| 0 | [MuZero: Mastering Go, chess, shogi and Atari without rules](Research_Papers_Anubhav_Reads/MuZero_Mastering_Go,_chess,_shogi_and_Atari_withou.md) | Pending |       | Reinforcement-Learning | 2020 | Nature     | David Silver, Demis Hassabis, Ioannis Antonoglou, Julian Schrittwiese |         | [link](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules) |
 
 
 ---
@@ -575,9 +646,9 @@
 
 ## Jacob Devlin
 
-|   | Paper Name                                                                                                                                                              | Status | Topic               | Category   | Year | Conference | Author                       | Summary                                                                                                                                                                                | Link                                     |
-| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------- | ---------- | ---- | ---------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
+|   | Paper Name                                                                                                                                                              | Status | Topic                          | Category   | Year | Conference | Author                                                       | Summary                                                                                                                                                                                | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ---------- | ---- | ---------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Attention, Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Kenton Lee, Kristina Toutanova, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
 
 
 ---
@@ -596,6 +667,15 @@
 |   | Paper Name                                                                                                                                                                          | Status  | Topic        | Category | Year | Conference | Author                                                                       | Summary | Link                                                                                                               |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ---------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
 | 0 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](Research_Papers_Anubhav_Reads/StarGAN_Unified_Generative_Adversarial_Networks_fo.md) | Pending | GANs, Image  |          | 2018 | CVPR       | Jaegul Choo, Jung-Woo Ha, Minje Choi, Munyoung Kim, Sunghun Kim, Yunjey Choi |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
+
+
+---
+
+## Jakob Uszkoreit
+
+|   | Paper Name                                                                                                                                                                            | Status  | Topic                           | Category | Year | Conference | Author                                                         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------- | -------- | ---- | ---------- | -------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Vision Transformer: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](Research_Papers_Anubhav_Reads/Vision_Transformer_An_Image_is_Worth_16x16_Words_T.md) | Pending | Attention, Image , Transformers |          | 2021 | ICLR       | Alexey Dosovitskiy, Jakob Uszkoreit, Lucas Beyer, Neil Houlsby |         | [link](https://arxiv.org/abs/2010.11929) |
 
 
 ---
@@ -629,9 +709,9 @@
 
 ## Jeffrey Wu
 
-|   | Paper Name                                                                                                                                        | Status  | Topic               | Category | Year | Conference | Author                                                 | Summary | Link                                                                                                                                                                         |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ------------------------------------------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+|   | Paper Name                                                                                                                                        | Status  | Topic                          | Category | Year | Conference | Author                                                 | Summary | Link                                                                                                                                                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | -------- | ---- | ---------- | ------------------------------------------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Attention, Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
 
 
 ---
@@ -683,10 +763,19 @@
 
 ## Jonathan Frankle
 
-|   | Paper Name                                                                                                                                                                       | Status  | Topic        | Category                                  | Year | Conference | Author                                           | Summary | Link                                     |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ----------------------------------------- | ---- | ---------- | ------------------------------------------------ | ------- | ---------------------------------------- |
-| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md)                  | Pending | NNs          | Optimization-No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin                 |         | [link](https://arxiv.org/abs/1803.03635) |
-| 1 | [Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs](Research_Papers_Anubhav_Reads/Training_BatchNorm_and_Only_BatchNorm_On_the_Expre.md) | Pending | CNNs, Image  |                                           | 2020 | arXiv      | Ari S. Morcos, David J. Schwab, Jonathan Frankle |         | [link](https://arxiv.org/abs/2003.00152) |
+|   | Paper Name                                                                                                                                                                       | Status    | Topic        | Category                                  | Year | Conference | Author                                           | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ----------------------------------------- | ---- | ---------- | ------------------------------------------------ | ------- | ---------------------------------------- |
+| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md)                  | This week | NNs          | Optimization-No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin                 |         | [link](https://arxiv.org/abs/1803.03635) |
+| 1 | [Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs](Research_Papers_Anubhav_Reads/Training_BatchNorm_and_Only_BatchNorm_On_the_Expre.md) | Pending   | CNNs, Image  |                                           | 2020 | arXiv      | Ari S. Morcos, David J. Schwab, Jonathan Frankle |         | [link](https://arxiv.org/abs/2003.00152) |
+
+
+---
+
+## Julian Schrittwiese
+
+|   | Paper Name                                                                                                                                        | Status  | Topic | Category               | Year | Conference | Author                                                                | Summary | Link                                                                                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ---------------------- | ---- | ---------- | --------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------- |
+| 0 | [MuZero: Mastering Go, chess, shogi and Atari without rules](Research_Papers_Anubhav_Reads/MuZero_Mastering_Go,_chess,_shogi_and_Atari_withou.md) | Pending |       | Reinforcement-Learning | 2020 | Nature     | David Silver, Demis Hassabis, Ioannis Antonoglou, Julian Schrittwiese |         | [link](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules) |
 
 
 ---
@@ -748,10 +837,10 @@
 
 ## Kaiming He
 
-|   | Paper Name                                                                                                                                  | Status    | Topic              | Category      | Year | Conference | Author                    | Summary | Link                                                                                                        |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------ | ------------- | ---- | ---------- | ------------------------- | ------- | ----------------------------------------------------------------------------------------------------------- |
-| 0 | [ResNet (Deep Residual Learning for Image Recognition)](Research_Papers_Anubhav_Reads/ResNet_Deep_Residual_Learning_for_Image_Recogniti.md) | This week | CNNs, CV , Image   | Architecture  | 2016 | CVPR       | Kaiming He, Xiangyu Zhang |         | [link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
-| 1 | [Group Normalization](Research_Papers_Anubhav_Reads/Group_Normalization.md)                                                                 | Pending   | NNs, Normalization | Optimizations | 2018 | arXiv      | Kaiming He, Yuxin Wu      |         | [link](https://arxiv.org/abs/1803.08494)                                                                    |
+|   | Paper Name                                                                                                                                  | Status  | Topic              | Category      | Year | Conference | Author                    | Summary                                                                         | Link                                                                                                        |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 0 | [ResNet (Deep Residual Learning for Image Recognition)](Research_Papers_Anubhav_Reads/ResNet_Deep_Residual_Learning_for_Image_Recogniti.md) | Read    | CNNs, CV , Image   | Architecture  | 2016 | CVPR       | Kaiming He, Xiangyu Zhang | Introduces Residual or Skip Connections to allow increase in the depth of a DNN | [link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
+| 1 | [Group Normalization](Research_Papers_Anubhav_Reads/Group_Normalization.md)                                                                 | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Kaiming He, Yuxin Wu      |                                                                                 | [link](https://arxiv.org/abs/1803.08494)                                                                    |
 
 
 ---
@@ -765,11 +854,29 @@
 
 ---
 
+## Kenton Lee
+
+|   | Paper Name                                                                                                                                                              | Status | Topic                          | Category   | Year | Conference | Author                                                       | Summary                                                                                                                                                                                | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ---------- | ---- | ---------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Attention, Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Kenton Lee, Kristina Toutanova, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
+
+
+---
+
 ## Kristen Grauman
 
 |   | Paper Name                                                                                                                                             | Status  | Topic        | Category               | Year | Conference | Author                                                   | Summary | Link                                         |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------ | ---------------------- | ---- | ---------- | -------------------------------------------------------- | ------- | -------------------------------------------- |
 | 0 | [Occupancy Anticipation for Efficient Exploration and Navigation](Research_Papers_Anubhav_Reads/Occupancy_Anticipation_for_Efficient_Exploration_a.md) | Pending | CNNs, Image  | Reinforcement-Learning | 2020 | ECCV       | Kristen Grauman, Santhosh K. Ramakrishnan, Ziad Al-Halah |         | [link](https://arxiv.org/pdf/2008.09285.pdf) |
+
+
+---
+
+## Kristina Toutanova
+
+|   | Paper Name                                                                                                                                                              | Status | Topic                          | Category   | Year | Conference | Author                                                       | Summary                                                                                                                                                                                | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ---------- | ---- | ---------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Attention, Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Kenton Lee, Kristina Toutanova, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
 
 
 ---
@@ -792,6 +899,15 @@
 
 ---
 
+## Lucas Beyer
+
+|   | Paper Name                                                                                                                                                                            | Status  | Topic                           | Category | Year | Conference | Author                                                         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------- | -------- | ---- | ---------- | -------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Vision Transformer: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](Research_Papers_Anubhav_Reads/Vision_Transformer_An_Image_is_Worth_16x16_Words_T.md) | Pending | Attention, Image , Transformers |          | 2021 | ICLR       | Alexey Dosovitskiy, Jakob Uszkoreit, Lucas Beyer, Neil Houlsby |         | [link](https://arxiv.org/abs/2010.11929) |
+
+
+---
+
 ## Ludovic Denoyer
 
 |   | Paper Name                                                                                                                                             | Status  | Topic                          | Category     | Year | Conference | Author                                                                            | Summary | Link                                     |
@@ -804,9 +920,9 @@
 
 ## Lukasz Kaiser
 
-|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                      | Year | Conference | Author                                        | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+|   | Paper Name                                                                                                 | Status | Topic                          | Category                                                      | Year | Conference | Author                                        | Summary                                                                                                                 | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Read   | Attention, Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev | Overcome time and memory complexity of Transformers by bucketing Query, Keys and using Reversible residual connections. | [link](https://arxiv.org/abs/2001.04451) |
 
 
 ---
@@ -904,9 +1020,9 @@
 
 ## Matthias Bethge
 
-|   | Paper Name                                                                                                                                                                      | Status  | Topic             | Category | Year | Conference | Author                           | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | -------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](Research_Papers_Anubhav_Reads/Approximating_CNNs_with_Bag-of-local-Features_mode.md) | Pending | CNNs, CV , Image  |          | 2019 | arXiv      | Matthias Bethge, Wieland Brendel |         | [link](https://arxiv.org/abs/1904.00760) |
+|   | Paper Name                                                                                                                                                                      | Status    | Topic             | Category | Year | Conference | Author                           | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | -------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](Research_Papers_Anubhav_Reads/Approximating_CNNs_with_Bag-of-local-Features_mode.md) | This week | CNNs, CV , Image  |          | 2019 | arXiv      | Matthias Bethge, Wieland Brendel |         | [link](https://arxiv.org/abs/1904.00760) |
 
 
 ---
@@ -940,18 +1056,18 @@
 
 ## Michael Carbin
 
-|   | Paper Name                                                                                                                                                      | Status  | Topic | Category                                  | Year | Conference | Author                           | Summary | Link                                     |
-| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ----------------------------------------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
-| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md) | Pending | NNs   | Optimization-No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin |         | [link](https://arxiv.org/abs/1803.03635) |
+|   | Paper Name                                                                                                                                                      | Status    | Topic | Category                                  | Year | Conference | Author                           | Summary | Link                                     |
+| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----- | ----------------------------------------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
+| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md) | This week | NNs   | Optimization-No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin |         | [link](https://arxiv.org/abs/1803.03635) |
 
 
 ---
 
 ## Ming-Wei Chang
 
-|   | Paper Name                                                                                                                                                              | Status | Topic               | Category   | Year | Conference | Author                       | Summary                                                                                                                                                                                | Link                                     |
-| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------- | ---------- | ---- | ---------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
+|   | Paper Name                                                                                                                                                              | Status | Topic                          | Category   | Year | Conference | Author                                                       | Summary                                                                                                                                                                                | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ---------- | ---- | ---------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Attention, Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Kenton Lee, Kristina Toutanova, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
 
 
 ---
@@ -1002,6 +1118,15 @@
 
 ---
 
+## Neil Houlsby
+
+|   | Paper Name                                                                                                                                                                            | Status  | Topic                           | Category | Year | Conference | Author                                                         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------- | -------- | ---- | ---------- | -------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Vision Transformer: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](Research_Papers_Anubhav_Reads/Vision_Transformer_An_Image_is_Worth_16x16_Words_T.md) | Pending | Attention, Image , Transformers |          | 2021 | ICLR       | Alexey Dosovitskiy, Jakob Uszkoreit, Lucas Beyer, Neil Houlsby |         | [link](https://arxiv.org/abs/2010.11929) |
+
+
+---
+
 ## Nicholas Frosst
 
 |   | Paper Name                                                                                                                               | Status  | Topic       | Category     | Year | Conference | Author                                          | Summary | Link                                     |
@@ -1013,9 +1138,9 @@
 
 ## Nikita Kitaev
 
-|   | Paper Name                                                                                                 | Status  | Topic               | Category                                                      | Year | Conference | Author                                        | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------- | ------- | ------------------- | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Pending | Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev |         | [link](https://arxiv.org/abs/2001.04451) |
+|   | Paper Name                                                                                                 | Status | Topic                          | Category                                                      | Year | Conference | Author                                        | Summary                                                                                                                 | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------------------------------------------------------- | ---- | ---------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Reformer: The Efficient Transformer](Research_Papers_Anubhav_Reads/Reformer_The_Efficient_Transformer.md) | Read   | Attention, Text , Transformers | Architecture, Optimization-Memory, Optimization-No. of params | 2020 | arXiv      | Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev | Overcome time and memory complexity of Transformers by bucketing Query, Keys and using Reversible residual connections. | [link](https://arxiv.org/abs/2001.04451) |
 
 
 ---
@@ -1040,9 +1165,10 @@
 
 ## Noam Shazeer
 
-|   | Paper Name                                                                              | Status | Topic                          | Category     | Year | Conference | Author                       | Summary                                                                                       | Link                                                               |
-| - | --------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ---------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Read   | Attention, Text , Transformers | Architecture | 2017 | NIPS       | Ashish Vaswani, Noam Shazeer | Talks about Transformer architecture which brings SOTA performance for different tasks in NLP | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
+|   | Paper Name                                                                                                                                                                   | Status | Topic                          | Category     | Year | Conference | Author                                                        | Summary                                                                                                                                                                                                             | Link                                                               |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md)                                                                                      | Read   | Attention, Text , Transformers | Architecture | 2017 | NIPS       | Ashish Vaswani, Illia Polosukhin, Noam Shazeer, Łukasz Kaiser | Talks about Transformer architecture which brings SOTA performance for different tasks in NLP                                                                                                                       | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
+| 1 | [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](Research_Papers_Anubhav_Reads/T5_Exploring_the_Limits_of_Transfer_Learning_with_.md) | Read   | Attention, Text , Transformers |              | 2020 | JMLR       | Colin Raffel, Noam Shazeer, Peter J. Liu, Wei Liu, Yanqi Zhou | Presents a Text-to-Text transformer model with multi-task learning capabilities, simultaneously solving problems such as machine translation, document summarization, question answering, and classification tasks. | [link](https://arxiv.org/abs/1910.10683)                           |
 
 
 ---
@@ -1079,6 +1205,15 @@
 |   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | -------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 0 | [IMLE-GAN: Inclusive GAN: Improving Data and Minority Coverage in Generative Models](Research_Papers_Anubhav_Reads/IMLE-GAN_Inclusive_GAN_Improving_Data_and_Minority.md) | Pending | GANs  |          | 2020 | arXiv      | Jitendra Malik, Ke Li, Larry Davis, Mario Fritz, Ning Yu, Peng Zhou |         | [link](https://arxiv.org/abs/2004.03355?utm_campaign=The%20Batch&utm_medium=email&_hsmi=96406275&_hsenc=p2ANqtz-8ra-5k3I7Hv0hosTfQ1neO9Z10r3yMPB1oQfzpBEfkCQ_i0q0diEm4w21S8WqkMbOASXxQvDTIoqJbBZvX4i7S-exeOg&utm_content=96406275&utm_source=hs_email) |
+
+
+---
+
+## Peter J. Liu
+
+|   | Paper Name                                                                                                                                                                   | Status | Topic                          | Category | Year | Conference | Author                                                        | Summary                                                                                                                                                                                                             | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | -------- | ---- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](Research_Papers_Anubhav_Reads/T5_Exploring_the_Limits_of_Transfer_Learning_with_.md) | Read   | Attention, Text , Transformers |          | 2020 | JMLR       | Colin Raffel, Noam Shazeer, Peter J. Liu, Wei Liu, Yanqi Zhou | Presents a Text-to-Text transformer model with multi-task learning capabilities, simultaneously solving problems such as machine translation, document summarization, question answering, and classification tasks. | [link](https://arxiv.org/abs/1910.10683) |
 
 
 ---
@@ -1204,9 +1339,9 @@
 
 ## Song Han
 
-|   | Paper Name                                                | Status    | Topic             | Category                                 | Year | Conference | Author                       | Summary | Link                                     |
-| - | --------------------------------------------------------- | --------- | ----------------- | ---------------------------------------- | ---- | ---------- | ---------------------------- | ------- | ---------------------------------------- |
-| 0 | [SqueezeNet](Research_Papers_Anubhav_Reads/SqueezeNet.md) | This week | CNNs, CV , Image  | Architecture, Optimization-No. of params | 2016 | arXiv      | Forrest N. Iandola, Song Han |         | [link](https://arxiv.org/abs/1602.07360) |
+|   | Paper Name                                                | Status | Topic             | Category                                 | Year | Conference | Author                       | Summary                                                                   | Link                                     |
+| - | --------------------------------------------------------- | ------ | ----------------- | ---------------------------------------- | ---- | ---------- | ---------------------------- | ------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [SqueezeNet](Research_Papers_Anubhav_Reads/SqueezeNet.md) | Read   | CNNs, CV , Image  | Architecture, Optimization-No. of params | 2016 | arXiv      | Forrest N. Iandola, Song Han | Explores model compression by using 1x1 convolutions called fire modules. | [link](https://arxiv.org/abs/1602.07360) |
 
 
 ---
@@ -1225,6 +1360,15 @@
 |   | Paper Name                                                                                                                          | Status  | Topic                            | Category                  | Year | Conference | Author              | Summary | Link                                                                                                                           |
 | - | ----------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------- | ------------------------- | ---- | ---------- | ------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | 0 | [Understanding Loss Functions in Computer Vision](Research_Papers_Anubhav_Reads/Understanding_Loss_Functions_in_Computer_Vision.md) | Pending | CV , GANs, Image , Loss Function | Comparison, Tips & Tricks | 2020 | Blog       | Sowmya Yellapragada |         | [link](https://medium.com/ml-cheat-sheet/winning-at-loss-functions-2-important-loss-functions-in-computer-vision-b2b9d293e15a) |
+
+
+---
+
+## Stanislas Polu
+
+|   | Paper Name                                                                                                                                               | Status  | Topic                   | Category | Year | Conference | Author                         | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------- | -------- | ---- | ---------- | ------------------------------ | ------- | ---------------------------------------- |
+| 0 | [GPT-f: Generative Language Modeling for Automated Theorem Proving](Research_Papers_Anubhav_Reads/GPT-f_Generative_Language_Modeling_for_Automated_T.md) | Pending | Attention, Transformers |          | 2020 | arXiv      | Ilya Sutskever, Stanislas Polu |         | [link](https://arxiv.org/abs/2009.03393) |
 
 
 ---
@@ -1350,9 +1494,9 @@
 
 ## Tong He
 
-|   | Paper Name                                                                                                                                                       | Status  | Topic       | Category                     | Year | Conference | Author             | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
-| 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | Pending | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang |         | [link](https://arxiv.org/abs/1812.01187) |
+|   | Paper Name                                                                                                                                                       | Status    | Topic       | Category                     | Year | Conference | Author             | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
+| 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | This week | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang |         | [link](https://arxiv.org/abs/1812.01187) |
 
 
 ---
@@ -1395,18 +1539,19 @@
 
 ## Wei Liu
 
-|   | Paper Name                                                                                                                    | Status    | Topic             | Category     | Year | Conference | Author                     | Summary | Link                                                                                                                   |
-| - | ----------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | ------------ | ---- | ---------- | -------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 0 | [Inception-v1 (Going Deeper With Convolutions)](Research_Papers_Anubhav_Reads/Inception-v1_Going_Deeper_With_Convolutions.md) | This week | CNNs, CV , Image  | Architecture | 2015 | CVPR       | Christian Szegedy, Wei Liu |         | [link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) |
+|   | Paper Name                                                                                                                                                                   | Status | Topic                          | Category     | Year | Conference | Author                                                        | Summary                                                                                                                                                                                                             | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Inception-v1 (Going Deeper With Convolutions)](Research_Papers_Anubhav_Reads/Inception-v1_Going_Deeper_With_Convolutions.md)                                                | Read   | CNNs, CV , Image               | Architecture | 2015 | CVPR       | Christian Szegedy, Wei Liu                                    | Propose the use of 1x1 conv operations to reduce the number of parameters in a deep and wide CNN                                                                                                                    | [link](https://arxiv.org/abs/1409.4842)  |
+| 1 | [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](Research_Papers_Anubhav_Reads/T5_Exploring_the_Limits_of_Transfer_Learning_with_.md) | Read   | Attention, Text , Transformers |              | 2020 | JMLR       | Colin Raffel, Noam Shazeer, Peter J. Liu, Wei Liu, Yanqi Zhou | Presents a Text-to-Text transformer model with multi-task learning capabilities, simultaneously solving problems such as machine translation, document summarization, question answering, and classification tasks. | [link](https://arxiv.org/abs/1910.10683) |
 
 
 ---
 
 ## Wieland Brendel
 
-|   | Paper Name                                                                                                                                                                      | Status  | Topic             | Category | Year | Conference | Author                           | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | -------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](Research_Papers_Anubhav_Reads/Approximating_CNNs_with_Bag-of-local-Features_mode.md) | Pending | CNNs, CV , Image  |          | 2019 | arXiv      | Matthias Bethge, Wieland Brendel |         | [link](https://arxiv.org/abs/1904.00760) |
+|   | Paper Name                                                                                                                                                                      | Status    | Topic             | Category | Year | Conference | Author                           | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | -------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](Research_Papers_Anubhav_Reads/Approximating_CNNs_with_Bag-of-local-Features_mode.md) | This week | CNNs, CV , Image  |          | 2019 | arXiv      | Matthias Bethge, Wieland Brendel |         | [link](https://arxiv.org/abs/1904.00760) |
 
 
 ---
@@ -1431,9 +1576,9 @@
 
 ## Xiangyu Zhang
 
-|   | Paper Name                                                                                                                                  | Status    | Topic             | Category     | Year | Conference | Author                    | Summary | Link                                                                                                        |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | ------------ | ---- | ---------- | ------------------------- | ------- | ----------------------------------------------------------------------------------------------------------- |
-| 0 | [ResNet (Deep Residual Learning for Image Recognition)](Research_Papers_Anubhav_Reads/ResNet_Deep_Residual_Learning_for_Image_Recogniti.md) | This week | CNNs, CV , Image  | Architecture | 2016 | CVPR       | Kaiming He, Xiangyu Zhang |         | [link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
+|   | Paper Name                                                                                                                                  | Status | Topic             | Category     | Year | Conference | Author                    | Summary                                                                         | Link                                                                                                        |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------- | ------------ | ---- | ---------- | ------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 0 | [ResNet (Deep Residual Learning for Image Recognition)](Research_Papers_Anubhav_Reads/ResNet_Deep_Residual_Learning_for_Image_Recogniti.md) | Read   | CNNs, CV , Image  | Architecture | 2016 | CVPR       | Kaiming He, Xiangyu Zhang | Introduces Residual or Skip Connections to allow increase in the depth of a DNN | [link](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
 
 
 ---
@@ -1474,6 +1619,15 @@
 
 ---
 
+## Yanqi Zhou
+
+|   | Paper Name                                                                                                                                                                   | Status | Topic                          | Category | Year | Conference | Author                                                        | Summary                                                                                                                                                                                                             | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | -------- | ---- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](Research_Papers_Anubhav_Reads/T5_Exploring_the_Limits_of_Transfer_Learning_with_.md) | Read   | Attention, Text , Transformers |          | 2020 | JMLR       | Colin Raffel, Noam Shazeer, Peter J. Liu, Wei Liu, Yanqi Zhou | Presents a Text-to-Text transformer model with multi-task learning capabilities, simultaneously solving problems such as machine translation, document summarization, question answering, and classification tasks. | [link](https://arxiv.org/abs/1910.10683) |
+
+
+---
+
 ## Yejin Choi
 
 |   | Paper Name                                                                                                                                                        | Status  | Topic                                     | Category | Year | Conference | Author                                                      | Summary | Link                                                                           |
@@ -1487,9 +1641,9 @@
 
 ## Ygor Rebouças Serpa
 
-|   | Paper Name                                                                                                                      | Status  | Topic               | Category | Year | Conference | Author              | Summary | Link                                                                                              |
-| - | ------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ------------------- | ------- | ------------------------------------------------------------------------------------------------- |
-| 0 | [A Comprehensive Guide on Activation Functions](Research_Papers_Anubhav_Reads/A_Comprehensive_Guide_on_Activation_Functions.md) | Pending | Activation Function |          | 2020 | Blog       | Ygor Rebouças Serpa |         | [link](https://towardsdatascience.com/a-comprehensive-guide-on-activation-functions-b45ed37a4fa5) |
+|   | Paper Name                                                                                                                      | Status    | Topic               | Category | Year | Conference | Author              | Summary | Link                                                                                              |
+| - | ------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------- | -------- | ---- | ---------- | ------------------- | ------- | ------------------------------------------------------------------------------------------------- |
+| 0 | [A Comprehensive Guide on Activation Functions](Research_Papers_Anubhav_Reads/A_Comprehensive_Guide_on_Activation_Functions.md) | This week | Activation Function |          | 2020 | Blog       | Ygor Rebouças Serpa |         | [link](https://towardsdatascience.com/a-comprehensive-guide-on-activation-functions-b45ed37a4fa5) |
 
 
 ---
@@ -1505,9 +1659,9 @@
 
 ## Yinfei Yang
 
-|   | Paper Name                                                                                                              | Status  | Topic               | Category | Year | Conference | Author                       | Summary | Link                                                                           |
-| - | ----------------------------------------------------------------------------------------------------------------------- | ------- | ------------------- | -------- | ---- | ---------- | ---------------------------- | ------- | ------------------------------------------------------------------------------ |
-| 0 | [Language-Agnostic BERT Sentence Embedding](Research_Papers_Anubhav_Reads/Language-Agnostic_BERT_Sentence_Embedding.md) | Pending | Text , Transformers |          | 2020 | Blog       | Fangxiaoyu Feng, Yinfei Yang |         | [link](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html) |
+|   | Paper Name                                                                                                              | Status | Topic                                           | Category   | Year | Conference | Author                       | Summary                                                                                                                     | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------- | ---------- | ---- | ---------- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Language-Agnostic BERT Sentence Embedding](Research_Papers_Anubhav_Reads/Language-Agnostic_BERT_Sentence_Embedding.md) | Read   | Attention, Siamese Network, Text , Transformers | Embeddings | 2020 | arXiv      | Fangxiaoyu Feng, Yinfei Yang | A BERT model with multilingual sentence embeddings learned over 112 languages and Zero-shot learning over unseen languages. | [link](https://arxiv.org/abs/2007.01852) |
 
 
 ---
@@ -1550,9 +1704,9 @@
 
 ## Zhi Zhang
 
-|   | Paper Name                                                                                                                                                       | Status  | Topic       | Category                     | Year | Conference | Author             | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
-| 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | Pending | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang |         | [link](https://arxiv.org/abs/1812.01187) |
+|   | Paper Name                                                                                                                                                       | Status    | Topic       | Category                     | Year | Conference | Author             | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
+| 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | This week | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang |         | [link](https://arxiv.org/abs/1812.01187) |
 
 
 ---
@@ -1562,6 +1716,15 @@
 |   | Paper Name                                                                                                                                             | Status  | Topic        | Category               | Year | Conference | Author                                                   | Summary | Link                                         |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------ | ---------------------- | ---- | ---------- | -------------------------------------------------------- | ------- | -------------------------------------------- |
 | 0 | [Occupancy Anticipation for Efficient Exploration and Navigation](Research_Papers_Anubhav_Reads/Occupancy_Anticipation_for_Efficient_Exploration_a.md) | Pending | CNNs, Image  | Reinforcement-Learning | 2020 | ECCV       | Kristen Grauman, Santhosh K. Ramakrishnan, Ziad Al-Halah |         | [link](https://arxiv.org/pdf/2008.09285.pdf) |
+
+
+---
+
+## Łukasz Kaiser
+
+|   | Paper Name                                                                              | Status | Topic                          | Category     | Year | Conference | Author                                                        | Summary                                                                                       | Link                                                               |
+| - | --------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------ | ---- | ---------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 0 | [Attention is All you Need](Research_Papers_Anubhav_Reads/Attention_is_All_you_Need.md) | Read   | Attention, Text , Transformers | Architecture | 2017 | NIPS       | Ashish Vaswani, Illia Polosukhin, Noam Shazeer, Łukasz Kaiser | Talks about Transformer architecture which brings SOTA performance for different tasks in NLP | [link](http://papers.nips.cc/paper/7181-attention-is-all-you-need) |
 
 
 ---

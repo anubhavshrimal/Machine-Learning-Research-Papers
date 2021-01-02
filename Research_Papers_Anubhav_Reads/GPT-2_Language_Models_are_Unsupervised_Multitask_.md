@@ -5,7 +5,7 @@ Link: https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTA
 
 Status: Pending
 
-Topic: Text , Transformers
+Topic: Attention, Text , Transformers
 
 Year: 2019
 

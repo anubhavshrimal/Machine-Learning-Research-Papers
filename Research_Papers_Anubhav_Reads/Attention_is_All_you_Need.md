@@ -1,5 +1,5 @@
 # Attention is All you Need
-Author: Ashish Vaswani, Noam Shazeer
+Author: Ashish Vaswani, Illia Polosukhin, Noam Shazeer, Łukasz Kaiser
 
 Category: Architecture
 

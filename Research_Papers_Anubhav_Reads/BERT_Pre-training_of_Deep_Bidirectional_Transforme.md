@@ -1,5 +1,5 @@
 # BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-Author: Jacob Devlin, Ming-Wei Chang
+Author: Jacob Devlin, Kenton Lee, Kristina Toutanova, Ming-Wei Chang
 
 Category: Embeddings
 
@@ -11,7 +11,7 @@ Status: Read
 
 Summary: BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks.
 
-Topic: Text , Transformers
+Topic: Attention, Text , Transformers
 
 Year: 2018
 

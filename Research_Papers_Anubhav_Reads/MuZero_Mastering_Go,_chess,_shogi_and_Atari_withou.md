@@ -1,15 +1,13 @@
-# Occupancy Anticipation
-Author: Kristen Grauman, Santhosh K. Ramakrishnan, Ziad Al-Halah
+# MuZero: Mastering Go, chess, shogi and Atari without rules
+Author: David Silver, Demis Hassabis, Ioannis Antonoglou, Julian Schrittwiese
 
 Category: Reinforcement-Learning
 
-Conference: ECCV
+Conference: Nature
 
-Link: https://arxiv.org/pdf/2008.09285.pdf
+Link: https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules
 
 Status: Pending
-
-Topic: CNNs, Image 
 
 Year: 2020
 
