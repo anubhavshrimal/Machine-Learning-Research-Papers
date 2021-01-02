@@ -16,6 +16,7 @@ The following filtered formats are available to view paper's list:
 
 <!-- no toc -->
 - [All Papers](#all-papers)
+- [Read and Summarised Papers](./filtered_read_and_summarised.md)
 - [Conference-wise Filtered Papers](./filtered_conference_wise.md)
 - [Year-wise Filtered Papers](./filtered_year_wise.md)
 - [Topic-wise Filtered Papers](./filtered_topic_wise.md)
