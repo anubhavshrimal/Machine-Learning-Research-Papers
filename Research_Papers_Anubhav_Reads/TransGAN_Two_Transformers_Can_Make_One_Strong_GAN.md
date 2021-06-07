@@ -1,15 +1,17 @@
-# GPT-f: Generative Language Modeling for Automated Theorem Proving
-Author: Ilya Sutskever, Stanislas Polu
+# TransGAN: Two Transformers Can Make One Strong GAN
+Author: Shiyu Chang, Yifan Jiang, Zhangyang Wang
+
+Category: Architecture
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/2009.03393
+Link: https://arxiv.org/abs/2102.07074
 
 Status: Pending
 
-Topic: Attention, Transformers
+Topic: GANs, Image , Transformers
 
-Year: 2020
+Year: 2021
 
 # Questions
 

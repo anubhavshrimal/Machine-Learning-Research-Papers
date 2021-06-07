@@ -5,7 +5,7 @@ Conference: arXiv
 
 Link: https://arxiv.org/abs/1904.00760
 
-Status: This week
+Status: Reading
 
 Topic: CNNs, CV , Image 
 

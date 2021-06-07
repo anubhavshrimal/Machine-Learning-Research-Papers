@@ -1,15 +1,15 @@
-# GPT-f: Generative Language Modeling for Automated Theorem Proving
-Author: Ilya Sutskever, Stanislas Polu
+# DALL·E: Creating
+Author: Aditya Ramesh, Gabriel Goh, Ilya Sutskever, Mikhail Pavlov, Scott Gray
 
-Conference: arXiv
+Conference: Blog
 
-Link: https://arxiv.org/abs/2009.03393
+Link: https://openai.com/blog/dall-e/
 
 Status: Pending
 
-Topic: Attention, Transformers
+Topic: Image , Text , Transformers
 
-Year: 2020
+Year: 2021
 
 # Questions
 
