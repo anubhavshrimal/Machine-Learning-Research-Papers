@@ -2,6 +2,7 @@
 
 <!-- no toc -->
 - [Adam Paszke](#Adam-Paszke)
+- [Aditya Ramesh](#Aditya-Ramesh)
 - [Agata Mosinska](#Agata-Mosinska)
 - [Alec Radford](#Alec-Radford)
 - [Aleksander Madry](#Aleksander-Madry)
@@ -26,6 +27,7 @@
 - [Chandra Bhagavatula](#Chandra-Bhagavatula)
 - [Christian Szegedy](#Christian-Szegedy)
 - [Colin Raffel](#Colin-Raffel)
+- [Danqi Chen](#Danqi-Chen)
 - [Dario Amodei](#Dario-Amodei)
 - [David Berthelot](#David-Berthelot)
 - [David J. Schwab](#David-J.-Schwab)
@@ -39,6 +41,7 @@
 - [Eugenio Culurciello](#Eugenio-Culurciello)
 - [Fangxiaoyu Feng](#Fangxiaoyu-Feng)
 - [Forrest N. Iandola](#Forrest-N.-Iandola)
+- [Gabriel Goh](#Gabriel-Goh)
 - [Gal Kaplun](#Gal-Kaplun)
 - [Geoffrey E Hinton](#Geoffrey-E-Hinton)
 - [Greg Corrado](#Greg-Corrado)
@@ -47,6 +50,8 @@
 - [Han Zhang](#Han-Zhang)
 - [Hannah Rashkin](#Hannah-Rashkin)
 - [Hao Li](#Hao-Li)
+- [Hao Tan](#Hao-Tan)
+- [Hattie Zhou](#Hattie-Zhou)
 - [Ian Goodfellow](#Ian-Goodfellow)
 - [Illia Polosukhin](#Illia-Polosukhin)
 - [Ilya Sutskever](#Ilya-Sutskever)
@@ -57,6 +62,8 @@
 - [Jaegul Choo](#Jaegul-Choo)
 - [Jakob Uszkoreit](#Jakob-Uszkoreit)
 - [James J. Little](#James-J.-Little)
+- [Janice Lan](#Janice-Lan)
+- [Jason Yosinski](#Jason-Yosinski)
 - [Javier Romero](#Javier-Romero)
 - [Jeffrey Dean](#Jeffrey-Dean)
 - [Jeffrey Wu](#Jeffrey-Wu)
@@ -66,6 +73,7 @@
 - [Jiri Matas](#Jiri-Matas)
 - [Jitendra Malik](#Jitendra-Malik)
 - [Jonathan Frankle](#Jonathan-Frankle)
+- [Jong Wook Kim](#Jong-Wook-Kim)
 - [Julian Schrittwiese](#Julian-Schrittwiese)
 - [Julieta Martinez](#Julieta-Martinez)
 - [Jun Huang](#Jun-Huang)
@@ -80,6 +88,7 @@
 - [Kristina Toutanova](#Kristina-Toutanova)
 - [Larry Davis](#Larry-Davis)
 - [Li Fei-Fei](#Li-Fei-Fei)
+- [Li Yang](#Li-Yang)
 - [Lucas Beyer](#Lucas-Beyer)
 - [Ludovic Denoyer](#Ludovic-Denoyer)
 - [Lukasz Kaiser](#Lukasz-Kaiser)
@@ -87,6 +96,7 @@
 - [Luming Tang](#Luming-Tang)
 - [Léon Bottou](#Léon-Bottou)
 - [Maarten Sap](#Maarten-Sap)
+- [Mandar Joshi](#Mandar-Joshi)
 - [Marc'Aurelio Ranzato](#Marc'Aurelio-Ranzato)
 - [Mario Fritz](#Mario-Fritz)
 - [Martin Arjovsky](#Martin-Arjovsky)
@@ -98,10 +108,12 @@
 - [Menglin Jia](#Menglin-Jia)
 - [Menglong Zhu](#Menglong-Zhu)
 - [Michael Carbin](#Michael-Carbin)
+- [Mikhail Pavlov](#Mikhail-Pavlov)
 - [Ming-Wei Chang](#Ming-Wei-Chang)
 - [Minghui Qiu](#Minghui-Qiu)
 - [Minje Choi](#Minje-Choi)
 - [Minjun Li](#Minjun-Li)
+- [Mohit Bansal](#Mohit-Bansal)
 - [Munyoung Kim](#Munyoung-Kim)
 - [Myle Ott](#Myle-Ott)
 - [Neil Houlsby](#Neil-Houlsby)
@@ -119,15 +131,19 @@
 - [Peter Wonka](#Peter-Wonka)
 - [Phillip Isola](#Phillip-Isola)
 - [Preetum Nakkiran](#Preetum-Nakkiran)
+- [Qifan Wang](#Qifan-Wang)
 - [Rameen Abdal](#Rameen-Abdal)
 - [Rayat Hossain](#Rayat-Hossain)
 - [Rob Fergus](#Rob-Fergus)
 - [Ronan Le Bras](#Ronan-Le-Bras)
+- [Rosanne Liu](#Rosanne-Liu)
 - [Samuli Laine](#Samuli-Laine)
 - [Santhosh K. Ramakrishnan](#Santhosh-K.-Ramakrishnan)
 - [Sara Sabour](#Sara-Sabour)
+- [Scott Gray](#Scott-Gray)
 - [Serge Belongie](#Serge-Belongie)
 - [Shibani Santurkar](#Shibani-Santurkar)
+- [Shiyu Chang](#Shiyu-Chang)
 - [Song Han](#Song-Han)
 - [Soumith Chintala](#Soumith-Chintala)
 - [Sowmya Yellapragada](#Sowmya-Yellapragada)
@@ -162,12 +178,14 @@
 - [Yanqi Zhou](#Yanqi-Zhou)
 - [Yejin Choi](#Yejin-Choi)
 - [Ygor Rebouças Serpa](#Ygor-Rebouças-Serpa)
+- [Yifan Jiang](#Yifan-Jiang)
 - [Yin Cui](#Yin-Cui)
 - [Yinfei Yang](#Yinfei-Yang)
 - [Yipeng Qin](#Yipeng-Qin)
 - [Yuichi Yoshida](#Yuichi-Yoshida)
 - [Yunjey Choi](#Yunjey-Choi)
 - [Yuxin Wu](#Yuxin-Wu)
+- [Zhangyang Wang](#Zhangyang-Wang)
 - [Zhi Zhang](#Zhi-Zhang)
 - [Ziad Al-Halah](#Ziad-Al-Halah)
 - [Łukasz Kaiser](#Łukasz-Kaiser)
@@ -183,6 +201,15 @@
 
 ---
 
+## Aditya Ramesh
+
+|   | Paper Name                                                                                             | Status  | Topic                       | Category | Year | Conference | Author                                                                 | Summary | Link                                    |
+| - | ------------------------------------------------------------------------------------------------------ | ------- | --------------------------- | -------- | ---- | ---------- | ---------------------------------------------------------------------- | ------- | --------------------------------------- |
+| 0 | [DALL·E: Creating Images from Text](Research_Papers_Anubhav_Reads/DALL·E_Creating_Images_from_Text.md) | Pending | Image , Text , Transformers |          | 2021 | Blog       | Aditya Ramesh, Gabriel Goh, Ilya Sutskever, Mikhail Pavlov, Scott Gray |         | [link](https://openai.com/blog/dall-e/) |
+
+
+---
+
 ## Agata Mosinska
 
 |   | Paper Name                                                                                                                                                         | Status  | Topic                               | Category | Year | Conference | Author                                                            | Summary | Link                                                                                                             |
@@ -194,10 +221,11 @@
 
 ## Alec Radford
 
-|   | Paper Name                                                                                                                                        | Status  | Topic                          | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                                                                                                                         |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | --------------- | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Attention, Text , Transformers |                 | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                              |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
-| 1 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md)                                   | Pending | GANs, Image                    | Semi-Supervised | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans)                                                                                               |
+|   | Paper Name                                                                                                                                        | Status  | Topic                          | Category                 | Year | Conference | Author                                                                              | Summary | Link                                                                                                                                                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | ------------------------ | ---- | ---------- | ----------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Attention, Text , Transformers |                          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                              |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+| 1 | [Improved Techniques for Training GANs](Research_Papers_Anubhav_Reads/Improved_Techniques_for_Training_GANs.md)                                   | Pending | GANs, Image                    | Semi-Supervised          | 2016 | NIPS       | Alec Radford, Ian Goodfellow, Tim Salimans, Vicki Cheung, Wojciech Zaremba, Xi Chen |         | [link](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans)                                                                                               |
+| 2 | [CLIP: Connecting Text and Images](Research_Papers_Anubhav_Reads/CLIP_Connecting_Text_and_Images.md)                                              | Pending | Image , Text , Transformers    | Multimodal, Pre-Training | 2021 | arXiv      | Alec Radford, Ilya Sutskever, Jong Wook Kim                                         |         | [link](https://openai.com/blog/clip/)                                                                                                                                        |
 
 
 ---
@@ -404,6 +432,15 @@
 
 ---
 
+## Danqi Chen
+
+|   | Paper Name                                                                                                                                                   | Status | Topic                                   | Category     | Year | Conference | Author                   | Summary                                                                                              | Link                                                    |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------------------- | ------------ | ---- | ---------- | ------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 0 | [SpanBERT: Improving Pre-training by Representing and Predicting Spans](Research_Papers_Anubhav_Reads/SpanBERT_Improving_Pre-training_by_Representing_an.md) | Read   | Question-Answering, Text , Transformers | Pre-Training | 2020 | TACL       | Danqi Chen, Mandar Joshi | A different pre-training strategy for BERT model to improve performance for Question Answering task. | [link](https://www.aclweb.org/anthology/2020.tacl-1.5/) |
+
+
+---
+
 ## Dario Amodei
 
 |   | Paper Name                                                                                                                                        | Status  | Topic                          | Category | Year | Conference | Author                                                 | Summary | Link                                                                                                                                                                         |
@@ -522,6 +559,15 @@
 
 ---
 
+## Gabriel Goh
+
+|   | Paper Name                                                                                             | Status  | Topic                       | Category | Year | Conference | Author                                                                 | Summary | Link                                    |
+| - | ------------------------------------------------------------------------------------------------------ | ------- | --------------------------- | -------- | ---- | ---------- | ---------------------------------------------------------------------- | ------- | --------------------------------------- |
+| 0 | [DALL·E: Creating Images from Text](Research_Papers_Anubhav_Reads/DALL·E_Creating_Images_from_Text.md) | Pending | Image , Text , Transformers |          | 2021 | Blog       | Aditya Ramesh, Gabriel Goh, Ilya Sutskever, Mikhail Pavlov, Scott Gray |         | [link](https://openai.com/blog/dall-e/) |
+
+
+---
+
 ## Gal Kaplun
 
 |   | Paper Name                                                                                                                                         | Status  | Topic | Category | Year | Conference | Author                                                                                | Summary | Link                                     |
@@ -596,6 +642,24 @@
 
 ---
 
+## Hao Tan
+
+|   | Paper Name                                                                                                                                                                             | Status    | Topic                       | Category   | Year | Conference | Author                | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- | ---------- | ---- | ---------- | --------------------- | ------- | ---------------------------------------- |
+| 0 | [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](Research_Papers_Anubhav_Reads/Vokenization_Improving_Language_Understanding_with.md) | This week | Image , Text , Transformers | Multimodal | 2020 | EMNLP      | Hao Tan, Mohit Bansal |         | [link](https://arxiv.org/abs/2010.06775) |
+
+
+---
+
+## Hattie Zhou
+
+|   | Paper Name                                                                                                                                             | Status | Topic                  | Category                                              | Year | Conference | Author                                               | Summary                                                                                                                          | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---------------------- | ----------------------------------------------------- | ---- | ---------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](Research_Papers_Anubhav_Reads/Deconstructing_Lottery_Tickets_Zeros,_Signs,_and_t.md) | Read   | NN Initialization, NNs | Comparison, Optimization-No. of params, Tips & Tricks | 2019 | NeurIPS    | Hattie Zhou, Janice Lan, Jason Yosinski, Rosanne Liu | Follow up on Lottery Ticket Hypothesis exploring the effects of different Masking criteria as well as Mask-1 and Mask-0 actions. | [link](https://arxiv.org/abs/1905.01067) |
+
+
+---
+
 ## Ian Goodfellow
 
 |   | Paper Name                                                                                                                                   | Status  | Topic                   | Category        | Year | Conference | Author                                                                              | Summary | Link                                                                           |
@@ -617,11 +681,13 @@
 
 ## Ilya Sutskever
 
-|   | Paper Name                                                                                                                                               | Status  | Topic                          | Category | Year | Conference | Author                                                                                | Summary | Link                                                                                                                                                                         |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | -------- | ---- | ---------- | ------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md)        | Pending | Attention, Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                                |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
-| 1 | [Deep Double Descent: Where Bigger Models and More Data Hurt](Research_Papers_Anubhav_Reads/Deep_Double_Descent_Where_Bigger_Models_and_More_D.md)       | Pending | NNs                            |          | 2019 | arXiv      | Boaz Barak, Gal Kaplun, Ilya Sutskever, Preetum Nakkiran, Tristan Yang, Yamini Bansal |         | [link](https://arxiv.org/abs/1912.02292)                                                                                                                                     |
-| 2 | [GPT-f: Generative Language Modeling for Automated Theorem Proving](Research_Papers_Anubhav_Reads/GPT-f_Generative_Language_Modeling_for_Automated_T.md) | Pending | Attention, Transformers        |          | 2020 | arXiv      | Ilya Sutskever, Stanislas Polu                                                        |         | [link](https://arxiv.org/abs/2009.03393)                                                                                                                                     |
+|   | Paper Name                                                                                                                                               | Status  | Topic                          | Category                 | Year | Conference | Author                                                                                | Summary | Link                                                                                                                                                                         |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | ------------------------ | ---- | ---------- | ------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md)        | Pending | Attention, Text , Transformers |                          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu                                |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+| 1 | [Deep Double Descent: Where Bigger Models and More Data Hurt](Research_Papers_Anubhav_Reads/Deep_Double_Descent_Where_Bigger_Models_and_More_D.md)       | Pending | NNs                            |                          | 2019 | arXiv      | Boaz Barak, Gal Kaplun, Ilya Sutskever, Preetum Nakkiran, Tristan Yang, Yamini Bansal |         | [link](https://arxiv.org/abs/1912.02292)                                                                                                                                     |
+| 2 | [GPT-f: Generative Language Modeling for Automated Theorem Proving](Research_Papers_Anubhav_Reads/GPT-f_Generative_Language_Modeling_for_Automated_T.md) | Pending | Attention, Transformers        |                          | 2020 | arXiv      | Ilya Sutskever, Stanislas Polu                                                        |         | [link](https://arxiv.org/abs/2009.03393)                                                                                                                                     |
+| 3 | [DALL·E: Creating Images from Text](Research_Papers_Anubhav_Reads/DALL·E_Creating_Images_from_Text.md)                                                   | Pending | Image , Text , Transformers    |                          | 2021 | Blog       | Aditya Ramesh, Gabriel Goh, Ilya Sutskever, Mikhail Pavlov, Scott Gray                |         | [link](https://openai.com/blog/dall-e/)                                                                                                                                      |
+| 4 | [CLIP: Connecting Text and Images](Research_Papers_Anubhav_Reads/CLIP_Connecting_Text_and_Images.md)                                                     | Pending | Image , Text , Transformers    | Multimodal, Pre-Training | 2021 | arXiv      | Alec Radford, Ilya Sutskever, Jong Wook Kim                                           |         | [link](https://openai.com/blog/clip/)                                                                                                                                        |
 
 
 ---
@@ -685,6 +751,24 @@
 |   | Paper Name                                                                                                                                          | Status  | Topic                | Category | Year | Conference | Author                                                          | Summary | Link                                                                                                    |
 | - | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------- | -------- | ---- | ---------- | --------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------- |
 | 0 | [A Simple yet Effective Baseline for 3D Human Pose Estimation](Research_Papers_Anubhav_Reads/A_Simple_yet_Effective_Baseline_for_3D_Human_Pose_.md) | Pending | CV , Pose Estimation |          | 2017 | ICCV       | James J. Little, Javier Romero, Julieta Martinez, Rayat Hossain |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html) |
+
+
+---
+
+## Janice Lan
+
+|   | Paper Name                                                                                                                                             | Status | Topic                  | Category                                              | Year | Conference | Author                                               | Summary                                                                                                                          | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---------------------- | ----------------------------------------------------- | ---- | ---------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](Research_Papers_Anubhav_Reads/Deconstructing_Lottery_Tickets_Zeros,_Signs,_and_t.md) | Read   | NN Initialization, NNs | Comparison, Optimization-No. of params, Tips & Tricks | 2019 | NeurIPS    | Hattie Zhou, Janice Lan, Jason Yosinski, Rosanne Liu | Follow up on Lottery Ticket Hypothesis exploring the effects of different Masking criteria as well as Mask-1 and Mask-0 actions. | [link](https://arxiv.org/abs/1905.01067) |
+
+
+---
+
+## Jason Yosinski
+
+|   | Paper Name                                                                                                                                             | Status | Topic                  | Category                                              | Year | Conference | Author                                               | Summary                                                                                                                          | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---------------------- | ----------------------------------------------------- | ---- | ---------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](Research_Papers_Anubhav_Reads/Deconstructing_Lottery_Tickets_Zeros,_Signs,_and_t.md) | Read   | NN Initialization, NNs | Comparison, Optimization-No. of params, Tips & Tricks | 2019 | NeurIPS    | Hattie Zhou, Janice Lan, Jason Yosinski, Rosanne Liu | Follow up on Lottery Ticket Hypothesis exploring the effects of different Masking criteria as well as Mask-1 and Mask-0 actions. | [link](https://arxiv.org/abs/1905.01067) |
 
 
 ---
@@ -763,10 +847,19 @@
 
 ## Jonathan Frankle
 
-|   | Paper Name                                                                                                                                                                       | Status    | Topic        | Category                                  | Year | Conference | Author                                           | Summary | Link                                     |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ----------------------------------------- | ---- | ---------- | ------------------------------------------------ | ------- | ---------------------------------------- |
-| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md)                  | This week | NNs          | Optimization-No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin                 |         | [link](https://arxiv.org/abs/1803.03635) |
-| 1 | [Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs](Research_Papers_Anubhav_Reads/Training_BatchNorm_and_Only_BatchNorm_On_the_Expre.md) | Pending   | CNNs, Image  |                                           | 2020 | arXiv      | Ari S. Morcos, David J. Schwab, Jonathan Frankle |         | [link](https://arxiv.org/abs/2003.00152) |
+|   | Paper Name                                                                                                                                                                       | Status  | Topic                  | Category                                  | Year | Conference | Author                                           | Summary                                                                                                                                                                                                                                       | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------- | ----------------------------------------- | ---- | ---------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md)                  | Read    | NN Initialization, NNs | Optimization-No. of params, Tips & Tricks | 2019 | ICLR       | Jonathan Frankle, Michael Carbin                 | Lottery ticket hypothesis: dense, randomly-initialized, feed-forward networks contain subnetworks (winning tickets) that—when trained in isolation— reach test accuracy comparable to the original network in a similar number of iterations. | [link](https://arxiv.org/abs/1803.03635) |
+| 1 | [Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs](Research_Papers_Anubhav_Reads/Training_BatchNorm_and_Only_BatchNorm_On_the_Expre.md) | Pending | CNNs, Image            |                                           | 2020 | arXiv      | Ari S. Morcos, David J. Schwab, Jonathan Frankle |                                                                                                                                                                                                                                               | [link](https://arxiv.org/abs/2003.00152) |
+
+
+---
+
+## Jong Wook Kim
+
+|   | Paper Name                                                                                           | Status  | Topic                       | Category                 | Year | Conference | Author                                      | Summary | Link                                  |
+| - | ---------------------------------------------------------------------------------------------------- | ------- | --------------------------- | ------------------------ | ---- | ---------- | ------------------------------------------- | ------- | ------------------------------------- |
+| 0 | [CLIP: Connecting Text and Images](Research_Papers_Anubhav_Reads/CLIP_Connecting_Text_and_Images.md) | Pending | Image , Text , Transformers | Multimodal, Pre-Training | 2021 | arXiv      | Alec Radford, Ilya Sutskever, Jong Wook Kim |         | [link](https://openai.com/blog/clip/) |
 
 
 ---
@@ -899,6 +992,15 @@
 
 ---
 
+## Li Yang
+
+|   | Paper Name                                                                                                                                                                            | Status | Topic                                   | Category           | Year | Conference | Author              | Summary                                                                                                                                                  | Link                                                       |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------- | ------------------ | ---- | ---------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 0 | [Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach](Research_Papers_Anubhav_Reads/Learning_to_Extract_Attribute_Value_from_Product_v.md) | Read   | Question-Answering, Text , Transformers | Zero-shot-learning | 2020 | KDD        | Li Yang, Qifan Wang | Question Answering BERT model used to extract attributes from products. Introduce further No Answer loss and distillation to promote zero shot learning. | [link](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047) |
+
+
+---
+
 ## Lucas Beyer
 
 |   | Paper Name                                                                                                                                                                            | Status  | Topic                           | Category | Year | Conference | Author                                                         | Summary | Link                                     |
@@ -963,6 +1065,15 @@
 
 ---
 
+## Mandar Joshi
+
+|   | Paper Name                                                                                                                                                   | Status | Topic                                   | Category     | Year | Conference | Author                   | Summary                                                                                              | Link                                                    |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------------------- | ------------ | ---- | ---------- | ------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 0 | [SpanBERT: Improving Pre-training by Representing and Predicting Spans](Research_Papers_Anubhav_Reads/SpanBERT_Improving_Pre-training_by_Representing_an.md) | Read   | Question-Answering, Text , Transformers | Pre-Training | 2020 | TACL       | Danqi Chen, Mandar Joshi | A different pre-training strategy for BERT model to improve performance for Question Answering task. | [link](https://www.aclweb.org/anthology/2020.tacl-1.5/) |
+
+
+---
+
 ## Marc'Aurelio Ranzato
 
 |   | Paper Name                                                                                                                                             | Status  | Topic                          | Category     | Year | Conference | Author                                                                            | Summary | Link                                     |
@@ -1020,9 +1131,9 @@
 
 ## Matthias Bethge
 
-|   | Paper Name                                                                                                                                                                      | Status    | Topic             | Category | Year | Conference | Author                           | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | -------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](Research_Papers_Anubhav_Reads/Approximating_CNNs_with_Bag-of-local-Features_mode.md) | This week | CNNs, CV , Image  |          | 2019 | arXiv      | Matthias Bethge, Wieland Brendel |         | [link](https://arxiv.org/abs/1904.00760) |
+|   | Paper Name                                                                                                                                                                      | Status  | Topic             | Category | Year | Conference | Author                           | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | -------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](Research_Papers_Anubhav_Reads/Approximating_CNNs_with_Bag-of-local-Features_mode.md) | Reading | CNNs, CV , Image  |          | 2019 | arXiv      | Matthias Bethge, Wieland Brendel |         | [link](https://arxiv.org/abs/1904.00760) |
 
 
 ---
@@ -1056,9 +1167,18 @@
 
 ## Michael Carbin
 
-|   | Paper Name                                                                                                                                                      | Status    | Topic | Category                                  | Year | Conference | Author                           | Summary | Link                                     |
-| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----- | ----------------------------------------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
-| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md) | This week | NNs   | Optimization-No. of params, Tips & Tricks | 2018 | arXiv      | Jonathan Frankle, Michael Carbin |         | [link](https://arxiv.org/abs/1803.03635) |
+|   | Paper Name                                                                                                                                                      | Status | Topic                  | Category                                  | Year | Conference | Author                           | Summary                                                                                                                                                                                                                                       | Link                                     |
+| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------- | ----------------------------------------- | ---- | ---------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](Research_Papers_Anubhav_Reads/The_Lottery_Ticket_Hypothesis_Finding_Sparse,_Trai.md) | Read   | NN Initialization, NNs | Optimization-No. of params, Tips & Tricks | 2019 | ICLR       | Jonathan Frankle, Michael Carbin | Lottery ticket hypothesis: dense, randomly-initialized, feed-forward networks contain subnetworks (winning tickets) that—when trained in isolation— reach test accuracy comparable to the original network in a similar number of iterations. | [link](https://arxiv.org/abs/1803.03635) |
+
+
+---
+
+## Mikhail Pavlov
+
+|   | Paper Name                                                                                             | Status  | Topic                       | Category | Year | Conference | Author                                                                 | Summary | Link                                    |
+| - | ------------------------------------------------------------------------------------------------------ | ------- | --------------------------- | -------- | ---- | ---------- | ---------------------------------------------------------------------- | ------- | --------------------------------------- |
+| 0 | [DALL·E: Creating Images from Text](Research_Papers_Anubhav_Reads/DALL·E_Creating_Images_from_Text.md) | Pending | Image , Text , Transformers |          | 2021 | Blog       | Aditya Ramesh, Gabriel Goh, Ilya Sutskever, Mikhail Pavlov, Scott Gray |         | [link](https://openai.com/blog/dall-e/) |
 
 
 ---
@@ -1095,6 +1215,15 @@
 |   | Paper Name                                                                                                                                                                            | Status  | Topic        | Category | Year | Conference | Author                               | Summary | Link                                     |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------ | ------- | ---------------------------------------- |
 | 0 | [AnimeGAN: Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](Research_Papers_Anubhav_Reads/AnimeGAN_Towards_the_Automatic_Anime_Characters_Cr.md) | Pending | GANs, Image  |          | 2017 | NIPS       | Jiakai Zhang, Minjun Li, Yanghua Jin |         | [link](https://arxiv.org/abs/1708.05509) |
+
+
+---
+
+## Mohit Bansal
+
+|   | Paper Name                                                                                                                                                                             | Status    | Topic                       | Category   | Year | Conference | Author                | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- | ---------- | ---- | ---------- | --------------------- | ------- | ---------------------------------------- |
+| 0 | [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](Research_Papers_Anubhav_Reads/Vokenization_Improving_Language_Understanding_with.md) | This week | Image , Text , Transformers | Multimodal | 2020 | EMNLP      | Hao Tan, Mohit Bansal |         | [link](https://arxiv.org/abs/2010.06775) |
 
 
 ---
@@ -1255,6 +1384,15 @@
 
 ---
 
+## Qifan Wang
+
+|   | Paper Name                                                                                                                                                                            | Status | Topic                                   | Category           | Year | Conference | Author              | Summary                                                                                                                                                  | Link                                                       |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------- | ------------------ | ---- | ---------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 0 | [Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach](Research_Papers_Anubhav_Reads/Learning_to_Extract_Attribute_Value_from_Product_v.md) | Read   | Question-Answering, Text , Transformers | Zero-shot-learning | 2020 | KDD        | Li Yang, Qifan Wang | Question Answering BERT model used to extract attributes from products. Introduce further No Answer loss and distillation to promote zero shot learning. | [link](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047) |
+
+
+---
+
 ## Rameen Abdal
 
 |   | Paper Name                                                                                                                                                 | Status  | Topic        | Category | Year | Conference | Author                                | Summary | Link                                                                                                                                                      |
@@ -1291,6 +1429,15 @@
 
 ---
 
+## Rosanne Liu
+
+|   | Paper Name                                                                                                                                             | Status | Topic                  | Category                                              | Year | Conference | Author                                               | Summary                                                                                                                          | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---------------------- | ----------------------------------------------------- | ---- | ---------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](Research_Papers_Anubhav_Reads/Deconstructing_Lottery_Tickets_Zeros,_Signs,_and_t.md) | Read   | NN Initialization, NNs | Comparison, Optimization-No. of params, Tips & Tricks | 2019 | NeurIPS    | Hattie Zhou, Janice Lan, Jason Yosinski, Rosanne Liu | Follow up on Lottery Ticket Hypothesis exploring the effects of different Masking criteria as well as Mask-1 and Mask-0 actions. | [link](https://arxiv.org/abs/1905.01067) |
+
+
+---
+
 ## Samuli Laine
 
 |   | Paper Name                                                                                                                                                                | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                                                                                                                                              |
@@ -1319,6 +1466,15 @@
 
 ---
 
+## Scott Gray
+
+|   | Paper Name                                                                                             | Status  | Topic                       | Category | Year | Conference | Author                                                                 | Summary | Link                                    |
+| - | ------------------------------------------------------------------------------------------------------ | ------- | --------------------------- | -------- | ---- | ---------- | ---------------------------------------------------------------------- | ------- | --------------------------------------- |
+| 0 | [DALL·E: Creating Images from Text](Research_Papers_Anubhav_Reads/DALL·E_Creating_Images_from_Text.md) | Pending | Image , Text , Transformers |          | 2021 | Blog       | Aditya Ramesh, Gabriel Goh, Ilya Sutskever, Mikhail Pavlov, Scott Gray |         | [link](https://openai.com/blog/dall-e/) |
+
+
+---
+
 ## Serge Belongie
 
 |   | Paper Name                                                                                                                                                        | Status  | Topic        | Category | Year | Conference | Author                    | Summary | Link                                                                                                             |
@@ -1333,6 +1489,15 @@
 |   | Paper Name                                                                                                                         | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
 | - | ---------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
+
+
+---
+
+## Shiyu Chang
+
+|   | Paper Name                                                                                                                               | Status  | Topic                      | Category     | Year | Conference | Author                                   | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------- | ------------ | ---- | ---------- | ---------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [TransGAN: Two Transformers Can Make One Strong GAN](Research_Papers_Anubhav_Reads/TransGAN_Two_Transformers_Can_Make_One_Strong_GAN.md) | Pending | GANs, Image , Transformers | Architecture | 2021 | arXiv      | Shiyu Chang, Yifan Jiang, Zhangyang Wang |         | [link](https://arxiv.org/abs/2102.07074) |
 
 
 ---
@@ -1549,9 +1714,9 @@
 
 ## Wieland Brendel
 
-|   | Paper Name                                                                                                                                                                      | Status    | Topic             | Category | Year | Conference | Author                           | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- | -------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](Research_Papers_Anubhav_Reads/Approximating_CNNs_with_Bag-of-local-Features_mode.md) | This week | CNNs, CV , Image  |          | 2019 | arXiv      | Matthias Bethge, Wieland Brendel |         | [link](https://arxiv.org/abs/1904.00760) |
+|   | Paper Name                                                                                                                                                                      | Status  | Topic             | Category | Year | Conference | Author                           | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | -------- | ---- | ---------- | -------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](Research_Papers_Anubhav_Reads/Approximating_CNNs_with_Bag-of-local-Features_mode.md) | Reading | CNNs, CV , Image  |          | 2019 | arXiv      | Matthias Bethge, Wieland Brendel |         | [link](https://arxiv.org/abs/1904.00760) |
 
 
 ---
@@ -1648,6 +1813,15 @@
 
 ---
 
+## Yifan Jiang
+
+|   | Paper Name                                                                                                                               | Status  | Topic                      | Category     | Year | Conference | Author                                   | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------- | ------------ | ---- | ---------- | ---------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [TransGAN: Two Transformers Can Make One Strong GAN](Research_Papers_Anubhav_Reads/TransGAN_Two_Transformers_Can_Make_One_Strong_GAN.md) | Pending | GANs, Image , Transformers | Architecture | 2021 | arXiv      | Shiyu Chang, Yifan Jiang, Zhangyang Wang |         | [link](https://arxiv.org/abs/2102.07074) |
+
+
+---
+
 ## Yin Cui
 
 |   | Paper Name                                                                                                                                      | Status  | Topic         | Category      | Year | Conference | Author               | Summary | Link                                                                                                                                            |
@@ -1698,6 +1872,15 @@
 |   | Paper Name                                                                  | Status  | Topic              | Category      | Year | Conference | Author               | Summary | Link                                     |
 | - | --------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | -------------------- | ------- | ---------------------------------------- |
 | 0 | [Group Normalization](Research_Papers_Anubhav_Reads/Group_Normalization.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Kaiming He, Yuxin Wu |         | [link](https://arxiv.org/abs/1803.08494) |
+
+
+---
+
+## Zhangyang Wang
+
+|   | Paper Name                                                                                                                               | Status  | Topic                      | Category     | Year | Conference | Author                                   | Summary | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------- | ------------ | ---- | ---------- | ---------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [TransGAN: Two Transformers Can Make One Strong GAN](Research_Papers_Anubhav_Reads/TransGAN_Two_Transformers_Can_Make_One_Strong_GAN.md) | Pending | GANs, Image , Transformers | Architecture | 2021 | arXiv      | Shiyu Chang, Yifan Jiang, Zhangyang Wang |         | [link](https://arxiv.org/abs/2102.07074) |
 
 
 ---
