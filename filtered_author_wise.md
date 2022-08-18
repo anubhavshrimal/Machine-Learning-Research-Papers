@@ -34,9 +34,11 @@
 - [David Silver](#David-Silver)
 - [Davis Wertheimer](#Davis-Wertheimer)
 - [Demis Hassabis](#Demis-Hassabis)
+- [Denny Zhou](#Denny-Zhou)
 - [Diederik P. Kingma](#Diederik-P.-Kingma)
 - [Dimitris Metaxas](#Dimitris-Metaxas)
 - [Dimitris Tsipras](#Dimitris-Tsipras)
+- [Diyi Yang](#Diyi-Yang)
 - [Dmytro Mishkin](#Dmytro-Mishkin)
 - [Eugenio Culurciello](#Eugenio-Culurciello)
 - [Fangxiaoyu Feng](#Fangxiaoyu-Feng)
@@ -53,16 +55,19 @@
 - [Hao Tan](#Hao-Tan)
 - [Hattie Zhou](#Hattie-Zhou)
 - [Ian Goodfellow](#Ian-Goodfellow)
+- [Iftekhar Naim](#Iftekhar-Naim)
 - [Illia Polosukhin](#Illia-Polosukhin)
 - [Ilya Sutskever](#Ilya-Sutskever)
 - [Ioannis Antonoglou](#Ioannis-Antonoglou)
 - [Jaakko Lehtinen](#Jaakko-Lehtinen)
+- [Jack Hessel](#Jack-Hessel)
 - [Jacob Devlin](#Jacob-Devlin)
 - [Jae Sung Park](#Jae-Sung-Park)
 - [Jaegul Choo](#Jaegul-Choo)
 - [Jakob Uszkoreit](#Jakob-Uszkoreit)
 - [James J. Little](#James-J.-Little)
 - [Janice Lan](#Janice-Lan)
+- [Jason Wei](#Jason-Wei)
 - [Jason Yosinski](#Jason-Yosinski)
 - [Javier Romero](#Javier-Romero)
 - [Jeffrey Dean](#Jeffrey-Dean)
@@ -82,8 +87,10 @@
 - [Justin Johnson](#Justin-Johnson)
 - [Kai Chen](#Kai-Chen)
 - [Kaiming He](#Kaiming-He)
+- [Karthik Raman](#Karthik-Raman)
 - [Ke Li](#Ke-Li)
 - [Kenton Lee](#Kenton-Lee)
+- [Krishna Srinivasan](#Krishna-Srinivasan)
 - [Kristen Grauman](#Kristen-Grauman)
 - [Kristina Toutanova](#Kristina-Toutanova)
 - [Larry Davis](#Larry-Davis)
@@ -128,6 +135,7 @@
 - [Peng Zhou](#Peng-Zhou)
 - [Peter J. Liu](#Peter-J.-Liu)
 - [Peter W. Battaglia](#Peter-W.-Battaglia)
+- [Peter West](#Peter-West)
 - [Peter Wonka](#Peter-Wonka)
 - [Phillip Isola](#Phillip-Isola)
 - [Preetum Nakkiran](#Preetum-Nakkiran)
@@ -153,6 +161,7 @@
 - [Sunghun Kim](#Sunghun-Kim)
 - [Taesung Park](#Taesung-Park)
 - [Takeru Miyato](#Takeru-Miyato)
+- [Takeshi Kojima](#Takeshi-Kojima)
 - [Tero Karras](#Tero-Karras)
 - [Thomas Schumm](#Thomas-Schumm)
 - [Thomas Unterthiner](#Thomas-Unterthiner)
@@ -171,7 +180,9 @@
 - [Wojciech Zaremba](#Wojciech-Zaremba)
 - [Xi Chen](#Xi-Chen)
 - [Xiangyu Zhang](#Xiangyu-Zhang)
+- [Xiaofei Sun](#Xiaofei-Sun)
 - [Xing Shi](#Xing-Shi)
+- [Xuezhi Wang](#Xuezhi-Wang)
 - [Xun Huang](#Xun-Huang)
 - [Yamini Bansal](#Yamini-Bansal)
 - [Yanghua Jin](#Yanghua-Jin)
@@ -184,6 +195,7 @@
 - [Yipeng Qin](#Yipeng-Qin)
 - [Yuichi Yoshida](#Yuichi-Yoshida)
 - [Yunjey Choi](#Yunjey-Choi)
+- [Yusuke Iwasawa](#Yusuke-Iwasawa)
 - [Yuxin Wu](#Yuxin-Wu)
 - [Zhangyang Wang](#Zhangyang-Wang)
 - [Zhi Zhang](#Zhi-Zhang)
@@ -407,9 +419,10 @@
 
 ## Chandra Bhagavatula
 
-|   | Paper Name                                                                                                                                               | Status  | Topic                                     | Category | Year | Conference | Author                                                      | Summary | Link                                                                           |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | -------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
-| 0 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md) | Pending | AGI, Dataset, Image , Text , Transformers |          | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
+|   | Paper Name                                                                                                                                                                 | Status  | Topic                                     | Category                     | Year | Conference | Author                                                      | Summary | Link                                                                           |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | ---------------------------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md)                   | Pending | AGI, Dataset, Image , Text , Transformers |                              | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
+| 1 | [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](Research_Papers_Anubhav_Reads/Symbolic_Knowledge_Distillation_from_General_Langu.md) | Pending | Dataset, Text , Transformers              | Optimizations, Tips & Tricks | 2021 | arXiv      | Chandra Bhagavatula, Jack Hessel, Peter West, Yejin Choi    |         | [link](https://arxiv.org/abs/2110.07178)                                       |
 
 
 ---
@@ -496,6 +509,15 @@
 
 ---
 
+## Denny Zhou
+
+|   | Paper Name                                                                                                                                                   | Status  | Topic                                   | Category | Year | Conference | Author                             | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------------------------------------- | -------- | ---- | ---------- | ---------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Chain of Thought Prompting Elicits Reasoning in Large Language Models](Research_Papers_Anubhav_Reads/Chain_of_Thought_Prompting_Elicits_Reasoning_in_La.md) | Pending | Question-Answering, Text , Transformers |          | 2022 | arXiv      | Denny Zhou, Jason Wei, Xuezhi Wang |         | [link](https://arxiv.org/abs/2201.11903) |
+
+
+---
+
 ## Diederik P. Kingma
 
 |   | Paper Name                                                                                                               | Status  | Topic           | Category | Year | Conference | Author                       | Summary | Link                                    |
@@ -519,6 +541,15 @@
 |   | Paper Name                                                                                                                         | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
 | - | ---------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
+
+
+---
+
+## Diyi Yang
+
+|   | Paper Name                                                                                                                                                        | Status  | Topic | Category                  | Year | Conference | Author                 | Summary | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ------------------------- | ---- | ---------- | ---------------------- | ------- | ---------------------------------------- |
+| 0 | [Interpreting Deep Learning Models in Natural Language Processing: A Review](Research_Papers_Anubhav_Reads/Interpreting_Deep_Learning_Models_in_Natural_Langu.md) | Pending | Text  | Comparison, Visualization | 2021 | arXiv      | Diyi Yang, Xiaofei Sun |         | [link](https://arxiv.org/abs/2110.10470) |
 
 
 ---
@@ -670,6 +701,15 @@
 
 ---
 
+## Iftekhar Naim
+
+|   | Paper Name                                                                                                                              | Status  | Topic             | Category                  | Year | Conference | Author                                           | Summary | Link                                         |
+| - | --------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | ------------------------- | ---- | ---------- | ------------------------------------------------ | ------- | -------------------------------------------- |
+| 0 | [Transforming Sequence Tagging Into A Seq2Seq Task](Research_Papers_Anubhav_Reads/Transforming_Sequence_Tagging_Into_A_Seq2Seq_Task.md) | Pending | Generative, Text  | Comparison, Tips & Tricks | 2022 | arXiv      | Iftekhar Naim, Karthik Raman, Krishna Srinivasan |         | [link](https://arxiv.org/pdf/2203.08378.pdf) |
+
+
+---
+
 ## Illia Polosukhin
 
 |   | Paper Name                                                                              | Status | Topic                          | Category     | Year | Conference | Author                                                        | Summary                                                                                       | Link                                                               |
@@ -706,6 +746,15 @@
 |   | Paper Name                                                                                                                                                        | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                     |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | ------------- | ---- | ---------- | ----------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](Research_Papers_Anubhav_Reads/Progressive_Growing_of_GANs_for_Improved_Quality,_.md) | Pending | GANs, Image  | Tips & Tricks | 2018 | ICLR       | Jaakko Lehtinen, Samuli Laine, Tero Karras, Timo Aila |         | [link](https://arxiv.org/abs/1710.10196) |
+
+
+---
+
+## Jack Hessel
+
+|   | Paper Name                                                                                                                                                                 | Status  | Topic                        | Category                     | Year | Conference | Author                                                   | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](Research_Papers_Anubhav_Reads/Symbolic_Knowledge_Distillation_from_General_Langu.md) | Pending | Dataset, Text , Transformers | Optimizations, Tips & Tricks | 2021 | arXiv      | Chandra Bhagavatula, Jack Hessel, Peter West, Yejin Choi |         | [link](https://arxiv.org/abs/2110.07178) |
 
 
 ---
@@ -760,6 +809,15 @@
 |   | Paper Name                                                                                                                                             | Status | Topic                  | Category                                              | Year | Conference | Author                                               | Summary                                                                                                                          | Link                                     |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---------------------- | ----------------------------------------------------- | ---- | ---------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 0 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](Research_Papers_Anubhav_Reads/Deconstructing_Lottery_Tickets_Zeros,_Signs,_and_t.md) | Read   | NN Initialization, NNs | Comparison, Optimization-No. of params, Tips & Tricks | 2019 | NeurIPS    | Hattie Zhou, Janice Lan, Jason Yosinski, Rosanne Liu | Follow up on Lottery Ticket Hypothesis exploring the effects of different Masking criteria as well as Mask-1 and Mask-0 actions. | [link](https://arxiv.org/abs/1905.01067) |
+
+
+---
+
+## Jason Wei
+
+|   | Paper Name                                                                                                                                                   | Status  | Topic                                   | Category | Year | Conference | Author                             | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------------------------------------- | -------- | ---- | ---------- | ---------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Chain of Thought Prompting Elicits Reasoning in Large Language Models](Research_Papers_Anubhav_Reads/Chain_of_Thought_Prompting_Elicits_Reasoning_in_La.md) | Pending | Question-Answering, Text , Transformers |          | 2022 | arXiv      | Denny Zhou, Jason Wei, Xuezhi Wang |         | [link](https://arxiv.org/abs/2201.11903) |
 
 
 ---
@@ -938,6 +996,15 @@
 
 ---
 
+## Karthik Raman
+
+|   | Paper Name                                                                                                                              | Status  | Topic             | Category                  | Year | Conference | Author                                           | Summary | Link                                         |
+| - | --------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | ------------------------- | ---- | ---------- | ------------------------------------------------ | ------- | -------------------------------------------- |
+| 0 | [Transforming Sequence Tagging Into A Seq2Seq Task](Research_Papers_Anubhav_Reads/Transforming_Sequence_Tagging_Into_A_Seq2Seq_Task.md) | Pending | Generative, Text  | Comparison, Tips & Tricks | 2022 | arXiv      | Iftekhar Naim, Karthik Raman, Krishna Srinivasan |         | [link](https://arxiv.org/pdf/2203.08378.pdf) |
+
+
+---
+
 ## Ke Li
 
 |   | Paper Name                                                                                                                                                                | Status  | Topic | Category | Year | Conference | Author                                                              | Summary | Link                                                                                                                                                                                                                                                   |
@@ -952,6 +1019,15 @@
 |   | Paper Name                                                                                                                                                              | Status | Topic                          | Category   | Year | Conference | Author                                                       | Summary                                                                                                                                                                                | Link                                     |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ---------- | ---- | ---------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 0 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](Research_Papers_Anubhav_Reads/BERT_Pre-training_of_Deep_Bidirectional_Transforme.md) | Read   | Attention, Text , Transformers | Embeddings | 2018 | NAACL      | Jacob Devlin, Kenton Lee, Kristina Toutanova, Ming-Wei Chang | BERT is an extension to Transformer based architecture which introduces a masked word pretraining and next sentence prediction task to pretrain the model for a wide variety of tasks. | [link](https://arxiv.org/abs/1810.04805) |
+
+
+---
+
+## Krishna Srinivasan
+
+|   | Paper Name                                                                                                                              | Status  | Topic             | Category                  | Year | Conference | Author                                           | Summary | Link                                         |
+| - | --------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- | ------------------------- | ---- | ---------- | ------------------------------------------------ | ------- | -------------------------------------------- |
+| 0 | [Transforming Sequence Tagging Into A Seq2Seq Task](Research_Papers_Anubhav_Reads/Transforming_Sequence_Tagging_Into_A_Seq2Seq_Task.md) | Pending | Generative, Text  | Comparison, Tips & Tricks | 2022 | arXiv      | Iftekhar Naim, Karthik Raman, Krishna Srinivasan |         | [link](https://arxiv.org/pdf/2203.08378.pdf) |
 
 
 ---
@@ -1356,6 +1432,15 @@
 
 ---
 
+## Peter West
+
+|   | Paper Name                                                                                                                                                                 | Status  | Topic                        | Category                     | Year | Conference | Author                                                   | Summary | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](Research_Papers_Anubhav_Reads/Symbolic_Knowledge_Distillation_from_General_Langu.md) | Pending | Dataset, Text , Transformers | Optimizations, Tips & Tricks | 2021 | arXiv      | Chandra Bhagavatula, Jack Hessel, Peter West, Yejin Choi |         | [link](https://arxiv.org/abs/2110.07178) |
+
+
+---
+
 ## Peter Wonka
 
 |   | Paper Name                                                                                                                                                 | Status  | Topic        | Category | Year | Conference | Author                                | Summary | Link                                                                                                                                                      |
@@ -1583,6 +1668,15 @@
 
 ---
 
+## Takeshi Kojima
+
+|   | Paper Name                                                                                                                      | Status  | Topic                                 | Category                          | Year | Conference | Author                         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------- | --------------------------------- | ---- | ---------- | ------------------------------ | ------- | ---------------------------------------- |
+| 0 | [Large Language Models are Zero-Shot Reasoners](Research_Papers_Anubhav_Reads/Large_Language_Models_are_Zero-Shot_Reasoners.md) | Pending | Generative, Question-Answering, Text  | Tips & Tricks, Zero-shot-learning | 2022 | arXiv      | Takeshi Kojima, Yusuke Iwasawa |         | [link](https://arxiv.org/abs/2205.11916) |
+
+
+---
+
 ## Tero Karras
 
 |   | Paper Name                                                                                                                                                                | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                                                                                                                                              |
@@ -1659,9 +1753,9 @@
 
 ## Tong He
 
-|   | Paper Name                                                                                                                                                       | Status    | Topic       | Category                     | Year | Conference | Author             | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
-| 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | This week | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang |         | [link](https://arxiv.org/abs/1812.01187) |
+|   | Paper Name                                                                                                                                                       | Status | Topic       | Category                     | Year | Conference | Author             | Summary                                                                                        | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | Read   | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang | Shows a dozen tricks (mixup, label smoothing, etc.) to improve CNN accuracy and training time. | [link](https://arxiv.org/abs/1812.01187) |
 
 
 ---
@@ -1748,11 +1842,29 @@
 
 ---
 
+## Xiaofei Sun
+
+|   | Paper Name                                                                                                                                                        | Status  | Topic | Category                  | Year | Conference | Author                 | Summary | Link                                     |
+| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ------------------------- | ---- | ---------- | ---------------------- | ------- | ---------------------------------------- |
+| 0 | [Interpreting Deep Learning Models in Natural Language Processing: A Review](Research_Papers_Anubhav_Reads/Interpreting_Deep_Learning_Models_in_Natural_Langu.md) | Pending | Text  | Comparison, Visualization | 2021 | arXiv      | Diyi Yang, Xiaofei Sun |         | [link](https://arxiv.org/abs/2110.10470) |
+
+
+---
+
 ## Xing Shi
 
 |   | Paper Name                                                                                                                                                                                      | Status  | Topic         | Category | Year | Conference | Author                                                  | Summary | Link                                     |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------- | -------- | ---- | ---------- | ------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [One-shot Text Field Labeling using Attention and Belief Propagation for Structure Information Extraction](Research_Papers_Anubhav_Reads/One-shot_Text_Field_Labeling_using_Attention_and_B.md) | Pending | Image , Text  |          | 2020 | arXiv      | Jun Huang, Mengli Cheng, Minghui Qiu, Wei Lin, Xing Shi |         | [link](https://arxiv.org/abs/2009.04153) |
+
+
+---
+
+## Xuezhi Wang
+
+|   | Paper Name                                                                                                                                                   | Status  | Topic                                   | Category | Year | Conference | Author                             | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------------------------------------- | -------- | ---- | ---------- | ---------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Chain of Thought Prompting Elicits Reasoning in Large Language Models](Research_Papers_Anubhav_Reads/Chain_of_Thought_Prompting_Elicits_Reasoning_in_La.md) | Pending | Question-Answering, Text , Transformers |          | 2022 | arXiv      | Denny Zhou, Jason Wei, Xuezhi Wang |         | [link](https://arxiv.org/abs/2201.11903) |
 
 
 ---
@@ -1795,11 +1907,12 @@
 
 ## Yejin Choi
 
-|   | Paper Name                                                                                                                                                        | Status  | Topic                                     | Category | Year | Conference | Author                                                      | Summary | Link                                                                           |
-| - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | -------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
-| 0 | [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](Research_Papers_Anubhav_Reads/ATOMIC_An_Atlas_of_Machine_Commonsense_for_If-Then.md)              | Pending | AGI, Dataset, Text                        |          | 2019 | AAAI       | Maarten Sap, Noah A. Smith, Ronan Le Bras, Yejin Choi       |         | [link](https://arxiv.org/pdf/1811.00146.pdf)                                   |
-| 1 | [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](Research_Papers_Anubhav_Reads/COMET_Commonsense_Transformers_for_Automatic_Knowl.md) | Pending | AGI, Text , Transformers                  |          | 2019 | ACL        | Antoine Bosselut, Hannah Rashkin, Yejin Choi                |         | [link](https://arxiv.org/pdf/1906.05317.pdf)                                   |
-| 2 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md)          | Pending | AGI, Dataset, Image , Text , Transformers |          | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
+|   | Paper Name                                                                                                                                                                 | Status  | Topic                                     | Category                     | Year | Conference | Author                                                      | Summary | Link                                                                           |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | ---------------------------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| 0 | [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](Research_Papers_Anubhav_Reads/ATOMIC_An_Atlas_of_Machine_Commonsense_for_If-Then.md)                       | Pending | AGI, Dataset, Text                        |                              | 2019 | AAAI       | Maarten Sap, Noah A. Smith, Ronan Le Bras, Yejin Choi       |         | [link](https://arxiv.org/pdf/1811.00146.pdf)                                   |
+| 1 | [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](Research_Papers_Anubhav_Reads/COMET_Commonsense_Transformers_for_Automatic_Knowl.md)          | Pending | AGI, Text , Transformers                  |                              | 2019 | ACL        | Antoine Bosselut, Hannah Rashkin, Yejin Choi                |         | [link](https://arxiv.org/pdf/1906.05317.pdf)                                   |
+| 2 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md)                   | Pending | AGI, Dataset, Image , Text , Transformers |                              | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
+| 3 | [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](Research_Papers_Anubhav_Reads/Symbolic_Knowledge_Distillation_from_General_Langu.md) | Pending | Dataset, Text , Transformers              | Optimizations, Tips & Tricks | 2021 | arXiv      | Chandra Bhagavatula, Jack Hessel, Peter West, Yejin Choi    |         | [link](https://arxiv.org/abs/2110.07178)                                       |
 
 
 ---
@@ -1867,6 +1980,15 @@
 
 ---
 
+## Yusuke Iwasawa
+
+|   | Paper Name                                                                                                                      | Status  | Topic                                 | Category                          | Year | Conference | Author                         | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------- | --------------------------------- | ---- | ---------- | ------------------------------ | ------- | ---------------------------------------- |
+| 0 | [Large Language Models are Zero-Shot Reasoners](Research_Papers_Anubhav_Reads/Large_Language_Models_are_Zero-Shot_Reasoners.md) | Pending | Generative, Question-Answering, Text  | Tips & Tricks, Zero-shot-learning | 2022 | arXiv      | Takeshi Kojima, Yusuke Iwasawa |         | [link](https://arxiv.org/abs/2205.11916) |
+
+
+---
+
 ## Yuxin Wu
 
 |   | Paper Name                                                                  | Status  | Topic              | Category      | Year | Conference | Author               | Summary | Link                                     |
@@ -1887,9 +2009,9 @@
 
 ## Zhi Zhang
 
-|   | Paper Name                                                                                                                                                       | Status    | Topic       | Category                     | Year | Conference | Author             | Summary | Link                                     |
-| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ------- | ---------------------------------------- |
-| 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | This week | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang |         | [link](https://arxiv.org/abs/1812.01187) |
+|   | Paper Name                                                                                                                                                       | Status | Topic       | Category                     | Year | Conference | Author             | Summary                                                                                        | Link                                     |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------- | ---------------------------- | ---- | ---------- | ------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Bag of Tricks for Image Classification with Convolutional Neural Networks](Research_Papers_Anubhav_Reads/Bag_of_Tricks_for_Image_Classification_with_Convol.md) | Read   | CV , Image  | Optimizations, Tips & Tricks | 2018 | arXiv      | Tong He, Zhi Zhang | Shows a dozen tricks (mixup, label smoothing, etc.) to improve CNN accuracy and training time. | [link](https://arxiv.org/abs/1812.01187) |
 
 
 ---
