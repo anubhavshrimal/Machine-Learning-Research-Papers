@@ -1,17 +1,17 @@
 # Transforming Sequence Tagging Into A Seq2Seq Task
+Status: Pending
+
 Author: Iftekhar Naim, Karthik Raman, Krishna Srinivasan
+
+Topic: Generative, Text 
 
 Category: Comparison, Tips & Tricks
 
 Conference: arXiv
 
-Link: https://arxiv.org/pdf/2203.08378.pdf
-
-Status: Pending
-
-Topic: Generative, Text 
-
 Year: 2022
+
+Link: https://arxiv.org/pdf/2203.08378.pdf
 
 # Questions
 

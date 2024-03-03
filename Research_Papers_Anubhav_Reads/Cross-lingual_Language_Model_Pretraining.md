@@ -1,17 +1,17 @@
 # Cross-lingual Language Model Pretraining
+Status: Pending
+
 Author: Alexis Conneau, Guillaume Lample
+
+Topic: NMT, Text , Transformers
 
 Category: Unsupervised
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/1901.07291
-
-Status: Pending
-
-Topic: NMT, Text , Transformers
-
 Year: 2019
+
+Link: https://arxiv.org/abs/1901.07291
 
 # Questions
 

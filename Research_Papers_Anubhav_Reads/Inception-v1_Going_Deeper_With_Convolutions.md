@@ -1,19 +1,19 @@
 # Inception-v1 (Going Deeper With Convolutions)
+Status: Read
+
 Author: Christian Szegedy, Wei Liu
+
+Topic: CNNs, CV , Image 
 
 Category: Architecture
 
 Conference: CVPR
 
+Year: 2015
+
 Link: https://arxiv.org/abs/1409.4842
 
-Status: Read
-
 Summary: Propose the use of 1x1 conv operations to reduce the number of parameters in a deep and wide CNN 
-
-Topic: CNNs, CV , Image 
-
-Year: 2015
 
 # Questions
 

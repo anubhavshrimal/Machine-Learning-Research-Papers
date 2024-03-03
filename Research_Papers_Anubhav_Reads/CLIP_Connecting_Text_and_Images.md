@@ -1,17 +1,17 @@
 # CLIP: Connecting
+Status: Pending
+
 Author: Alec Radford, Ilya Sutskever, Jong Wook Kim
+
+Topic: Image , Text , Transformers
 
 Category: Multimodal, Pre-Training
 
 Conference: arXiv
 
-Link: https://openai.com/blog/clip/
-
-Status: Pending
-
-Topic: Image , Text , Transformers
-
 Year: 2021
+
+Link: https://openai.com/blog/clip/
 
 # Questions
 

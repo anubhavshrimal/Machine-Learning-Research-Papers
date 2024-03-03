@@ -1,15 +1,15 @@
 # Deep Double Descent: Where Bigger Models and More Data Hurt
-Author: Boaz Barak, Gal Kaplun, Ilya Sutskever, Preetum Nakkiran, Tristan Yang, Yamini Bansal
-
-Conference: arXiv
-
-Link: https://arxiv.org/abs/1912.02292
-
 Status: Pending
+
+Author: Boaz Barak, Gal Kaplun, Ilya Sutskever, Preetum Nakkiran, Tristan Yang, Yamini Bansal
 
 Topic: NNs
 
+Conference: arXiv
+
 Year: 2019
+
+Link: https://arxiv.org/abs/1912.02292
 
 # Questions
 

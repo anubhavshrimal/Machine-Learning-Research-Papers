@@ -1,17 +1,17 @@
 # Interpreting Deep Learning Models in Natural Language Processing: A Review
+Status: Pending
+
 Author: Diyi Yang, Xiaofei Sun
+
+Topic: Text 
 
 Category: Comparison, Visualization
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/2110.10470
-
-Status: Pending
-
-Topic: Text 
-
 Year: 2021
+
+Link: https://arxiv.org/abs/2110.10470
 
 # Questions
 

@@ -1,15 +1,15 @@
 # NADAM: Incorporating Nesterov Momentum into Adam
-Author: Timothy Dozat
-
-Category: Comparison
-
-Link: http://cs229.stanford.edu/proj2015/054_report.pdf
-
 Status: Pending
+
+Author: Timothy Dozat
 
 Topic: NNs, Optimizers
 
+Category: Comparison
+
 Year: 2016
+
+Link: http://cs229.stanford.edu/proj2015/054_report.pdf
 
 # Questions
 

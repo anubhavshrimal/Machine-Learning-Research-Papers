@@ -1,19 +1,19 @@
 # ZF Net (Visualizing and Understanding Convolutional Networks)
+Status: Read
+
 Author: Matthew D. Zeiler, Rob Fergus
+
+Topic: CNNs, CV , Image 
 
 Category: Visualization
 
 Conference: ECCV
 
+Year: 2014
+
 Link: https://link.springer.com/chapter/10.1007/978-3-319-10590-1_53
 
-Status: Read
-
 Summary: Visualize CNN Filters / Kernels using De-Convolutions on CNN filter activations.
-
-Topic: CNNs, CV , Image 
-
-Year: 2014
 
 # Questions
 

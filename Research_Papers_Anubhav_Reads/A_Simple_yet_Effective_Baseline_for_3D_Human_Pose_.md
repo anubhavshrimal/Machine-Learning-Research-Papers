@@ -1,15 +1,15 @@
 # A Simple yet Effective Baseline for 3D Human Pose Estimation
-Author: James J. Little, Javier Romero, Julieta Martinez, Rayat Hossain
-
-Conference: ICCV
-
-Link: https://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html
-
 Status: Pending
+
+Author: James J. Little, Javier Romero, Julieta Martinez, Rayat Hossain
 
 Topic: CV , Pose Estimation
 
+Conference: ICCV
+
 Year: 2017
+
+Link: https://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html
 
 # Questions
 

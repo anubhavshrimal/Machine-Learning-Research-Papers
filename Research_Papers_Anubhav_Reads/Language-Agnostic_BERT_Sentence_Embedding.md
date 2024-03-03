@@ -1,19 +1,19 @@
 # Language-Agnostic BERT Sentence Embedding
+Status: Read
+
 Author: Fangxiaoyu Feng, Yinfei Yang
+
+Topic: Attention, Siamese Network, Text , Transformers
 
 Category: Embeddings
 
 Conference: arXiv
 
+Year: 2020
+
 Link: https://arxiv.org/abs/2007.01852
 
-Status: Read
-
 Summary: A BERT model with multilingual sentence embeddings learned over 112 languages and Zero-shot learning over unseen languages.
-
-Topic: Attention, Siamese Network, Text , Transformers
-
-Year: 2020
 
 # Questions
 

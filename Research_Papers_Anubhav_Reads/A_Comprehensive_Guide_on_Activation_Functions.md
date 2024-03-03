@@ -1,15 +1,15 @@
 # A Comprehensive Guide on Activation Functions
-Author: Ygor Rebouças Serpa
-
-Conference: Blog
-
-Link: https://towardsdatascience.com/a-comprehensive-guide-on-activation-functions-b45ed37a4fa5
-
 Status: This week
+
+Author: Ygor Rebouças Serpa
 
 Topic: Activation Function
 
+Conference: Blog
+
 Year: 2020
+
+Link: https://towardsdatascience.com/a-comprehensive-guide-on-activation-functions-b45ed37a4fa5
 
 # Questions
 

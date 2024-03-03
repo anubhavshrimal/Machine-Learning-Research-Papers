@@ -1,19 +1,19 @@
 # SqueezeNet
+Status: Read
+
 Author: Forrest N. Iandola, Song Han
+
+Topic: CNNs, CV , Image 
 
 Category: Architecture, Optimization-No. of params
 
 Conference: arXiv
 
+Year: 2016
+
 Link: https://arxiv.org/abs/1602.07360
 
-Status: Read
-
 Summary: Explores model compression by using 1x1 convolutions called fire modules.
-
-Topic: CNNs, CV , Image 
-
-Year: 2016
 
 # Questions
 

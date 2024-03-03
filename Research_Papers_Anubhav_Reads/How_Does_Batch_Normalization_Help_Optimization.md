@@ -1,17 +1,17 @@
 # How Does Batch Normalization Help Optimization?
+Status: Pending
+
 Author: Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar
+
+Topic: NNs, Normalization
 
 Category: Optimizations
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/1805.11604
-
-Status: Pending
-
-Topic: NNs, Normalization
-
 Year: 2018
+
+Link: https://arxiv.org/abs/1805.11604
 
 # Questions
 

@@ -1,15 +1,15 @@
 # COMET: Commonsense Transformers
-Author: Antoine Bosselut, Hannah Rashkin, Yejin Choi
-
-Conference: ACL
-
-Link: https://arxiv.org/pdf/1906.05317.pdf
-
 Status: Pending
+
+Author: Antoine Bosselut, Hannah Rashkin, Yejin Choi
 
 Topic: AGI, Text , Transformers
 
+Conference: ACL
+
 Year: 2019
+
+Link: https://arxiv.org/pdf/1906.05317.pdf
 
 # Questions
 

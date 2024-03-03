@@ -1,17 +1,17 @@
 # Occupancy Anticipation
+Status: Pending
+
 Author: Kristen Grauman, Santhosh K. Ramakrishnan, Ziad Al-Halah
+
+Topic: CNNs, Image 
 
 Category: Reinforcement-Learning
 
 Conference: ECCV
 
-Link: https://arxiv.org/pdf/2008.09285.pdf
-
-Status: Pending
-
-Topic: CNNs, Image 
-
 Year: 2020
+
+Link: https://arxiv.org/pdf/2008.09285.pdf
 
 # Questions
 

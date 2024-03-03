@@ -1,15 +1,15 @@
 # WGAN: Wasserstein GAN
-Author: Léon Bottou, Martin Arjovsky, Soumith Chintala
-
-Conference: arXiv
-
-Link: https://arxiv.org/abs/1701.07875
-
 Status: Pending
+
+Author: Léon Bottou, Martin Arjovsky, Soumith Chintala
 
 Topic: GANs, Loss Function
 
+Conference: arXiv
+
 Year: 2017
+
+Link: https://arxiv.org/abs/1701.07875
 
 # Questions
 

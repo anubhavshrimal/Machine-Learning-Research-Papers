@@ -1,15 +1,15 @@
 # Perceptual Losses for Real-Time Style Transfer and Super-Resolution
-Author: Alexandre Alahi, Justin Johnson, Li Fei-Fei
-
-Conference: ECCV
-
-Link: https://arxiv.org/abs/1603.08155
-
 Status: Pending
+
+Author: Alexandre Alahi, Justin Johnson, Li Fei-Fei
 
 Topic: Loss Function, NNs
 
+Conference: ECCV
+
 Year: 2016
+
+Link: https://arxiv.org/abs/1603.08155
 
 # Questions
 

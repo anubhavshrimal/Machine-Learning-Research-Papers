@@ -1,19 +1,19 @@
 # SpanBERT: Improving Pre-training by Representing and Predicting Spans
+Status: Read
+
 Author: Danqi Chen, Mandar Joshi
+
+Topic: Question-Answering, Text , Transformers
 
 Category: Pre-Training
 
 Conference: TACL
 
+Year: 2020
+
 Link: https://www.aclweb.org/anthology/2020.tacl-1.5/
 
-Status: Read
-
 Summary: A different pre-training strategy for BERT model to improve performance for Question Answering task.
-
-Topic: Question-Answering, Text , Transformers
-
-Year: 2020
 
 # Questions
 

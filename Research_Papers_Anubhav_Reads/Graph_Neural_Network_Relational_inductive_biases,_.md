@@ -1,17 +1,17 @@
 # Graph Neural Network: Relational inductive biases, deep learning, and graph networks
+Status: Pending
+
 Author: Jessica B. Hamrick, Oriol Vinyals, Peter W. Battaglia
+
+Topic: GraphNN
 
 Category: Architecture
 
 Conference: arXiv
 
-Link: https://arxiv.org/pdf/1806.01261.pdf
-
-Status: Pending
-
-Topic: GraphNN
-
 Year: 2018
+
+Link: https://arxiv.org/pdf/1806.01261.pdf
 
 # Questions
 

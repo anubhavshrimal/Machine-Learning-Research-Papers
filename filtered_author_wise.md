@@ -12,6 +12,7 @@
 - [Alexis Conneau](#Alexis-Conneau)
 - [Alfredo Canziani](#Alfredo-Canziani)
 - [Ali Farhadi](#Ali-Farhadi)
+- [Alimohammad Beigi](#Alimohammad-Beigi)
 - [Anant Jain](#Anant-Jain)
 - [Andreas Mayr](#Andreas-Mayr)
 - [Andrew G. Howard](#Andrew-G.-Howard)
@@ -24,7 +25,9 @@
 - [Augustus Odena](#Augustus-Odena)
 - [Bharath Hariharan](#Bharath-Hariharan)
 - [Boaz Barak](#Boaz-Barak)
+- [Carroll L. Wainwright](#Carroll-L.-Wainwright)
 - [Chandra Bhagavatula](#Chandra-Bhagavatula)
+- [Christian Buck](#Christian-Buck)
 - [Christian Szegedy](#Christian-Szegedy)
 - [Colin Raffel](#Colin-Raffel)
 - [Danqi Chen](#Danqi-Chen)
@@ -33,11 +36,14 @@
 - [David J. Schwab](#David-J.-Schwab)
 - [David Silver](#David-Silver)
 - [Davis Wertheimer](#Davis-Wertheimer)
+- [Dedy Kredo](#Dedy-Kredo)
 - [Demis Hassabis](#Demis-Hassabis)
 - [Denny Zhou](#Denny-Zhou)
+- [Dian Yu](#Dian-Yu)
 - [Diederik P. Kingma](#Diederik-P.-Kingma)
 - [Dimitris Metaxas](#Dimitris-Metaxas)
 - [Dimitris Tsipras](#Dimitris-Tsipras)
+- [Diogo Almeida](#Diogo-Almeida)
 - [Diyi Yang](#Diyi-Yang)
 - [Dmytro Mishkin](#Dmytro-Mishkin)
 - [Eugenio Culurciello](#Eugenio-Culurciello)
@@ -54,31 +60,42 @@
 - [Hao Li](#Hao-Li)
 - [Hao Tan](#Hao-Tan)
 - [Hattie Zhou](#Hattie-Zhou)
+- [Hyung Won Chung](#Hyung-Won-Chung)
 - [Ian Goodfellow](#Ian-Goodfellow)
 - [Iftekhar Naim](#Iftekhar-Naim)
 - [Illia Polosukhin](#Illia-Polosukhin)
 - [Ilya Sutskever](#Ilya-Sutskever)
 - [Ioannis Antonoglou](#Ioannis-Antonoglou)
+- [Itamar Friedman](#Itamar-Friedman)
+- [Izhak Shafran](#Izhak-Shafran)
 - [Jaakko Lehtinen](#Jaakko-Lehtinen)
 - [Jack Hessel](#Jack-Hessel)
 - [Jacob Devlin](#Jacob-Devlin)
 - [Jae Sung Park](#Jae-Sung-Park)
 - [Jaegul Choo](#Jaegul-Choo)
+- [Jaemin Cho](#Jaemin-Cho)
 - [Jakob Uszkoreit](#Jakob-Uszkoreit)
 - [James J. Little](#James-J.-Little)
+- [Jan Leike](#Jan-Leike)
 - [Janice Lan](#Janice-Lan)
+- [Jared Kaplan](#Jared-Kaplan)
 - [Jason Wei](#Jason-Wei)
+- [Jason Weston](#Jason-Weston)
 - [Jason Yosinski](#Jason-Yosinski)
 - [Javier Romero](#Javier-Romero)
+- [Jeff Wu](#Jeff-Wu)
 - [Jeffrey Dean](#Jeffrey-Dean)
 - [Jeffrey Wu](#Jeffrey-Wu)
+- [Jeffrey Zhao](#Jeffrey-Zhao)
 - [Jessica B. Hamrick](#Jessica-B.-Hamrick)
 - [Jiakai Zhang](#Jiakai-Zhang)
+- [Jie Le](#Jie-Le)
 - [Jimmy Ba](#Jimmy-Ba)
 - [Jiri Matas](#Jiri-Matas)
 - [Jitendra Malik](#Jitendra-Malik)
 - [Jonathan Frankle](#Jonathan-Frankle)
 - [Jong Wook Kim](#Jong-Wook-Kim)
+- [Jordan Hoffmann](#Jordan-Hoffmann)
 - [Julian Schrittwiese](#Julian-Schrittwiese)
 - [Julieta Martinez](#Julieta-Martinez)
 - [Jun Huang](#Jun-Huang)
@@ -87,6 +104,7 @@
 - [Justin Johnson](#Justin-Johnson)
 - [Kai Chen](#Kai-Chen)
 - [Kaiming He](#Kaiming-He)
+- [Karthik Narasimhan](#Karthik-Narasimhan)
 - [Karthik Raman](#Karthik-Raman)
 - [Ke Li](#Ke-Li)
 - [Kenton Lee](#Kenton-Lee)
@@ -94,8 +112,12 @@
 - [Kristen Grauman](#Kristen-Grauman)
 - [Kristina Toutanova](#Kristina-Toutanova)
 - [Larry Davis](#Larry-Davis)
+- [Laurent Sifre](#Laurent-Sifre)
+- [Le Hou](#Le-Hou)
+- [Leonard Adolphs](#Leonard-Adolphs)
 - [Li Fei-Fei](#Li-Fei-Fei)
 - [Li Yang](#Li-Yang)
+- [Long Ouyang](#Long-Ouyang)
 - [Lucas Beyer](#Lucas-Beyer)
 - [Ludovic Denoyer](#Ludovic-Denoyer)
 - [Lukasz Kaiser](#Lukasz-Kaiser)
@@ -115,6 +137,8 @@
 - [Menglin Jia](#Menglin-Jia)
 - [Menglong Zhu](#Menglong-Zhu)
 - [Michael Carbin](#Michael-Carbin)
+- [Michelle Chen Huebscher](#Michelle-Chen-Huebscher)
+- [Mike Lewis](#Mike-Lewis)
 - [Mikhail Pavlov](#Mikhail-Pavlov)
 - [Ming-Wei Chang](#Ming-Wei-Chang)
 - [Minghui Qiu](#Minghui-Qiu)
@@ -123,6 +147,7 @@
 - [Mohit Bansal](#Mohit-Bansal)
 - [Munyoung Kim](#Munyoung-Kim)
 - [Myle Ott](#Myle-Ott)
+- [Nan Du](#Nan-Du)
 - [Neil Houlsby](#Neil-Houlsby)
 - [Nicholas Frosst](#Nicholas-Frosst)
 - [Nikita Kitaev](#Nikita-Kitaev)
@@ -130,28 +155,37 @@
 - [Noah A. Smith](#Noah-A.-Smith)
 - [Noam Shazeer](#Noam-Shazeer)
 - [Oriol Vinyals](#Oriol-Vinyals)
+- [Other](#Other)
 - [Pablo Márquez-Neila](#Pablo-Márquez-Neila)
+- [Pamela Mishkin](#Pamela-Mishkin)
 - [Pascal Fua](#Pascal-Fua)
+- [Paul Christiano](#Paul-Christiano)
 - [Peng Zhou](#Peng-Zhou)
 - [Peter J. Liu](#Peter-J.-Liu)
 - [Peter W. Battaglia](#Peter-W.-Battaglia)
 - [Peter West](#Peter-West)
 - [Peter Wonka](#Peter-Wonka)
 - [Phillip Isola](#Phillip-Isola)
+- [Ping Yu](#Ping-Yu)
 - [Preetum Nakkiran](#Preetum-Nakkiran)
 - [Qifan Wang](#Qifan-Wang)
+- [Quoc V. Le](#Quoc-V.-Le)
 - [Rameen Abdal](#Rameen-Abdal)
 - [Rayat Hossain](#Rayat-Hossain)
 - [Rob Fergus](#Rob-Fergus)
 - [Ronan Le Bras](#Ronan-Le-Bras)
 - [Rosanne Liu](#Rosanne-Liu)
+- [Ryan Lowe](#Ryan-Lowe)
 - [Samuli Laine](#Samuli-Laine)
 - [Santhosh K. Ramakrishnan](#Santhosh-K.-Ramakrishnan)
 - [Sara Sabour](#Sara-Sabour)
 - [Scott Gray](#Scott-Gray)
+- [Sebastian Borgeaud](#Sebastian-Borgeaud)
 - [Serge Belongie](#Serge-Belongie)
+- [Shayne Longpre](#Shayne-Longpre)
 - [Shibani Santurkar](#Shibani-Santurkar)
 - [Shiyu Chang](#Shiyu-Chang)
+- [Shunyu Yao](#Shunyu-Yao)
 - [Song Han](#Song-Han)
 - [Soumith Chintala](#Soumith-Chintala)
 - [Sowmya Yellapragada](#Sowmya-Yellapragada)
@@ -162,6 +196,7 @@
 - [Taesung Park](#Taesung-Park)
 - [Takeru Miyato](#Takeru-Miyato)
 - [Takeshi Kojima](#Takeshi-Kojima)
+- [Tal Ridnik](#Tal-Ridnik)
 - [Tero Karras](#Tero-Karras)
 - [Thomas Schumm](#Thomas-Schumm)
 - [Thomas Unterthiner](#Thomas-Unterthiner)
@@ -179,9 +214,11 @@
 - [Wieland Brendel](#Wieland-Brendel)
 - [Wojciech Zaremba](#Wojciech-Zaremba)
 - [Xi Chen](#Xi-Chen)
+- [Xian Li](#Xian-Li)
 - [Xiangyu Zhang](#Xiangyu-Zhang)
 - [Xiaofei Sun](#Xiaofei-Sun)
 - [Xing Shi](#Xing-Shi)
+- [Xu Jiang](#Xu-Jiang)
 - [Xuezhi Wang](#Xuezhi-Wang)
 - [Xun Huang](#Xun-Huang)
 - [Yamini Bansal](#Yamini-Bansal)
@@ -193,11 +230,14 @@
 - [Yin Cui](#Yin-Cui)
 - [Yinfei Yang](#Yinfei-Yang)
 - [Yipeng Qin](#Yipeng-Qin)
+- [Yuan Cao](#Yuan-Cao)
 - [Yuichi Yoshida](#Yuichi-Yoshida)
 - [Yunjey Choi](#Yunjey-Choi)
+- [Yuntao Ba](#Yuntao-Ba)
 - [Yusuke Iwasawa](#Yusuke-Iwasawa)
 - [Yuxin Wu](#Yuxin-Wu)
 - [Zhangyang Wang](#Zhangyang-Wang)
+- [Zhen Tan](#Zhen-Tan)
 - [Zhi Zhang](#Zhi-Zhang)
 - [Ziad Al-Halah](#Ziad-Al-Halah)
 - [Łukasz Kaiser](#Łukasz-Kaiser)
@@ -304,6 +344,15 @@
 |   | Paper Name                                                                                                                                               | Status  | Topic                                     | Category | Year | Conference | Author                                                      | Summary | Link                                                                           |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | -------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
 | 0 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md) | Pending | AGI, Dataset, Image , Text , Transformers |          | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
+
+
+---
+
+## Alimohammad Beigi
+
+|   | Paper Name                                                                                                                                 | Status    | Topic                                      | Category                 | Year | Conference | Author                      | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------ | ------------------------ | ---- | ---------- | --------------------------- | ------- | ---------------------------------------- |
+| 0 | [Large Language Models for Data Annotation: A Survey](Research_Papers_Anubhav_Reads/Large_Language_Models_for_Data_Annotation_A_Survey.md) | This week | Dataset, Generative, Large-Language-Models | Prompting, Tips & Tricks | 2024 | arXiv      | Alimohammad Beigi, Zhen Tan |         | [link](https://arxiv.org/abs/2402.13446) |
 
 
 ---
@@ -417,12 +466,30 @@
 
 ---
 
+## Carroll L. Wainwright
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
+
+
+---
+
 ## Chandra Bhagavatula
 
 |   | Paper Name                                                                                                                                                                 | Status  | Topic                                     | Category                     | Year | Conference | Author                                                      | Summary | Link                                                                           |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------- | ---------------------------- | ---- | ---------- | ----------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
 | 0 | [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](Research_Papers_Anubhav_Reads/VisualCOMET_Reasoning_about_the_Dynamic_Context_of.md)                   | Pending | AGI, Dataset, Image , Text , Transformers |                              | 2020 | ECCV       | Ali Farhadi, Chandra Bhagavatula, Jae Sung Park, Yejin Choi |         | [link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500494.pdf) |
 | 1 | [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](Research_Papers_Anubhav_Reads/Symbolic_Knowledge_Distillation_from_General_Langu.md) | Pending | Dataset, Text , Transformers              | Optimizations, Tips & Tricks | 2021 | arXiv      | Chandra Bhagavatula, Jack Hessel, Peter West, Yejin Choi    |         | [link](https://arxiv.org/abs/2110.07178)                                       |
+
+
+---
+
+## Christian Buck
+
+|   | Paper Name                                                                                                                                             | Status  | Topic | Category                 | Year | Conference | Author                                                   | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----- | ------------------------ | ---- | ---------- | -------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Decoding a Neural Retriever’s Latent Space for Query Suggestion](Research_Papers_Anubhav_Reads/Decoding_a_Neural_Retriever’s_Latent_Space_for_Que.md) | Pending | Text  | Embeddings, Latent space | 2022 | arXiv      | Christian Buck, Leonard Adolphs, Michelle Chen Huebscher |         | [link](https://arxiv.org/abs/2210.12084) |
 
 
 ---
@@ -500,6 +567,15 @@
 
 ---
 
+## Dedy Kredo
+
+|   | Paper Name                                                                                                                                                           | Status  | Topic                 | Category                 | Year | Conference | Author                                  | Summary                                                                                                                                                                                      | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------------- | ------------------------ | ---- | ---------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](Research_Papers_Anubhav_Reads/Code_Generation_with_AlphaCodium_From_Prompt_Engin.md) | Pending | Large-Language-Models | Prompting, Tips & Tricks | 2024 | arXiv      | Dedy Kredo, Itamar Friedman, Tal Ridnik | This paper introduces AlphaCodium, a novel test-based, multi-stage, code-oriented iterative approach for improving the performance of Language Model Models (LLMs) on code generation tasks. | [link](https://arxiv.org/abs/2401.08500) |
+
+
+---
+
 ## Demis Hassabis
 
 |   | Paper Name                                                                                                                                        | Status  | Topic | Category               | Year | Conference | Author                                                                | Summary | Link                                                                                              |
@@ -514,6 +590,15 @@
 |   | Paper Name                                                                                                                                                   | Status  | Topic                                   | Category | Year | Conference | Author                             | Summary | Link                                     |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------------------------------------- | -------- | ---- | ---------- | ---------------------------------- | ------- | ---------------------------------------- |
 | 0 | [Chain of Thought Prompting Elicits Reasoning in Large Language Models](Research_Papers_Anubhav_Reads/Chain_of_Thought_Prompting_Elicits_Reasoning_in_La.md) | Pending | Question-Answering, Text , Transformers |          | 2022 | arXiv      | Denny Zhou, Jason Wei, Xuezhi Wang |         | [link](https://arxiv.org/abs/2201.11903) |
+
+
+---
+
+## Dian Yu
+
+|   | Paper Name                                                                                                                                        | Status  | Topic                                    | Category                     | Year | Conference | Author                                                                                 | Summary                                                                                                                                                                                                                                                                                                                                                  | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [ReAct: Synergizing Reasoning and Acting in Language Models](Research_Papers_Anubhav_Reads/ReAct_Synergizing_Reasoning_and_Acting_in_Language.md) | Pending | Generative, Large-Language-Models, Text  | Optimizations, Tips & Tricks | 2023 | ICLR       | Dian Yu, Izhak Shafran, Jeffrey Zhao, Karthik Narasimhan, Nan Du, Shunyu Yao, Yuan Cao | This paper introduces ReAct, a novel approach that leverages Large Language Models (LLMs) to interleave reasoning traces and task-specific actions. ReAct outperforms existing methods on various language and decision-making tasks, addressing issues like hallucination, error propagation, and improving human interpretability and trustworthiness. | [link](https://arxiv.org/abs/2210.03629) |
 
 
 ---
@@ -541,6 +626,15 @@
 |   | Paper Name                                                                                                                         | Status  | Topic              | Category      | Year | Conference | Author                                                              | Summary | Link                                     |
 | - | ---------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ | ------------- | ---- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [How Does Batch Normalization Help Optimization?](Research_Papers_Anubhav_Reads/How_Does_Batch_Normalization_Help_Optimization.md) | Pending | NNs, Normalization | Optimizations | 2018 | arXiv      | Aleksander Madry, Andrew Ilyas, Dimitris Tsipras, Shibani Santurkar |         | [link](https://arxiv.org/abs/1805.11604) |
+
+
+---
+
+## Diogo Almeida
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
 
 
 ---
@@ -675,9 +769,10 @@
 
 ## Hao Tan
 
-|   | Paper Name                                                                                                                                                                             | Status    | Topic                       | Category   | Year | Conference | Author                | Summary | Link                                     |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- | ---------- | ---- | ---------- | --------------------- | ------- | ---------------------------------------- |
-| 0 | [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](Research_Papers_Anubhav_Reads/Vokenization_Improving_Language_Understanding_with.md) | This week | Image , Text , Transformers | Multimodal | 2020 | EMNLP      | Hao Tan, Mohit Bansal |         | [link](https://arxiv.org/abs/2010.06775) |
+|   | Paper Name                                                                                                                                                                             | Status    | Topic                                                                                         | Category                                           | Year | Conference | Author                                    | Summary                                                                                                                                                             | Link                                         |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---- | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](Research_Papers_Anubhav_Reads/Vokenization_Improving_Language_Understanding_with.md) | This week | Image , Text , Transformers                                                                   | Multimodal                                         | 2020 | EMNLP      | Hao Tan, Mohit Bansal                     |                                                                                                                                                                     | [link](https://arxiv.org/abs/2010.06775)     |
+| 1 | [VL-T5: Unifying Vision-and-Language Tasks via Text Generation](Research_Papers_Anubhav_Reads/VL-T5_Unifying_Vision-and-Language_Tasks_via_Text_.md)                                   | Read      | CNNs, CV , Generative, Image , Large-Language-Models, Question-Answering, Text , Transformers | Architecture, Embeddings, Multimodal, Pre-Training | 2021 | arXiv      | Hao Tan, Jaemin Cho, Jie Le, Mohit Bansal | Unifying two modalities (image and text) together in a single transformer model to solve multiple tasks in a single architecture using text prefixes similar to T5. | [link](https://arxiv.org/pdf/2102.02779.pdf) |
 
 
 ---
@@ -687,6 +782,16 @@
 |   | Paper Name                                                                                                                                             | Status | Topic                  | Category                                              | Year | Conference | Author                                               | Summary                                                                                                                          | Link                                     |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---------------------- | ----------------------------------------------------- | ---- | ---------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 0 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](Research_Papers_Anubhav_Reads/Deconstructing_Lottery_Tickets_Zeros,_Signs,_and_t.md) | Read   | NN Initialization, NNs | Comparison, Optimization-No. of params, Tips & Tricks | 2019 | NeurIPS    | Hattie Zhou, Janice Lan, Jason Yosinski, Rosanne Liu | Follow up on Lottery Ticket Hypothesis exploring the effects of different Masking criteria as well as Mask-1 and Mask-0 actions. | [link](https://arxiv.org/abs/1905.01067) |
+
+
+---
+
+## Hyung Won Chung
+
+|   | Paper Name                                                                                                                                    | Status  | Topic                                                                      | Category                   | Year | Conference | Author                                                                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                     |
+| - | --------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------------------- | -------------------------- | ---- | ---------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Flan-T5: Scaling Instruction-Finetuned Language Models](Research_Papers_Anubhav_Reads/Flan-T5_Scaling_Instruction-Finetuned_Language_Mod.md) | Pending | Generative, Text , Transformers                                            | Architecture, Pre-Training | 2022 | arXiv      | Hyung Won Chung, Le Hou                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [link](https://arxiv.org/abs/2210.11416) |
+| 1 | [Scaling Instruction-Finetuned Language Models (FLAN)](Research_Papers_Anubhav_Reads/Scaling_Instruction-Finetuned_Language_Models_FLA.md)    | Pending | Generative, Large-Language-Models, Question-Answering, Text , Transformers | Instruction-Finetuning     | 2022 | arXiv      | Hyung Won Chung, Jason Wei, Jeffrey Dean, Le Hou, Quoc V. Le, Shayne Longpre | https://arxiv.org/abs/2210.11416 introduces FLAN (Fine-tuned LAnguage Net), an instruction finetuning method, and presents the results of its application. The study demonstrates that by fine-tuning the 540B PaLM model on 1836 tasks while incorporating Chain-of-Thought Reasoning data, FLAN achieves improvements in generalization, human usability, and zero-shot reasoning over the base model. The paper also provides detailed information on how each these aspects was evaluated. | [link](https://arxiv.org/abs/2210.11416) |
 
 
 ---
@@ -741,6 +846,24 @@
 
 ---
 
+## Itamar Friedman
+
+|   | Paper Name                                                                                                                                                           | Status  | Topic                 | Category                 | Year | Conference | Author                                  | Summary                                                                                                                                                                                      | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------------- | ------------------------ | ---- | ---------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](Research_Papers_Anubhav_Reads/Code_Generation_with_AlphaCodium_From_Prompt_Engin.md) | Pending | Large-Language-Models | Prompting, Tips & Tricks | 2024 | arXiv      | Dedy Kredo, Itamar Friedman, Tal Ridnik | This paper introduces AlphaCodium, a novel test-based, multi-stage, code-oriented iterative approach for improving the performance of Language Model Models (LLMs) on code generation tasks. | [link](https://arxiv.org/abs/2401.08500) |
+
+
+---
+
+## Izhak Shafran
+
+|   | Paper Name                                                                                                                                        | Status  | Topic                                    | Category                     | Year | Conference | Author                                                                                 | Summary                                                                                                                                                                                                                                                                                                                                                  | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [ReAct: Synergizing Reasoning and Acting in Language Models](Research_Papers_Anubhav_Reads/ReAct_Synergizing_Reasoning_and_Acting_in_Language.md) | Pending | Generative, Large-Language-Models, Text  | Optimizations, Tips & Tricks | 2023 | ICLR       | Dian Yu, Izhak Shafran, Jeffrey Zhao, Karthik Narasimhan, Nan Du, Shunyu Yao, Yuan Cao | This paper introduces ReAct, a novel approach that leverages Large Language Models (LLMs) to interleave reasoning traces and task-specific actions. ReAct outperforms existing methods on various language and decision-making tasks, addressing issues like hallucination, error propagation, and improving human interpretability and trustworthiness. | [link](https://arxiv.org/abs/2210.03629) |
+
+
+---
+
 ## Jaakko Lehtinen
 
 |   | Paper Name                                                                                                                                                        | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                     |
@@ -786,6 +909,15 @@
 
 ---
 
+## Jaemin Cho
+
+|   | Paper Name                                                                                                                                           | Status | Topic                                                                                         | Category                                           | Year | Conference | Author                                    | Summary                                                                                                                                                             | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---- | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [VL-T5: Unifying Vision-and-Language Tasks via Text Generation](Research_Papers_Anubhav_Reads/VL-T5_Unifying_Vision-and-Language_Tasks_via_Text_.md) | Read   | CNNs, CV , Generative, Image , Large-Language-Models, Question-Answering, Text , Transformers | Architecture, Embeddings, Multimodal, Pre-Training | 2021 | arXiv      | Hao Tan, Jaemin Cho, Jie Le, Mohit Bansal | Unifying two modalities (image and text) together in a single transformer model to solve multiple tasks in a single architecture using text prefixes similar to T5. | [link](https://arxiv.org/pdf/2102.02779.pdf) |
+
+
+---
+
 ## Jakob Uszkoreit
 
 |   | Paper Name                                                                                                                                                                            | Status  | Topic                           | Category | Year | Conference | Author                                                         | Summary | Link                                     |
@@ -804,6 +936,15 @@
 
 ---
 
+## Jan Leike
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
+
+
+---
+
 ## Janice Lan
 
 |   | Paper Name                                                                                                                                             | Status | Topic                  | Category                                              | Year | Conference | Author                                               | Summary                                                                                                                          | Link                                     |
@@ -813,11 +954,30 @@
 
 ---
 
+## Jared Kaplan
+
+|   | Paper Name                                                                                                                           | Status  | Topic                                              | Category                                                     | Year | Conference | Author                  | Summary                                                                                                                                                                                                                                                                                                                                                                           | Link                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------------------------------------------------- | ------------------------------------------------------------ | ---- | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Constitutional AI: Harmlessness from AI Feedback](Research_Papers_Anubhav_Reads/Constitutional_AI_Harmlessness_from_AI_Feedback.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Unsupervised | 2022 | arXiv      | Jared Kaplan, Yuntao Ba | The paper introduces Constitutional AI, a method for training a safe AI assistant without human-labeled data on harmful outputs. It combines supervised learning and reinforcement learning phases, enabling the AI to engage with harmful queries by explaining its objections, thus improving control, transparency, and human-judged performance with minimal human oversight. | [link](https://arxiv.org/pdf/2212.08073.pdf) |
+
+
+---
+
 ## Jason Wei
 
-|   | Paper Name                                                                                                                                                   | Status  | Topic                                   | Category | Year | Conference | Author                             | Summary | Link                                     |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------------------------------------- | -------- | ---- | ---------- | ---------------------------------- | ------- | ---------------------------------------- |
-| 0 | [Chain of Thought Prompting Elicits Reasoning in Large Language Models](Research_Papers_Anubhav_Reads/Chain_of_Thought_Prompting_Elicits_Reasoning_in_La.md) | Pending | Question-Answering, Text , Transformers |          | 2022 | arXiv      | Denny Zhou, Jason Wei, Xuezhi Wang |         | [link](https://arxiv.org/abs/2201.11903) |
+|   | Paper Name                                                                                                                                                   | Status  | Topic                                                                      | Category               | Year | Conference | Author                                                                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------------------------------------------------------------------------- | ---------------------- | ---- | ---------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Chain of Thought Prompting Elicits Reasoning in Large Language Models](Research_Papers_Anubhav_Reads/Chain_of_Thought_Prompting_Elicits_Reasoning_in_La.md) | Pending | Question-Answering, Text , Transformers                                    |                        | 2022 | arXiv      | Denny Zhou, Jason Wei, Xuezhi Wang                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [link](https://arxiv.org/abs/2201.11903) |
+| 1 | [Scaling Instruction-Finetuned Language Models (FLAN)](Research_Papers_Anubhav_Reads/Scaling_Instruction-Finetuned_Language_Models_FLA.md)                   | Pending | Generative, Large-Language-Models, Question-Answering, Text , Transformers | Instruction-Finetuning | 2022 | arXiv      | Hyung Won Chung, Jason Wei, Jeffrey Dean, Le Hou, Quoc V. Le, Shayne Longpre | https://arxiv.org/abs/2210.11416 introduces FLAN (Fine-tuned LAnguage Net), an instruction finetuning method, and presents the results of its application. The study demonstrates that by fine-tuning the 540B PaLM model on 1836 tasks while incorporating Chain-of-Thought Reasoning data, FLAN achieves improvements in generalization, human usability, and zero-shot reasoning over the base model. The paper also provides detailed information on how each these aspects was evaluated. | [link](https://arxiv.org/abs/2210.11416) |
+
+
+---
+
+## Jason Weston
+
+|   | Paper Name                                                                                                                          | Status  | Topic                                              | Category               | Year | Conference | Author                                     | Summary                                                                                                                                                                                                                                                                                                                                                                                                       | Link                                         |
+| - | ----------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | ---------------------- | ---- | ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Self-Alignment with Instruction Backtranslation](Research_Papers_Anubhav_Reads/Self-Alignment_with_Instruction_Backtranslation.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning | 2023 | arXiv      | Jason Weston, Mike Lewis, Ping Yu, Xian Li | The paper introduces a scalable method called "instruction backtranslation" to create a high-quality instruction-following language model. This method involves self-augmentation and self-curation of training examples generated from web documents, resulting in a model that outperforms others in its category without relying on distillation data, showcasing its effective self-alignment capability. | [link](https://arxiv.org/pdf/2308.06259.pdf) |
 
 
 ---
@@ -840,11 +1000,21 @@
 
 ---
 
+## Jeff Wu
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
+
+
+---
+
 ## Jeffrey Dean
 
-|   | Paper Name                                                                                                                                                    | Status  | Topic | Category                  | Year | Conference | Author                                              | Summary | Link                                    |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----- | ------------------------- | ---- | ---------- | --------------------------------------------------- | ------- | --------------------------------------- |
-| 0 | [Word2Vec: Efficient Estimation of Word Representations in Vector Space](Research_Papers_Anubhav_Reads/Word2Vec_Efficient_Estimation_of_Word_Representati.md) | Pending | Text  | Embeddings, Tips & Tricks | 2013 | arXiv      | Greg Corrado, Jeffrey Dean, Kai Chen, Tomas Mikolov |         | [link](https://arxiv.org/abs/1301.3781) |
+|   | Paper Name                                                                                                                                                    | Status  | Topic                                                                      | Category                  | Year | Conference | Author                                                                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------------------- | ------------------------- | ---- | ---------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Word2Vec: Efficient Estimation of Word Representations in Vector Space](Research_Papers_Anubhav_Reads/Word2Vec_Efficient_Estimation_of_Word_Representati.md) | Pending | Text                                                                       | Embeddings, Tips & Tricks | 2013 | arXiv      | Greg Corrado, Jeffrey Dean, Kai Chen, Tomas Mikolov                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [link](https://arxiv.org/abs/1301.3781)  |
+| 1 | [Scaling Instruction-Finetuned Language Models (FLAN)](Research_Papers_Anubhav_Reads/Scaling_Instruction-Finetuned_Language_Models_FLA.md)                    | Pending | Generative, Large-Language-Models, Question-Answering, Text , Transformers | Instruction-Finetuning    | 2022 | arXiv      | Hyung Won Chung, Jason Wei, Jeffrey Dean, Le Hou, Quoc V. Le, Shayne Longpre | https://arxiv.org/abs/2210.11416 introduces FLAN (Fine-tuned LAnguage Net), an instruction finetuning method, and presents the results of its application. The study demonstrates that by fine-tuning the 540B PaLM model on 1836 tasks while incorporating Chain-of-Thought Reasoning data, FLAN achieves improvements in generalization, human usability, and zero-shot reasoning over the base model. The paper also provides detailed information on how each these aspects was evaluated. | [link](https://arxiv.org/abs/2210.11416) |
 
 
 ---
@@ -854,6 +1024,15 @@
 |   | Paper Name                                                                                                                                        | Status  | Topic                          | Category | Year | Conference | Author                                                 | Summary | Link                                                                                                                                                                         |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | -------- | ---- | ---------- | ------------------------------------------------------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0 | [GPT-2 (Language Models are Unsupervised Multitask Learners)](Research_Papers_Anubhav_Reads/GPT-2_Language_Models_are_Unsupervised_Multitask_.md) | Pending | Attention, Text , Transformers |          | 2019 |            | Alec Radford, Dario Amodei, Ilya Sutskever, Jeffrey Wu |         | [link](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf) |
+
+
+---
+
+## Jeffrey Zhao
+
+|   | Paper Name                                                                                                                                        | Status  | Topic                                    | Category                     | Year | Conference | Author                                                                                 | Summary                                                                                                                                                                                                                                                                                                                                                  | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [ReAct: Synergizing Reasoning and Acting in Language Models](Research_Papers_Anubhav_Reads/ReAct_Synergizing_Reasoning_and_Acting_in_Language.md) | Pending | Generative, Large-Language-Models, Text  | Optimizations, Tips & Tricks | 2023 | ICLR       | Dian Yu, Izhak Shafran, Jeffrey Zhao, Karthik Narasimhan, Nan Du, Shunyu Yao, Yuan Cao | This paper introduces ReAct, a novel approach that leverages Large Language Models (LLMs) to interleave reasoning traces and task-specific actions. ReAct outperforms existing methods on various language and decision-making tasks, addressing issues like hallucination, error propagation, and improving human interpretability and trustworthiness. | [link](https://arxiv.org/abs/2210.03629) |
 
 
 ---
@@ -872,6 +1051,15 @@
 |   | Paper Name                                                                                                                                                                            | Status  | Topic        | Category | Year | Conference | Author                               | Summary | Link                                     |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------------------ | ------- | ---------------------------------------- |
 | 0 | [AnimeGAN: Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](Research_Papers_Anubhav_Reads/AnimeGAN_Towards_the_Automatic_Anime_Characters_Cr.md) | Pending | GANs, Image  |          | 2017 | NIPS       | Jiakai Zhang, Minjun Li, Yanghua Jin |         | [link](https://arxiv.org/abs/1708.05509) |
+
+
+---
+
+## Jie Le
+
+|   | Paper Name                                                                                                                                           | Status | Topic                                                                                         | Category                                           | Year | Conference | Author                                    | Summary                                                                                                                                                             | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---- | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [VL-T5: Unifying Vision-and-Language Tasks via Text Generation](Research_Papers_Anubhav_Reads/VL-T5_Unifying_Vision-and-Language_Tasks_via_Text_.md) | Read   | CNNs, CV , Generative, Image , Large-Language-Models, Question-Answering, Text , Transformers | Architecture, Embeddings, Multimodal, Pre-Training | 2021 | arXiv      | Hao Tan, Jaemin Cho, Jie Le, Mohit Bansal | Unifying two modalities (image and text) together in a single transformer model to solve multiple tasks in a single architecture using text prefixes similar to T5. | [link](https://arxiv.org/pdf/2102.02779.pdf) |
 
 
 ---
@@ -918,6 +1106,15 @@
 |   | Paper Name                                                                                           | Status  | Topic                       | Category                 | Year | Conference | Author                                      | Summary | Link                                  |
 | - | ---------------------------------------------------------------------------------------------------- | ------- | --------------------------- | ------------------------ | ---- | ---------- | ------------------------------------------- | ------- | ------------------------------------- |
 | 0 | [CLIP: Connecting Text and Images](Research_Papers_Anubhav_Reads/CLIP_Connecting_Text_and_Images.md) | Pending | Image , Text , Transformers | Multimodal, Pre-Training | 2021 | arXiv      | Alec Radford, Ilya Sutskever, Jong Wook Kim |         | [link](https://openai.com/blog/clip/) |
+
+
+---
+
+## Jordan Hoffmann
+
+|   | Paper Name                                                                                                                        | Status  | Topic                               | Category                                                              | Year | Conference | Author                                                            | Summary | Link                                     |
+| - | --------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------- | --------------------------------------------------------------------- | ---- | ---------- | ----------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Training Compute-Optimal Large Language Models](Research_Papers_Anubhav_Reads/Training_Compute-Optimal_Large_Language_Models.md) | Pending | Large-Language-Models, Transformers | Architecture, Optimization-No. of params, Pre-Training, Tips & Tricks | 2022 | arXiv      | Jordan Hoffmann, Laurent Sifre, Oriol Vinyals, Sebastian Borgeaud |         | [link](https://arxiv.org/abs/2203.15556) |
 
 
 ---
@@ -996,6 +1193,15 @@
 
 ---
 
+## Karthik Narasimhan
+
+|   | Paper Name                                                                                                                                        | Status  | Topic                                    | Category                     | Year | Conference | Author                                                                                 | Summary                                                                                                                                                                                                                                                                                                                                                  | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [ReAct: Synergizing Reasoning and Acting in Language Models](Research_Papers_Anubhav_Reads/ReAct_Synergizing_Reasoning_and_Acting_in_Language.md) | Pending | Generative, Large-Language-Models, Text  | Optimizations, Tips & Tricks | 2023 | ICLR       | Dian Yu, Izhak Shafran, Jeffrey Zhao, Karthik Narasimhan, Nan Du, Shunyu Yao, Yuan Cao | This paper introduces ReAct, a novel approach that leverages Large Language Models (LLMs) to interleave reasoning traces and task-specific actions. ReAct outperforms existing methods on various language and decision-making tasks, addressing issues like hallucination, error propagation, and improving human interpretability and trustworthiness. | [link](https://arxiv.org/abs/2210.03629) |
+
+
+---
+
 ## Karthik Raman
 
 |   | Paper Name                                                                                                                              | Status  | Topic             | Category                  | Year | Conference | Author                                           | Summary | Link                                         |
@@ -1059,6 +1265,34 @@
 
 ---
 
+## Laurent Sifre
+
+|   | Paper Name                                                                                                                        | Status  | Topic                               | Category                                                              | Year | Conference | Author                                                            | Summary | Link                                     |
+| - | --------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------- | --------------------------------------------------------------------- | ---- | ---------- | ----------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Training Compute-Optimal Large Language Models](Research_Papers_Anubhav_Reads/Training_Compute-Optimal_Large_Language_Models.md) | Pending | Large-Language-Models, Transformers | Architecture, Optimization-No. of params, Pre-Training, Tips & Tricks | 2022 | arXiv      | Jordan Hoffmann, Laurent Sifre, Oriol Vinyals, Sebastian Borgeaud |         | [link](https://arxiv.org/abs/2203.15556) |
+
+
+---
+
+## Le Hou
+
+|   | Paper Name                                                                                                                                    | Status  | Topic                                                                      | Category                   | Year | Conference | Author                                                                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                     |
+| - | --------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------------------- | -------------------------- | ---- | ---------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Flan-T5: Scaling Instruction-Finetuned Language Models](Research_Papers_Anubhav_Reads/Flan-T5_Scaling_Instruction-Finetuned_Language_Mod.md) | Pending | Generative, Text , Transformers                                            | Architecture, Pre-Training | 2022 | arXiv      | Hyung Won Chung, Le Hou                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [link](https://arxiv.org/abs/2210.11416) |
+| 1 | [Scaling Instruction-Finetuned Language Models (FLAN)](Research_Papers_Anubhav_Reads/Scaling_Instruction-Finetuned_Language_Models_FLA.md)    | Pending | Generative, Large-Language-Models, Question-Answering, Text , Transformers | Instruction-Finetuning     | 2022 | arXiv      | Hyung Won Chung, Jason Wei, Jeffrey Dean, Le Hou, Quoc V. Le, Shayne Longpre | https://arxiv.org/abs/2210.11416 introduces FLAN (Fine-tuned LAnguage Net), an instruction finetuning method, and presents the results of its application. The study demonstrates that by fine-tuning the 540B PaLM model on 1836 tasks while incorporating Chain-of-Thought Reasoning data, FLAN achieves improvements in generalization, human usability, and zero-shot reasoning over the base model. The paper also provides detailed information on how each these aspects was evaluated. | [link](https://arxiv.org/abs/2210.11416) |
+
+
+---
+
+## Leonard Adolphs
+
+|   | Paper Name                                                                                                                                             | Status  | Topic | Category                 | Year | Conference | Author                                                   | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----- | ------------------------ | ---- | ---------- | -------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Decoding a Neural Retriever’s Latent Space for Query Suggestion](Research_Papers_Anubhav_Reads/Decoding_a_Neural_Retriever’s_Latent_Space_for_Que.md) | Pending | Text  | Embeddings, Latent space | 2022 | arXiv      | Christian Buck, Leonard Adolphs, Michelle Chen Huebscher |         | [link](https://arxiv.org/abs/2210.12084) |
+
+
+---
+
 ## Li Fei-Fei
 
 |   | Paper Name                                                                                                                                                 | Status  | Topic              | Category | Year | Conference | Author                                      | Summary | Link                                     |
@@ -1073,6 +1307,15 @@
 |   | Paper Name                                                                                                                                                                            | Status | Topic                                   | Category           | Year | Conference | Author              | Summary                                                                                                                                                  | Link                                                       |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------- | ------------------ | ---- | ---------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | 0 | [Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach](Research_Papers_Anubhav_Reads/Learning_to_Extract_Attribute_Value_from_Product_v.md) | Read   | Question-Answering, Text , Transformers | Zero-shot-learning | 2020 | KDD        | Li Yang, Qifan Wang | Question Answering BERT model used to extract attributes from products. Introduce further No Answer loss and distillation to promote zero shot learning. | [link](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047) |
+
+
+---
+
+## Long Ouyang
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
 
 
 ---
@@ -1250,6 +1493,24 @@
 
 ---
 
+## Michelle Chen Huebscher
+
+|   | Paper Name                                                                                                                                             | Status  | Topic | Category                 | Year | Conference | Author                                                   | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----- | ------------------------ | ---- | ---------- | -------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Decoding a Neural Retriever’s Latent Space for Query Suggestion](Research_Papers_Anubhav_Reads/Decoding_a_Neural_Retriever’s_Latent_Space_for_Que.md) | Pending | Text  | Embeddings, Latent space | 2022 | arXiv      | Christian Buck, Leonard Adolphs, Michelle Chen Huebscher |         | [link](https://arxiv.org/abs/2210.12084) |
+
+
+---
+
+## Mike Lewis
+
+|   | Paper Name                                                                                                                          | Status  | Topic                                              | Category               | Year | Conference | Author                                     | Summary                                                                                                                                                                                                                                                                                                                                                                                                       | Link                                         |
+| - | ----------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | ---------------------- | ---- | ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Self-Alignment with Instruction Backtranslation](Research_Papers_Anubhav_Reads/Self-Alignment_with_Instruction_Backtranslation.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning | 2023 | arXiv      | Jason Weston, Mike Lewis, Ping Yu, Xian Li | The paper introduces a scalable method called "instruction backtranslation" to create a high-quality instruction-following language model. This method involves self-augmentation and self-curation of training examples generated from web documents, resulting in a model that outperforms others in its category without relying on distillation data, showcasing its effective self-alignment capability. | [link](https://arxiv.org/pdf/2308.06259.pdf) |
+
+
+---
+
 ## Mikhail Pavlov
 
 |   | Paper Name                                                                                             | Status  | Topic                       | Category | Year | Conference | Author                                                                 | Summary | Link                                    |
@@ -1297,9 +1558,10 @@
 
 ## Mohit Bansal
 
-|   | Paper Name                                                                                                                                                                             | Status    | Topic                       | Category   | Year | Conference | Author                | Summary | Link                                     |
-| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- | ---------- | ---- | ---------- | --------------------- | ------- | ---------------------------------------- |
-| 0 | [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](Research_Papers_Anubhav_Reads/Vokenization_Improving_Language_Understanding_with.md) | This week | Image , Text , Transformers | Multimodal | 2020 | EMNLP      | Hao Tan, Mohit Bansal |         | [link](https://arxiv.org/abs/2010.06775) |
+|   | Paper Name                                                                                                                                                                             | Status    | Topic                                                                                         | Category                                           | Year | Conference | Author                                    | Summary                                                                                                                                                             | Link                                         |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---- | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](Research_Papers_Anubhav_Reads/Vokenization_Improving_Language_Understanding_with.md) | This week | Image , Text , Transformers                                                                   | Multimodal                                         | 2020 | EMNLP      | Hao Tan, Mohit Bansal                     |                                                                                                                                                                     | [link](https://arxiv.org/abs/2010.06775)     |
+| 1 | [VL-T5: Unifying Vision-and-Language Tasks via Text Generation](Research_Papers_Anubhav_Reads/VL-T5_Unifying_Vision-and-Language_Tasks_via_Text_.md)                                   | Read      | CNNs, CV , Generative, Image , Large-Language-Models, Question-Answering, Text , Transformers | Architecture, Embeddings, Multimodal, Pre-Training | 2021 | arXiv      | Hao Tan, Jaemin Cho, Jie Le, Mohit Bansal | Unifying two modalities (image and text) together in a single transformer model to solve multiple tasks in a single architecture using text prefixes similar to T5. | [link](https://arxiv.org/pdf/2102.02779.pdf) |
 
 
 ---
@@ -1319,6 +1581,15 @@
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------------------------ | ------------ | ---- | ---------- | --------------------------------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [Phrase-Based & Neural Unsupervised Machine Translation](Research_Papers_Anubhav_Reads/Phrase-Based_&_Neural_Unsupervised_Machine_Transla.md)          | Pending | NMT, Text , Transformers       | Unsupervised | 2018 | arXiv      | Alexis Conneau, Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato, Myle Ott |         | [link](https://arxiv.org/abs/1804.07755) |
 | 1 | [Unsupervised Machine Translation Using Monolingual Corpora Only](Research_Papers_Anubhav_Reads/Unsupervised_Machine_Translation_Using_Monolingual.md) | Pending | GANs, NMT, Text , Transformers | Unsupervised | 2017 | arXiv      | Alexis Conneau, Guillaume Lample, Ludovic Denoyer, Marc'Aurelio Ranzato, Myle Ott |         | [link](https://arxiv.org/abs/1711.00043) |
+
+
+---
+
+## Nan Du
+
+|   | Paper Name                                                                                                                                        | Status  | Topic                                    | Category                     | Year | Conference | Author                                                                                 | Summary                                                                                                                                                                                                                                                                                                                                                  | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [ReAct: Synergizing Reasoning and Acting in Language Models](Research_Papers_Anubhav_Reads/ReAct_Synergizing_Reasoning_and_Acting_in_Language.md) | Pending | Generative, Large-Language-Models, Text  | Optimizations, Tips & Tricks | 2023 | ICLR       | Dian Yu, Izhak Shafran, Jeffrey Zhao, Karthik Narasimhan, Nan Du, Shunyu Yao, Yuan Cao | This paper introduces ReAct, a novel approach that leverages Large Language Models (LLMs) to interleave reasoning traces and task-specific actions. ReAct outperforms existing methods on various language and decision-making tasks, addressing issues like hallucination, error propagation, and improving human interpretability and trustworthiness. | [link](https://arxiv.org/abs/2210.03629) |
 
 
 ---
@@ -1380,9 +1651,19 @@
 
 ## Oriol Vinyals
 
-|   | Paper Name                                                                                                                                                                  | Status  | Topic   | Category     | Year | Conference | Author                                                | Summary | Link                                         |
-| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------- | ------------ | ---- | ---------- | ----------------------------------------------------- | ------- | -------------------------------------------- |
-| 0 | [Graph Neural Network: Relational inductive biases, deep learning, and graph networks](Research_Papers_Anubhav_Reads/Graph_Neural_Network_Relational_inductive_biases,_.md) | Pending | GraphNN | Architecture | 2018 | arXiv      | Jessica B. Hamrick, Oriol Vinyals, Peter W. Battaglia |         | [link](https://arxiv.org/pdf/1806.01261.pdf) |
+|   | Paper Name                                                                                                                                                                  | Status  | Topic                               | Category                                                              | Year | Conference | Author                                                            | Summary | Link                                         |
+| - | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------- | --------------------------------------------------------------------- | ---- | ---------- | ----------------------------------------------------------------- | ------- | -------------------------------------------- |
+| 0 | [Graph Neural Network: Relational inductive biases, deep learning, and graph networks](Research_Papers_Anubhav_Reads/Graph_Neural_Network_Relational_inductive_biases,_.md) | Pending | GraphNN                             | Architecture                                                          | 2018 | arXiv      | Jessica B. Hamrick, Oriol Vinyals, Peter W. Battaglia             |         | [link](https://arxiv.org/pdf/1806.01261.pdf) |
+| 1 | [Training Compute-Optimal Large Language Models](Research_Papers_Anubhav_Reads/Training_Compute-Optimal_Large_Language_Models.md)                                           | Pending | Large-Language-Models, Transformers | Architecture, Optimization-No. of params, Pre-Training, Tips & Tricks | 2022 | arXiv      | Jordan Hoffmann, Laurent Sifre, Oriol Vinyals, Sebastian Borgeaud |         | [link](https://arxiv.org/abs/2203.15556)     |
+
+
+---
+
+## Other
+
+|   | Paper Name                                                                                                                               | Status  | Topic                                              | Category               | Year | Conference | Author | Summary | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | ---------------------- | ---- | ---------- | ------ | ------- | -------------------------------------------- |
+| 0 | [Table-GPT: Table-tuned GPT for Diverse Table Tasks](Research_Papers_Anubhav_Reads/Table-GPT_Table-tuned_GPT_for_Diverse_Table_Tasks.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning | 2023 | arXiv      | Other  |         | [link](https://arxiv.org/pdf/2310.09263.pdf) |
 
 
 ---
@@ -1396,11 +1677,29 @@
 
 ---
 
+## Pamela Mishkin
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
+
+
+---
+
 ## Pascal Fua
 
 |   | Paper Name                                                                                                                                                         | Status  | Topic                               | Category | Year | Conference | Author                                                            | Summary | Link                                                                                                             |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----------------------------------- | -------- | ---- | ---------- | ----------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
 | 0 | [Topological Loss: Beyond the Pixel-Wise Loss for Topology-Aware Delineation](Research_Papers_Anubhav_Reads/Topological_Loss_Beyond_the_Pixel-Wise_Loss_for_To.md) | Pending | Image , Loss Function, Segmentation |          | 2018 | CVPR       | Agata Mosinska, Mateusz Koziński, Pablo Márquez-Neila, Pascal Fua |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/html/Mosinska_Beyond_the_Pixel-Wise_CVPR_2018_paper.html) |
+
+
+---
+
+## Paul Christiano
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
 
 
 ---
@@ -1460,6 +1759,15 @@
 
 ---
 
+## Ping Yu
+
+|   | Paper Name                                                                                                                          | Status  | Topic                                              | Category               | Year | Conference | Author                                     | Summary                                                                                                                                                                                                                                                                                                                                                                                                       | Link                                         |
+| - | ----------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | ---------------------- | ---- | ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Self-Alignment with Instruction Backtranslation](Research_Papers_Anubhav_Reads/Self-Alignment_with_Instruction_Backtranslation.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning | 2023 | arXiv      | Jason Weston, Mike Lewis, Ping Yu, Xian Li | The paper introduces a scalable method called "instruction backtranslation" to create a high-quality instruction-following language model. This method involves self-augmentation and self-curation of training examples generated from web documents, resulting in a model that outperforms others in its category without relying on distillation data, showcasing its effective self-alignment capability. | [link](https://arxiv.org/pdf/2308.06259.pdf) |
+
+
+---
+
 ## Preetum Nakkiran
 
 |   | Paper Name                                                                                                                                         | Status  | Topic | Category | Year | Conference | Author                                                                                | Summary | Link                                     |
@@ -1474,6 +1782,15 @@
 |   | Paper Name                                                                                                                                                                            | Status | Topic                                   | Category           | Year | Conference | Author              | Summary                                                                                                                                                  | Link                                                       |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------- | ------------------ | ---- | ---------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | 0 | [Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach](Research_Papers_Anubhav_Reads/Learning_to_Extract_Attribute_Value_from_Product_v.md) | Read   | Question-Answering, Text , Transformers | Zero-shot-learning | 2020 | KDD        | Li Yang, Qifan Wang | Question Answering BERT model used to extract attributes from products. Introduce further No Answer loss and distillation to promote zero shot learning. | [link](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047) |
+
+
+---
+
+## Quoc V. Le
+
+|   | Paper Name                                                                                                                                 | Status  | Topic                                                                      | Category               | Year | Conference | Author                                                                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------------------------------------------------------------------------- | ---------------------- | ---- | ---------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Scaling Instruction-Finetuned Language Models (FLAN)](Research_Papers_Anubhav_Reads/Scaling_Instruction-Finetuned_Language_Models_FLA.md) | Pending | Generative, Large-Language-Models, Question-Answering, Text , Transformers | Instruction-Finetuning | 2022 | arXiv      | Hyung Won Chung, Jason Wei, Jeffrey Dean, Le Hou, Quoc V. Le, Shayne Longpre | https://arxiv.org/abs/2210.11416 introduces FLAN (Fine-tuned LAnguage Net), an instruction finetuning method, and presents the results of its application. The study demonstrates that by fine-tuning the 540B PaLM model on 1836 tasks while incorporating Chain-of-Thought Reasoning data, FLAN achieves improvements in generalization, human usability, and zero-shot reasoning over the base model. The paper also provides detailed information on how each these aspects was evaluated. | [link](https://arxiv.org/abs/2210.11416) |
 
 
 ---
@@ -1523,6 +1840,15 @@
 
 ---
 
+## Ryan Lowe
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
+
+
+---
+
 ## Samuli Laine
 
 |   | Paper Name                                                                                                                                                                | Status  | Topic        | Category      | Year | Conference | Author                                                | Summary | Link                                                                                                                                                              |
@@ -1560,11 +1886,29 @@
 
 ---
 
+## Sebastian Borgeaud
+
+|   | Paper Name                                                                                                                        | Status  | Topic                               | Category                                                              | Year | Conference | Author                                                            | Summary | Link                                     |
+| - | --------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------- | --------------------------------------------------------------------- | ---- | ---------- | ----------------------------------------------------------------- | ------- | ---------------------------------------- |
+| 0 | [Training Compute-Optimal Large Language Models](Research_Papers_Anubhav_Reads/Training_Compute-Optimal_Large_Language_Models.md) | Pending | Large-Language-Models, Transformers | Architecture, Optimization-No. of params, Pre-Training, Tips & Tricks | 2022 | arXiv      | Jordan Hoffmann, Laurent Sifre, Oriol Vinyals, Sebastian Borgeaud |         | [link](https://arxiv.org/abs/2203.15556) |
+
+
+---
+
 ## Serge Belongie
 
 |   | Paper Name                                                                                                                                                        | Status  | Topic        | Category | Year | Conference | Author                    | Summary | Link                                                                                                             |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
 | 0 | [Arbitrary Style Transfer in Real-Time With Adaptive Instance Normalization](Research_Papers_Anubhav_Reads/Arbitrary_Style_Transfer_in_Real-Time_With_Adaptiv.md) | Pending | CNNs, Image  |          | 2017 | ICCV       | Serge Belongie, Xun Huang |         | [link](https://openaccess.thecvf.com/content_iccv_2017/html/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.html) |
+
+
+---
+
+## Shayne Longpre
+
+|   | Paper Name                                                                                                                                 | Status  | Topic                                                                      | Category               | Year | Conference | Author                                                                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------------------------------------------------------------------------- | ---------------------- | ---- | ---------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Scaling Instruction-Finetuned Language Models (FLAN)](Research_Papers_Anubhav_Reads/Scaling_Instruction-Finetuned_Language_Models_FLA.md) | Pending | Generative, Large-Language-Models, Question-Answering, Text , Transformers | Instruction-Finetuning | 2022 | arXiv      | Hyung Won Chung, Jason Wei, Jeffrey Dean, Le Hou, Quoc V. Le, Shayne Longpre | https://arxiv.org/abs/2210.11416 introduces FLAN (Fine-tuned LAnguage Net), an instruction finetuning method, and presents the results of its application. The study demonstrates that by fine-tuning the 540B PaLM model on 1836 tasks while incorporating Chain-of-Thought Reasoning data, FLAN achieves improvements in generalization, human usability, and zero-shot reasoning over the base model. The paper also provides detailed information on how each these aspects was evaluated. | [link](https://arxiv.org/abs/2210.11416) |
 
 
 ---
@@ -1583,6 +1927,15 @@
 |   | Paper Name                                                                                                                               | Status  | Topic                      | Category     | Year | Conference | Author                                   | Summary | Link                                     |
 | - | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------- | ------------ | ---- | ---------- | ---------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [TransGAN: Two Transformers Can Make One Strong GAN](Research_Papers_Anubhav_Reads/TransGAN_Two_Transformers_Can_Make_One_Strong_GAN.md) | Pending | GANs, Image , Transformers | Architecture | 2021 | arXiv      | Shiyu Chang, Yifan Jiang, Zhangyang Wang |         | [link](https://arxiv.org/abs/2102.07074) |
+
+
+---
+
+## Shunyu Yao
+
+|   | Paper Name                                                                                                                                        | Status  | Topic                                    | Category                     | Year | Conference | Author                                                                                 | Summary                                                                                                                                                                                                                                                                                                                                                  | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [ReAct: Synergizing Reasoning and Acting in Language Models](Research_Papers_Anubhav_Reads/ReAct_Synergizing_Reasoning_and_Acting_in_Language.md) | Pending | Generative, Large-Language-Models, Text  | Optimizations, Tips & Tricks | 2023 | ICLR       | Dian Yu, Izhak Shafran, Jeffrey Zhao, Karthik Narasimhan, Nan Du, Shunyu Yao, Yuan Cao | This paper introduces ReAct, a novel approach that leverages Large Language Models (LLMs) to interleave reasoning traces and task-specific actions. ReAct outperforms existing methods on various language and decision-making tasks, addressing issues like hallucination, error propagation, and improving human interpretability and trustworthiness. | [link](https://arxiv.org/abs/2210.03629) |
 
 
 ---
@@ -1673,6 +2026,15 @@
 |   | Paper Name                                                                                                                      | Status  | Topic                                 | Category                          | Year | Conference | Author                         | Summary | Link                                     |
 | - | ------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------- | --------------------------------- | ---- | ---------- | ------------------------------ | ------- | ---------------------------------------- |
 | 0 | [Large Language Models are Zero-Shot Reasoners](Research_Papers_Anubhav_Reads/Large_Language_Models_are_Zero-Shot_Reasoners.md) | Pending | Generative, Question-Answering, Text  | Tips & Tricks, Zero-shot-learning | 2022 | arXiv      | Takeshi Kojima, Yusuke Iwasawa |         | [link](https://arxiv.org/abs/2205.11916) |
+
+
+---
+
+## Tal Ridnik
+
+|   | Paper Name                                                                                                                                                           | Status  | Topic                 | Category                 | Year | Conference | Author                                  | Summary                                                                                                                                                                                      | Link                                     |
+| - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------------- | ------------------------ | ---- | ---------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](Research_Papers_Anubhav_Reads/Code_Generation_with_AlphaCodium_From_Prompt_Engin.md) | Pending | Large-Language-Models | Prompting, Tips & Tricks | 2024 | arXiv      | Dedy Kredo, Itamar Friedman, Tal Ridnik | This paper introduces AlphaCodium, a novel test-based, multi-stage, code-oriented iterative approach for improving the performance of Language Model Models (LLMs) on code generation tasks. | [link](https://arxiv.org/abs/2401.08500) |
 
 
 ---
@@ -1833,6 +2195,15 @@
 
 ---
 
+## Xian Li
+
+|   | Paper Name                                                                                                                          | Status  | Topic                                              | Category               | Year | Conference | Author                                     | Summary                                                                                                                                                                                                                                                                                                                                                                                                       | Link                                         |
+| - | ----------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | ---------------------- | ---- | ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Self-Alignment with Instruction Backtranslation](Research_Papers_Anubhav_Reads/Self-Alignment_with_Instruction_Backtranslation.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning | 2023 | arXiv      | Jason Weston, Mike Lewis, Ping Yu, Xian Li | The paper introduces a scalable method called "instruction backtranslation" to create a high-quality instruction-following language model. This method involves self-augmentation and self-curation of training examples generated from web documents, resulting in a model that outperforms others in its category without relying on distillation data, showcasing its effective self-alignment capability. | [link](https://arxiv.org/pdf/2308.06259.pdf) |
+
+
+---
+
 ## Xiangyu Zhang
 
 |   | Paper Name                                                                                                                                  | Status | Topic             | Category     | Year | Conference | Author                    | Summary                                                                         | Link                                                                                                        |
@@ -1856,6 +2227,15 @@
 |   | Paper Name                                                                                                                                                                                      | Status  | Topic         | Category | Year | Conference | Author                                                  | Summary | Link                                     |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------- | -------- | ---- | ---------- | ------------------------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [One-shot Text Field Labeling using Attention and Belief Propagation for Structure Information Extraction](Research_Papers_Anubhav_Reads/One-shot_Text_Field_Labeling_using_Attention_and_B.md) | Pending | Image , Text  |          | 2020 | arXiv      | Jun Huang, Mengli Cheng, Minghui Qiu, Wei Lin, Xing Shi |         | [link](https://arxiv.org/abs/2009.04153) |
+
+
+---
+
+## Xu Jiang
+
+|   | Paper Name                                                                                                                                                 | Status  | Topic                                              | Category                                                        | Year | Conference | Author                                                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Link                                         |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | --------------------------------------------------------------- | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Training language models to follow instructions with human feedback](Research_Papers_Anubhav_Reads/Training_language_models_to_follow_instructions_wi.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Semi-Supervised | 2022 | arXiv      | Carroll L. Wainwright, Diogo Almeida, Jan Leike, Jeff Wu, Long Ouyang, Pamela Mishkin, Paul Christiano, Ryan Lowe, Xu Jiang | This paper presents InstructGPT, a model fine-tuned with human feedback to better align with user intent across various tasks. Despite having significantly fewer parameters than larger models, InstructGPT outperforms them in human evaluations, demonstrating improved truthfulness, reduced toxicity, and minimal performance regressions on public NLP datasets, highlighting the potential of fine-tuning with human feedback for enhancing language model alignment with human intent. | [link](https://arxiv.org/pdf/2203.02155.pdf) |
 
 
 ---
@@ -1962,6 +2342,15 @@
 
 ---
 
+## Yuan Cao
+
+|   | Paper Name                                                                                                                                        | Status  | Topic                                    | Category                     | Year | Conference | Author                                                                                 | Summary                                                                                                                                                                                                                                                                                                                                                  | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------- | ---------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 0 | [ReAct: Synergizing Reasoning and Acting in Language Models](Research_Papers_Anubhav_Reads/ReAct_Synergizing_Reasoning_and_Acting_in_Language.md) | Pending | Generative, Large-Language-Models, Text  | Optimizations, Tips & Tricks | 2023 | ICLR       | Dian Yu, Izhak Shafran, Jeffrey Zhao, Karthik Narasimhan, Nan Du, Shunyu Yao, Yuan Cao | This paper introduces ReAct, a novel approach that leverages Large Language Models (LLMs) to interleave reasoning traces and task-specific actions. ReAct outperforms existing methods on various language and decision-making tasks, addressing issues like hallucination, error propagation, and improving human interpretability and trustworthiness. | [link](https://arxiv.org/abs/2210.03629) |
+
+
+---
+
 ## Yuichi Yoshida
 
 |   | Paper Name                                                                                          | Status  | Topic               | Category      | Year | Conference | Author                                                          | Summary | Link                                     |
@@ -1976,6 +2365,15 @@
 |   | Paper Name                                                                                                                                                                          | Status  | Topic        | Category | Year | Conference | Author                                                                       | Summary | Link                                                                                                               |
 | - | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ | -------- | ---- | ---------- | ---------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
 | 0 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](Research_Papers_Anubhav_Reads/StarGAN_Unified_Generative_Adversarial_Networks_fo.md) | Pending | GANs, Image  |          | 2018 | CVPR       | Jaegul Choo, Jung-Woo Ha, Minje Choi, Munyoung Kim, Sunghun Kim, Yunjey Choi |         | [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) |
+
+
+---
+
+## Yuntao Ba
+
+|   | Paper Name                                                                                                                           | Status  | Topic                                              | Category                                                     | Year | Conference | Author                  | Summary                                                                                                                                                                                                                                                                                                                                                                           | Link                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------------------------------------------------- | ------------------------------------------------------------ | ---- | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 0 | [Constitutional AI: Harmlessness from AI Feedback](Research_Papers_Anubhav_Reads/Constitutional_AI_Harmlessness_from_AI_Feedback.md) | Pending | Generative, Large-Language-Models, Training Method | Instruction-Finetuning, Reinforcement-Learning, Unsupervised | 2022 | arXiv      | Jared Kaplan, Yuntao Ba | The paper introduces Constitutional AI, a method for training a safe AI assistant without human-labeled data on harmful outputs. It combines supervised learning and reinforcement learning phases, enabling the AI to engage with harmful queries by explaining its objections, thus improving control, transparency, and human-judged performance with minimal human oversight. | [link](https://arxiv.org/pdf/2212.08073.pdf) |
 
 
 ---
@@ -2003,6 +2401,15 @@
 |   | Paper Name                                                                                                                               | Status  | Topic                      | Category     | Year | Conference | Author                                   | Summary | Link                                     |
 | - | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------------------- | ------------ | ---- | ---------- | ---------------------------------------- | ------- | ---------------------------------------- |
 | 0 | [TransGAN: Two Transformers Can Make One Strong GAN](Research_Papers_Anubhav_Reads/TransGAN_Two_Transformers_Can_Make_One_Strong_GAN.md) | Pending | GANs, Image , Transformers | Architecture | 2021 | arXiv      | Shiyu Chang, Yifan Jiang, Zhangyang Wang |         | [link](https://arxiv.org/abs/2102.07074) |
+
+
+---
+
+## Zhen Tan
+
+|   | Paper Name                                                                                                                                 | Status    | Topic                                      | Category                 | Year | Conference | Author                      | Summary | Link                                     |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------ | ------------------------ | ---- | ---------- | --------------------------- | ------- | ---------------------------------------- |
+| 0 | [Large Language Models for Data Annotation: A Survey](Research_Papers_Anubhav_Reads/Large_Language_Models_for_Data_Annotation_A_Survey.md) | This week | Dataset, Generative, Large-Language-Models | Prompting, Tips & Tricks | 2024 | arXiv      | Alimohammad Beigi, Zhen Tan |         | [link](https://arxiv.org/abs/2402.13446) |
 
 
 ---

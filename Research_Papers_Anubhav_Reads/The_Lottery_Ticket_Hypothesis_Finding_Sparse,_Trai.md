@@ -1,19 +1,19 @@
 # The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+Status: Read
+
 Author: Jonathan Frankle, Michael Carbin
+
+Topic: NN Initialization, NNs
 
 Category: Optimization-No. of params, Tips & Tricks
 
 Conference: ICLR
 
+Year: 2019
+
 Link: https://arxiv.org/abs/1803.03635
 
-Status: Read
-
 Summary: Lottery ticket hypothesis: dense, randomly-initialized, feed-forward networks contain subnetworks (winning tickets) that—when trained in isolation— reach test accuracy comparable to the original network in a similar number of iterations.
-
-Topic: NN Initialization, NNs
-
-Year: 2019
 
 # Questions
 

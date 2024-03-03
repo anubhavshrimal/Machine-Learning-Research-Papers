@@ -1,19 +1,19 @@
 # Bag of Tricks for Image Classification with Convolutional Neural Networks
+Status: Read
+
 Author: Tong He, Zhi Zhang
+
+Topic: CV , Image 
 
 Category: Optimizations, Tips & Tricks
 
 Conference: arXiv
 
+Year: 2018
+
 Link: https://arxiv.org/abs/1812.01187
 
-Status: Read
-
 Summary: Shows a dozen tricks (mixup, label smoothing, etc.) to improve CNN accuracy and training time.
-
-Topic: CV , Image 
-
-Year: 2018
 
 # Questions
 

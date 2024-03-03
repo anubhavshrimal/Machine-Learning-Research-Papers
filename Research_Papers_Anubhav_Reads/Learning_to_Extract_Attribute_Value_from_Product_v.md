@@ -1,19 +1,19 @@
 # Learning to Extract Attribute Value from Product via Question
+Status: Read
+
 Author: Li Yang, Qifan Wang
+
+Topic: Question-Answering, Text , Transformers
 
 Category: Zero-shot-learning
 
 Conference: KDD
 
+Year: 2020
+
 Link: https://dl.acm.org/doi/pdf/10.1145/3394486.3403047
 
-Status: Read
-
 Summary: Question Answering BERT model used to extract attributes from products. Introduce further No Answer loss and distillation to promote zero shot learning.
-
-Topic: Question-Answering, Text , Transformers
-
-Year: 2020
 
 # Questions
 

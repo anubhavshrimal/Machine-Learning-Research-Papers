@@ -1,15 +1,15 @@
 # MuZero: Mastering Go, chess, shogi and Atari without rules
+Status: Pending
+
 Author: David Silver, Demis Hassabis, Ioannis Antonoglou, Julian Schrittwiese
 
 Category: Reinforcement-Learning
 
 Conference: Nature
 
-Link: https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules
-
-Status: Pending
-
 Year: 2020
+
+Link: https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules
 
 # Questions
 

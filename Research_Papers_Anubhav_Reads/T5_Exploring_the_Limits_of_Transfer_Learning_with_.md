@@ -1,17 +1,17 @@
 # T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
-Author: Colin Raffel, Noam Shazeer, Peter J. Liu, Wei Liu, Yanqi Zhou
-
-Conference: JMLR
-
-Link: https://arxiv.org/abs/1910.10683
-
 Status: Read
 
-Summary: Presents a Text-to-Text transformer model with multi-task learning capabilities, simultaneously solving problems such as machine translation, document summarization, question answering, and classification tasks.
+Author: Colin Raffel, Noam Shazeer, Peter J. Liu, Wei Liu, Yanqi Zhou
 
 Topic: Attention, Text , Transformers
 
+Conference: JMLR
+
 Year: 2020
+
+Link: https://arxiv.org/abs/1910.10683
+
+Summary: Presents a Text-to-Text transformer model with multi-task learning capabilities, simultaneously solving problems such as machine translation, document summarization, question answering, and classification tasks.
 
 # Questions
 

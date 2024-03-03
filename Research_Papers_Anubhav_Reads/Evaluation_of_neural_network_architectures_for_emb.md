@@ -1,19 +1,19 @@
 # Evaluation of neural network architectures for embedded systems
+Status: Read
+
 Author: Adam Paszke, Alfredo Canziani, Eugenio Culurciello
+
+Topic: CNNs, CV , Image 
 
 Category: Comparison
 
 Conference: IEEE ISCAS
 
+Year: 2017
+
 Link: https://ieeexplore.ieee.org/abstract/document/8050276
 
-Status: Read
-
 Summary: Compare CNN classification architectures on accuracy, memory footprint, parameters, operations count, inference time and power consumption.
-
-Topic: CNNs, CV , Image 
-
-Year: 2017
 
 # Questions
 

@@ -1,15 +1,15 @@
 # Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet
-Author: Matthias Bethge, Wieland Brendel
-
-Conference: arXiv
-
-Link: https://arxiv.org/abs/1904.00760
-
 Status: Reading
+
+Author: Matthias Bethge, Wieland Brendel
 
 Topic: CNNs, CV , Image 
 
+Conference: arXiv
+
 Year: 2019
+
+Link: https://arxiv.org/abs/1904.00760
 
 # Questions
 

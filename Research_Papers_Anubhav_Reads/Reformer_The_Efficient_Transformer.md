@@ -1,19 +1,19 @@
 # Reformer: The Efficient Transformer
+Status: Read
+
 Author: Anselm Levskaya, Lukasz Kaiser, Nikita Kitaev
+
+Topic: Attention, Text , Transformers
 
 Category: Architecture, Optimization-Memory, Optimization-No. of params
 
 Conference: arXiv
 
+Year: 2020
+
 Link: https://arxiv.org/abs/2001.04451
 
-Status: Read
-
 Summary: Overcome time and memory complexity of Transformers by bucketing Query, Keys and using Reversible residual connections.
-
-Topic: Attention, Text , Transformers
-
-Year: 2020
 
 # Questions
 

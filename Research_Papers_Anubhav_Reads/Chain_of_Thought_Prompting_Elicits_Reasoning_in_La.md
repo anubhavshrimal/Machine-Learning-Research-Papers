@@ -1,12 +1,13 @@
 # Chain of Thought Prompting Elicits Reasoning in Large Language Models
-Author: Denny Zhou, Jason Wei, Xuezhi Wang
-
-Conference: arXiv
-
-Link: https://arxiv.org/abs/2201.11903
-
 Status: Pending
+
+Author: Denny Zhou, Jason Wei, Xuezhi Wang
 
 Topic: Question-Answering, Text , Transformers
 
+Conference: arXiv
+
 Year: 2022
+
+Link: https://arxiv.org/abs/2201.11903
+

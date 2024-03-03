@@ -1,17 +1,17 @@
 # Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets
-Author: Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou
-
-Conference: CVPR
-
-Link: https://arxiv.org/abs/1611.07004
-
 Status: Read
 
-Summary: Image to image translation using Conditional GANs and dataset of image pairs from one domain to another.
+Author: Alexei A. Efros, Jun-Yan Zhu, Phillip Isola, Tinghui Zhou
 
 Topic: GANs, Image 
 
+Conference: CVPR
+
 Year: 2017
+
+Link: https://arxiv.org/abs/1611.07004
+
+Summary: Image to image translation using Conditional GANs and dataset of image pairs from one domain to another.
 
 # Questions
 

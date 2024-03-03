@@ -1,17 +1,17 @@
 # Progressive Growing of GANs for Improved Quality, Stability, and Variation
+Status: Pending
+
 Author: Jaakko Lehtinen, Samuli Laine, Tero Karras, Timo Aila
+
+Topic: GANs, Image 
 
 Category: Tips & Tricks
 
 Conference: ICLR
 
-Link: https://arxiv.org/abs/1710.10196
-
-Status: Pending
-
-Topic: GANs, Image 
-
 Year: 2018
+
+Link: https://arxiv.org/abs/1710.10196
 
 # Questions
 

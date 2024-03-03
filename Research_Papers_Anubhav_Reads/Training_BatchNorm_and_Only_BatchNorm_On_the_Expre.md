@@ -1,15 +1,15 @@
 # Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs
-Author: Ari S. Morcos, David J. Schwab, Jonathan Frankle
-
-Conference: arXiv
-
-Link: https://arxiv.org/abs/2003.00152
-
 Status: Pending
+
+Author: Ari S. Morcos, David J. Schwab, Jonathan Frankle
 
 Topic: CNNs, Image 
 
+Conference: arXiv
+
 Year: 2020
+
+Link: https://arxiv.org/abs/2003.00152
 
 # Questions
 

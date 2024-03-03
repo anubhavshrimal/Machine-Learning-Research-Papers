@@ -1,17 +1,17 @@
 # Pruning Filters for Efficient ConvNets
+Status: Pending
+
 Author: Asim Kadav, Hao Li
+
+Topic: CNNs, CV , Image 
 
 Category: Optimization-No. of params
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/1608.08710
-
-Status: Pending
-
-Topic: CNNs, CV , Image 
-
 Year: 2017
+
+Link: https://arxiv.org/abs/1608.08710
 
 # Questions
 

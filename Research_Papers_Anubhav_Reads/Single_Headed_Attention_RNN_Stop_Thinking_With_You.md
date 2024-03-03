@@ -1,17 +1,17 @@
 # Single Headed Attention RNN: Stop Thinking With Your Head
+Status: Pending
+
 Author: Stephen Merity
+
+Topic: Attention, LSTMs, Text 
 
 Category: Optimization-No. of params
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/1911.11423
-
-Status: Pending
-
-Topic: Attention, LSTMs, Text 
-
 Year: 2019
+
+Link: https://arxiv.org/abs/1911.11423
 
 # Questions
 

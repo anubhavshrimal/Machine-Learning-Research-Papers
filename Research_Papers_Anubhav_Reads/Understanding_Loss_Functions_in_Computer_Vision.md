@@ -1,17 +1,17 @@
 # Understanding Loss Functions in Computer Vision
+Status: Pending
+
 Author: Sowmya Yellapragada
+
+Topic: CV , GANs, Image , Loss Function
 
 Category: Comparison, Tips & Tricks
 
 Conference: Blog
 
-Link: https://medium.com/ml-cheat-sheet/winning-at-loss-functions-2-important-loss-functions-in-computer-vision-b2b9d293e15a
-
-Status: Pending
-
-Topic: CV , GANs, Image , Loss Function
-
 Year: 2020
+
+Link: https://medium.com/ml-cheat-sheet/winning-at-loss-functions-2-important-loss-functions-in-computer-vision-b2b9d293e15a
 
 # Questions
 

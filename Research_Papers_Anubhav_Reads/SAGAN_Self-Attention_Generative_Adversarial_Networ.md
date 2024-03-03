@@ -1,17 +1,17 @@
 # SAGAN: Self-Attention Generative Adversarial Networks
+Status: Pending
+
 Author: Augustus Odena, Dimitris Metaxas, Han Zhang, Ian Goodfellow
+
+Topic: Attention, GANs, Image 
 
 Category: Architecture
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/1805.08318
-
-Status: Pending
-
-Topic: Attention, GANs, Image 
-
 Year: 2018
+
+Link: https://arxiv.org/abs/1805.08318
 
 # Questions
 

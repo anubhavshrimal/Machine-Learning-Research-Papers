@@ -1,17 +1,17 @@
 # Spectral Normalization for GANs
+Status: Pending
+
 Author: Masanori Koyama, Takeru Miyato, Toshiki Kataoka, Yuichi Yoshida
+
+Topic: GANs, Normalization
 
 Category: Optimizations
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/1802.05957
-
-Status: Pending
-
-Topic: GANs, Normalization
-
 Year: 2018
+
+Link: https://arxiv.org/abs/1802.05957
 
 # Questions
 

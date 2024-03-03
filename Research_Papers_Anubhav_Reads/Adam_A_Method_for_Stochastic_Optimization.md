@@ -1,15 +1,15 @@
 # Adam: A Method for Stochastic Optimization
-Author: Diederik P. Kingma, Jimmy Ba
-
-Conference: ICLR
-
-Link: https://arxiv.org/abs/1412.6980
-
 Status: Pending
+
+Author: Diederik P. Kingma, Jimmy Ba
 
 Topic: NNs, Optimizers
 
+Conference: ICLR
+
 Year: 2015
+
+Link: https://arxiv.org/abs/1412.6980
 
 # Questions
 

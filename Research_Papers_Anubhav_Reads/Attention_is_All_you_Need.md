@@ -1,19 +1,19 @@
 # Attention is All you Need
+Status: Read
+
 Author: Ashish Vaswani, Illia Polosukhin, Noam Shazeer, Łukasz Kaiser
+
+Topic: Attention, Text , Transformers
 
 Category: Architecture
 
 Conference: NIPS
 
+Year: 2017
+
 Link: http://papers.nips.cc/paper/7181-attention-is-all-you-need
 
-Status: Read
-
 Summary: Talks about Transformer architecture which brings SOTA performance for different tasks in NLP
-
-Topic: Attention, Text , Transformers
-
-Year: 2017
 
 # Questions
 

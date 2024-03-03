@@ -1,15 +1,15 @@
 # DALL·E: Creating
-Author: Aditya Ramesh, Gabriel Goh, Ilya Sutskever, Mikhail Pavlov, Scott Gray
-
-Conference: Blog
-
-Link: https://openai.com/blog/dall-e/
-
 Status: Pending
+
+Author: Aditya Ramesh, Gabriel Goh, Ilya Sutskever, Mikhail Pavlov, Scott Gray
 
 Topic: Image , Text , Transformers
 
+Conference: Blog
+
 Year: 2021
+
+Link: https://openai.com/blog/dall-e/
 
 # Questions
 

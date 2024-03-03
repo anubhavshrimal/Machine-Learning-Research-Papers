@@ -1,15 +1,15 @@
 # ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning
-Author: Maarten Sap, Noah A. Smith, Ronan Le Bras, Yejin Choi
-
-Conference: AAAI
-
-Link: https://arxiv.org/pdf/1811.00146.pdf
-
 Status: Pending
+
+Author: Maarten Sap, Noah A. Smith, Ronan Le Bras, Yejin Choi
 
 Topic: AGI, Dataset, Text 
 
+Conference: AAAI
+
 Year: 2019
+
+Link: https://arxiv.org/pdf/1811.00146.pdf
 
 # Questions
 

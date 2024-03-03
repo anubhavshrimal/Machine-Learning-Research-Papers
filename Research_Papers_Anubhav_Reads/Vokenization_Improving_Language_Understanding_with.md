@@ -1,17 +1,17 @@
 # Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision
+Status: This week
+
 Author: Hao Tan, Mohit Bansal
+
+Topic: Image , Text , Transformers
 
 Category: Multimodal
 
 Conference: EMNLP
 
-Link: https://arxiv.org/abs/2010.06775
-
-Status: This week
-
-Topic: Image , Text , Transformers
-
 Year: 2020
+
+Link: https://arxiv.org/abs/2010.06775
 
 # Questions
 

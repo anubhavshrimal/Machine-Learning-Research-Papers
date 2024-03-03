@@ -1,19 +1,19 @@
 # Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask
+Status: Read
+
 Author: Hattie Zhou, Janice Lan, Jason Yosinski, Rosanne Liu
+
+Topic: NN Initialization, NNs
 
 Category: Comparison, Optimization-No. of params, Tips & Tricks
 
 Conference: NeurIPS
 
+Year: 2019
+
 Link: https://arxiv.org/abs/1905.01067
 
-Status: Read
-
 Summary: Follow up on Lottery Ticket Hypothesis exploring the effects of different Masking criteria as well as Mask-1 and Mask-0 actions.
-
-Topic: NN Initialization, NNs
-
-Year: 2019
 
 # Questions
 

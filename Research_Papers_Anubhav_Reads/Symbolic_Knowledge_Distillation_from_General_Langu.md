@@ -1,17 +1,17 @@
 # Symbolic Knowledge Distillation: from General Language Models to Commonsense Models
+Status: Pending
+
 Author: Chandra Bhagavatula, Jack Hessel, Peter West, Yejin Choi
+
+Topic: Dataset, Text , Transformers
 
 Category: Optimizations, Tips & Tricks
 
 Conference: arXiv
 
-Link: https://arxiv.org/abs/2110.07178
-
-Status: Pending
-
-Topic: Dataset, Text , Transformers
-
 Year: 2021
+
+Link: https://arxiv.org/abs/2110.07178
 
 # Questions
 

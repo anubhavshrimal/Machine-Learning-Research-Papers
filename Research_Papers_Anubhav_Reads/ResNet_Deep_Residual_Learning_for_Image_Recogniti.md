@@ -1,19 +1,19 @@
 # ResNet (Deep Residual Learning for Image Recognition)
+Status: Read
+
 Author: Kaiming He, Xiangyu Zhang
+
+Topic: CNNs, CV , Image 
 
 Category: Architecture
 
 Conference: CVPR
 
+Year: 2016
+
 Link: https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html
 
-Status: Read
-
 Summary: Introduces Residual or Skip Connections to allow increase in the depth of a DNN
-
-Topic: CNNs, CV , Image 
-
-Year: 2016
 
 # Questions
 
